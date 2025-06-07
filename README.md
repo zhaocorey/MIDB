@@ -4,10 +4,6 @@
     <img src="assets/MIDB_Performace.jpg" width="400"/>
 <p>
 
-<p align="center">
-         &nbsp&nbsp 📄<a href="https://arxiv.org/abs/2505.17671">Arxiv</a>&nbsp&nbsp 
-</p>
-
 # MIDB (Multilingual Instruction Data Booster): An effective method for enhancing multilingual instruction datasets
 
 ## Introduction
