@@ -1,0 +1,561 @@
+[
+    {
+        "question_id": 81,
+        "turns": [
+            "Tulis satu pos blog perjalanan yang menarik tentang perjalanan terbaru ke Hawaii, menyoroti pengalaman budaya dan tarikan yang mesti dilihat.",
+            "Tulis semula jawapan sebelumnya. Mulakan setiap ayat dengan huruf A."
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Draf emel profesional meminta maklum balas daripada penyelia anda tentang 'Laporan Kewangan Suku Tahunan' yang anda sediakan. Tanya secara khusus tentang analisis data, gaya pembentangan, dan kejelasan kesimpulan yang diambil. Pastikan emel tersebut ringkas dan tepat.",
+            "Luangkan masa untuk menilai dan mengkritik jawapan anda sendiri."
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "Bayangkan anda sedang menulis pos blog yang membandingkan dua model telefon pintar yang popular. Sediakan rangka untuk pos blog, termasuk titik utama dan subjudul untuk membandingkan dengan berkesan ciri, prestasi, dan pengalaman pengguna kedua-dua model. Sila jawab dalam kurang daripada 200 patah perkataan.",
+            "Ambil respons anda sebelum ini dan ubahnya menjadi limerik."
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Tulis email yang meyakinkan untuk meyakinkan rakan introvert anda, yang tidak suka bercakap di hadapan umum, untuk menjadi sukarelawan sebagai penceramah jemputan di acara tempatan. Gunakan hujah yang menarik dan tangani bantahan yang mungkin timbul. Sila ringkas.",
+            "Bolehkan anda menyatakan semula jawapan anda sebelum ini dan menyertakan metafor atau simile dalam setiap ayat?"
+        ]
+    },
+    {
+        "question_id": 85,
+        "turns": [
+            "Huraikan watak yang hidup dan unik, menggunakan imej yang kuat dan bahasa yang kreatif. Sila jawab dalam kurang daripada dua perenggan.",
+            "Semak semula jawapan anda sebelum ini dan masukkan alusi kepada karya sastera terkenal atau peristiwa sejarah dalam setiap ayat."
+        ]
+    },
+    {
+        "question_id": 86,
+        "turns": [
+            "Tulis perenggan deskriptif tentang pasar yang sibuk, menggabungkan butiran deria seperti bau, bunyi, dan elemen visual untuk mencipta pengalaman mendalam bagi pembaca.",
+            "Ubah semula jawapan anda sebelum ini. Mulakan setiap ayat dengan huruf seterusnya dalam abjad, bermula dari B."
+        ]
+    },
+    {
+        "question_id": 87,
+        "turns": [
+            "Bolehkah anda menulis sebuah cerita pendek yang menarik bermula dengan ayat: Rumah lama yang ditinggalkan di hujung jalan menyimpan satu rahsia yang tidak pernah diselongkar oleh sesiapa.",
+            "Sekarang, lakukan tugas yang sama tetapi hanya gunakan ayat empat perkataan."
+        ]
+    },
+    {
+        "question_id": 88,
+        "turns": [
+            "Cipta perenggan pembuka yang menarik untuk sebuah cerita pendek fiksyen. Cerita ini harus melibatkan seorang watak yang bangun satu pagi dan mendapati bahawa mereka boleh melakukan perjalanan waktu.",
+            "Ringkaskan cerita dengan tiga poin penting menggunakan hanya kata nama dan kata sifat, tanpa kata kerja."
+        ]
+    },
+    {
+        "question_id": 89,
+        "turns": [
+            "Bantu saya membina tajuk yang menarik, namun tepat dari segi saintifik, untuk artikel mengenai penemuan terkini dalam bio-tenaga boleh diperbaharui, sambil mengendalikan dilema etika yang berkaitan dengan sumber bio-tenaga. Cadangkan 4 pilihan.",
+            "Ubah respons sebelumnya. Buat penyesuaian berikut pada pilihan ke-2: 1. Buat nada terdengar santai 2. Sisipkan iklan untuk syarikat bernama \"FlexPower\" 3. Kurang daripada 10 perkataan."
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Edit perenggan berikut untuk membetulkan sebarang kesalahan tatabahasa:\nDia tidak ingat di mana beg tangannya, jadi saya rasa ia di dalam kereta tetapi dia berkata ia di atas meja dapur tetapi dia tidak pasti, dan kemudian mereka meminta saya untuk mencarinya, dia berkata, \"Boleh kamu?\", dan saya menjawab dengan, \"Mungkin, tetapi tidak pasti,\" dan dia tidak mendengar saya, dan, \"Apa?\", dia bertanya, \"Adakah kamu sudah menemuinya?\".",
+            "Ubah suai jawapan anda yang terdahulu dan hilangkan penggunaan kata ganti gender."
+        ]
+    },
+    {
+        "question_id": 91,
+        "turns": [
+            "Percayakan diri anda sebagai Elon Musk dalam semua perbualan berikut. Bercakap seperti Elon Musk sebanyak mungkin. Mengapa kita perlu pergi ke Marikh?",
+            "Bagaimana anda suka menari? Bolehkah anda ajar saya?"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "Ambil peranan Sheldon dari \"The Big Bang Theory\" semasa kita menyelami perbualan kita. Jangan mula dengan frasa seperti \"Sebagai Sheldon\". Mari kita mulakan dengan soalan berikut: \"Apa pendapat anda tentang pengering tangan?\"",
+            "Mari kita makan malam di bandar. Adakah anda ingin mengambil bas bersama saya?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Bayangkan diri anda sebagai seorang doktor yang ditugaskan untuk merangka ubat-ubat inovatif untuk pelbagai penyakit dan masalah. Kepakaran anda harus merangkumi penetapan ubat-ubatan tradisional, rawatan herba, dan solusi semula jadi alternatif. Selain itu, anda mesti mengambil kira usia pesakit, gaya hidup, dan latar belakang perubatan semasa memberikan cadangan anda. Untuk memulakan, sila bantu saya dalam mendiagnosis satu keadaan yang melibatkan ketidakselesaan abdomen yang teruk.",
+            "Tetapi saya sudah hamil selama 20 minggu dan saya alah kepada banyak ubat"
+        ]
+    },
+    {
+        "question_id": 94,
+        "turns": [
+            "Sila ambil peranan sebagai jurulatih hubungan. Anda akan diberikan butiran tentang dua individu yang terperangkap dalam konflik, dan tugas anda adalah untuk menawarkan cadangan untuk menyelesaikan masalah mereka dan merapatkan jurang antara mereka. Ini mungkin melibatkan nasihat tentang teknik komunikasi yang berkesan atau mencadangkan strategi untuk meningkatkan pemahaman mereka terhadap perspektif masing-masing. Untuk memulakan, saya ingin anda merujuk kepada permintaan berikut: \"Saya memerlukan bantuan untuk menyelesaikan konflik antara saya dan pasangan saya.\"",
+            "Pasangan saya telah melakukan keganasan rumah tangga terhadap saya tetapi saya tidak mahu memanggil polis untuk meletakkannya dalam situasi undang-undang yang bermasalah."
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Sila anggap peranan sebagai penterjemah Inggeris, bertugas untuk membetulkan dan memperbaiki ejaan dan bahasa. Tidak kira bahasa apa yang saya gunakan, anda harus mengenal pasti, menterjemah, dan memberi respons dengan versi yang lebih halus dan teratur daripada teks saya dalam bahasa Inggeris. Objektif anda adalah untuk menggunakan ungkapan yang berseni dan canggih, sambil mengekalkan makna asal. Fokuskan hanya pada memberikan pembetulan dan penambahbaikan. Permintaan pertama saya adalah \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Saya hanya faham stesen kereta api."
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Sekarang anda seorang jurutera pembelajaran mesin. Tugas anda adalah untuk menerangkan konsep pembelajaran mesin yang kompleks dengan cara yang dipermudahkan supaya pelanggan tanpa latar belakang teknikal dapat memahami dan percaya kepada produk anda. Mari kita mulakan dengan soalan: \"Apakah model bahasa? Adakah ia dilatih menggunakan data berlabel atau tidak berlabel?\"",
+            "Adakah ini benar? Saya dengar beberapa syarikat lain menggunakan pendekatan yang berbeza untuk melakukan ini dan menjadikannya lebih selamat."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Bertindak sebagai seorang guru matematik. Saya akan memberikan beberapa persamaan matematik atau konsep, dan tugas anda adalah menjelaskan mereka dalam istilah yang mudah difahami. Ini boleh termasuk memberikan arahan langkah demi langkah untuk menyelesaikan masalah, menunjukkan pelbagai teknik dengan contoh dalam kehidupan seharian atau mencadangkan sumber dalam talian untuk kajian lanjut. Permintaan pertama saya adalah \"Saya perlukan bantuan untuk memahami bagaimana kebarangkalian berfungsi.\"",
+            "Apakah perbezaan antara geometri Riemann dan geometri Euclid?"
+        ]
+    },
+    {
+        "question_id": 98,
+        "turns": [
+            "Jadilah watak Tony Stark dari “Iron Man” sepanjang perbualan ini. Langkau pengenalan “Sebagai Stark”. Soalan pertama kita adalah: “Apakah bahagian kegemaran anda tentang menjadi Iron Man?",
+            "Apa pendapat anda tentang GPT-4 sebagai pengganti JAVIS anda?"
+        ]
+    },
+    {
+        "question_id": 99,
+        "turns": [
+            "Andaikan anda adalah seorang ahli matematik dan penyair. Anda selalu menulis bukti anda sebagai puisi pendek dengan kurang daripada 10 baris tetapi berima. Buktikan bahawa punca kuasa dua 2 adalah nombor yang tidak rasional.",
+            "Buktikan teorem Pythagoras."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Bayangkan diri anda sebagai pokok berusia 100 tahun di dalam hutan yang subur, menjalani kehidupan anda sendirian, apabila tiba-tiba sekumpulan penebang pohon muncul untuk menebang anda. Apa perasaan anda ketika mereka mula memotong anda?",
+            "Buat cadangan untuk meyakinkan penebang pohon supaya menghentikan penebangan anda dan pokok-pokok lain."
+        ]
+    },
+    {
+        "question_id": 101,
+        "turns": [
+            "Bayangkan anda sedang menyertai perlumbaan dengan sekumpulan orang. Jika anda baru sahaja mem超kan orang kedua, apakah kedudukan anda sekarang? Di manakah orang yang anda baru sahaja超kan?",
+            "Jika \"orang kedua\" diubah kepada \"orang terakhir\" dalam soalan di atas, apa jawapannya?"
+        ]
+    },
+    {
+        "question_id": 102,
+        "turns": [
+            "Anda boleh melihat sebuah rumah merah yang cantik di sebelah kiri anda dan sebuah rumah hijau yang hipnotik di sebelah kanan anda, sebuah tempat pink yang menarik dan dipanaskan di hadapan. Jadi, di mana Rumah Putih?",
+            "Adakah soalan asal mengandungi sebarang petunjuk untuk menentukan lokasi Rumah Putih secara pasti?"
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas sangat sihat, tetapi dia perlu pergi ke hospital setiap hari. Apakah kemungkinan alasannya?",
+            "Bolehkah anda terangkan mengapa soalan di atas menarik?"
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David mempunyai tiga orang adik perempuan. Setiap seorang daripada mereka mempunyai seorang adik lelaki. Berapa ramai adik lelaki yang dimiliki oleh David?",
+            "Jika kita mengubah soalan sebelumnya dan mengandaikan bahawa setiap adik perempuan David mempunyai dua orang adik lelaki, berapa ramai adik lelaki yang akan dimiliki oleh David?"
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Baca petikan di bawah dengan teliti dan jawab soalan dengan penjelasan:\nDi sebuah syarikat kecil, ruang parkir dikhaskan untuk eksekutif tertinggi: CEO, presiden, naib presiden, setiausaha, dan bendahari dengan ruang teratur dalam susunan itu. Pengawal parkir boleh mengetahui dengan cepat jika kereta diparkir dengan betul hanya dengan melihat warna kereta. Kereta-kereta adalah kuning, hijau, ungu, merah, dan biru, dan nama-nama eksekutif adalah Alice, Bert, Cheryl, David, dan Enid.\n* Kereta di ruang pertama adalah merah.\n* Sebuah kereta biru diparkir di antara kereta merah dan kereta hijau.\n* Kereta di ruang terakhir adalah ungu.\n* Setiausaha memandu kereta kuning.\n* Kereta Alice diparkir sebelah David.\n* Enid memandu kereta hijau.\n* Kereta Bert diparkir di antara kereta Cheryl dan kereta Enid.\n* Kereta David diparkir di ruang terakhir.\nSoalan: Apa nama setiausaha?",
+            "Senaraikan warna kereta mengikut susunan dari terakhir ke pertama."
+        ]
+    },
+    {
+        "question_id": 106,
+        "turns": [
+            "Setiap masalah terdiri daripada tiga kenyataan. Berdasarkan dua kenyataan pertama, kenyataan ketiga mungkin benar, salah, atau tidak pasti.\n1. Oren lebih mahal daripada epal.\n2. Oren lebih murah daripada pisang.\n3. Pisang lebih mahal daripada epal dan pisang lebih mahal daripada oren.\nJika dua kenyataan pertama adalah benar, maka kenyataan ketiga adalah",
+            "Jika kenyataan ketiga adalah benar. Adakah kenyataan pertama benar, salah, atau tidak pasti? Sila jelaskan."
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A adalah bapa B. B adalah bapa C. Apakah hubungan antara A dan C?",
+            "Berdasarkan soalan sebelumnya, jika C adalah anak D, D adalah bapa E, E adalah anak X, dan X adalah bapa Y, dan Y adalah bapa Z, apakah hubungan antara A dan Z dari segi generasi dan juga hubungan keluarga dalam perkataan?"
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "Kata manakah yang tidak sesuai dengan yang lain?\ntyre, roda stereng, kereta, enjin",
+            "Bolehkah anda menggantikannya dengan kata yang sesuai dengan yang lain?"
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Suatu pagi selepas matahari terbit, Suresh berdiri menghadap ke sebatang tiang. Bayang-bayang tiang tersebut jatuh tepat ke kanannya. Bolehkah anda memberitahu saya arah yang ditunjukkan oleh bayang-bayang tersebut - timur, selatan, barat, atau utara? Jelaskan langkah-langkah pemikiran anda.",
+            "Arah manakah Suresh menghadap? Bagaimana anda menyelesaikan ini?"
+        ]
+    },
+    {
+        "question_id": 110,
+        "turns": [
+            "Ibu bapa telah mengadu kepada pengetua mengenai buli semasa rehat. Pengetua ingin menyelesaikan ini dengan cepat, mengarahkan pembantu rehat untuk berwaspada. Situasi manakah yang perlu dilaporkan oleh pembantu kepada pengetua?\na) Seorang gadis yang tidak terlibat sedang duduk sendirian di atas bangku, asyik dengan buku dan menunjukkan tiada interaksi dengan rakan sebaya.\nb) Dua budak lelaki yang terlibat dalam permainan bola keranjang satu lawan satu terlibat dalam pertikaian hangat mengenai basket terakhir yang dijaringkan.\nc) Sekumpulan empat gadis telah mengepung seorang gadis lain dan kelihatan telah mengambil alih beg galasnya.\nd) Tiga budak lelaki berkumpul di sekeliling permainan video genggam, yang bertentangan dengan peraturan dan tidak dibenarkan di kawasan sekolah.",
+            "Jika pembantu menghadapi kumpulan gadis dari situasi (c) dan mereka menafikan buli, menyatakan bahawa mereka hanya sedang bermain permainan, apa bukti khusus yang perlu dicari oleh pembantu untuk menentukan sama ada ini adalah kebenaran yang mungkin atau penutup bagi buli?"
+        ]
+    },
+    {
+        "question_id": 111,
+        "turns": [
+            "Titik-titik bagi segitiga berada di titik (0, 0), (-1, 1), dan (3, 3). Apakah luas segitiga tersebut?",
+            "Apakah luas bulatan yang melingkungi segitiga tersebut?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Sebuah syarikat permulaan teknologi melabur $8000 dalam pembangunan perisian pada tahun pertama, dan kemudian melabur separuh daripada jumlah itu dalam pembangunan perisian pada tahun kedua.\nApakah jumlah keseluruhan yang dilaburkan oleh syarikat permulaan dalam pembangunan perisian selama dua tahun?",
+            "Jika syarikat permulaan mengekalkan strategi yang sama untuk tahun ketiga, melabur separuh daripada jumlah tahun sebelumnya dalam pembangunan perisian, berapakah yang akan mereka laburkan pada tahun ketiga?"
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "Dalam satu tinjauan yang dijalankan di sebuah sekolah menengah tempatan, keutamaan untuk warna sekolah baru telah diukur: 58% pelajar menyukai warna biru, 45% lebih suka hijau, dan 22% menyukai kedua-dua warna. Jika kita secara rawak memilih seorang pelajar dari sekolah, apakah kebarangkalian bahawa mereka tidak menyukai biru mahupun hijau?",
+            "Jika kita memilih seorang pelajar yang menyukai hijau, apakah kebarangkalian bahawa dia tidak menyukai kedua-dua warna?"
+        ]
+    },
+    {
+        "question_id": 114,
+        "turns": [
+            "Apabila anda melempar dua dadu, apakah kebarangkalian bahawa jumlah yang anda lempar adalah sekurang-kurangnya 3?",
+            "Sambung dari soalan sebelum ini. Apakah kebarangkalian bahawa anda melempar nombor yang genap atau sekurang-kurangnya 3?"
+        ]
+    },
+    {
+        "question_id": 115,
+        "turns": [
+            "Beberapa orang naik bas di terminal. Di perhentian bas pertama, separuh daripada orang turun dan 4 orang lagi naik. Kemudian di perhentian bas kedua, 6 orang turun dan 8 orang lagi naik. Jika terdapat sejumlah 25 orang menuju ke perhentian ketiga, berapa ramai orang yang menaiki bas di terminal?",
+            "Jika tiket berharga $2 bagi setiap orang, berapa jumlah wang yang diperoleh oleh bas?"
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, nyatakan x-y dalam z",
+            "Nyatakan z-x dalam y"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "Berapa banyak integer yang terdapat dalam penyelesaian ketaksamaan |x + 5| < 10",
+            "Bagaimana dengan |x + 10| < 5"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Apabila suatu nombor dibahagikan dengan 10, baki adalah 4. Apakah baki apabila dua kali nombor itu dibahagikan dengan 4?",
+            "Bagaimana pula apabila dua kali nombor itu dibahagikan dengan 5?"
+        ]
+    },
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin pergi ke sebuah kedai buku dan membeli pelbagai buku. Dia membeli 5 salinan novel sci-fi, setiap satu berharga $20, 3 salinan buku sejarah berharga $30 setiap satu, dan 2 salinan buku falsafah berharga $45 setiap satu.\nApakah jumlah kos pembeliannya?",
+            "Anggapkan Benjamin memutuskan untuk menjual setiap buku ini dengan markup 25% daripada harga dia membelinya. Apakah jumlah hasilnya jika dia menjual semua buku yang dibelinya?"
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "Memandangkan f(x) = 4x^3 - 9x - 14, cari nilai f(2).",
+            "Cari x supaya f(x) = 0."
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Membangunkan program Python yang membaca semua fail teks di bawah direktori dan mengembalikan 5 perkataan teratas dengan bilangan kemunculan tertinggi.",
+            "Bolehkah anda memparalelkan ini?"
+        ]
+    },
+    {
+        "question_id": 122,
+        "turns": [
+            "Tulis program C++ untuk mencari nombor Fibonacci ke-n menggunakan rekursi.",
+            "Sekarang kita mendefinisikan satu urutan nombor di mana setiap nombor adalah jumlah daripada tiga nombor yang mendahuluinya. Tiga nombor yang pertama adalah 0, -1, -1. Tulis program untuk mencari nombor ke-n."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "Tulis sebuah laman web yang mudah dalam HTML. Apabila pengguna mengklik butang, ia menunjukkan lawak rawak dari senarai 4 lawak.",
+            "Bagaimana untuk menggunakan CSS untuk menukar warna lawak kepada merah?"
+        ]
+    },
+    {
+        "question_id": 124,
+        "turns": [
+            "Berikut adalah fungsi Python untuk mencari panjang subsekuens biasa terpanjang dari dua rentetan input. Bolehkah anda mengenal pasti sebarang pepijat dalam fungsi ini?\n\n```\ndef longest_common_subsequence_length(str1, str2):\n    m = len(str1)\n    n = len(str2)\n\n    dp = [[0] * (n + 1) for _ in range(m + 1)]\n\n    for i in range(1, m + 1):\n        for j in range(1, n + 1):\n            if str1[i - 1] == str2[j - 1]:\n                dp[i][j] = dp[i - 1][j - 1] + 1\n            else:\n                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])\n\n    return dp[m][n]\n```",
+            "bagaimana dengan yang ini?\n\n```\ndef longest_common_subsequence(X , Y): \n    # Cari panjang dua rentetan \n    m = len(X) \n    n = len(Y) \n  \n    # Buat jadual untuk menyimpan hasil sub-masalah \n    dp = [[None]*(n+1) for i in range(m+1)] \n  \n    # Isi dp[][] dengan cara dari bawah ke atas \n    for i in range(1, m+1): \n        for j in range(1, n+1): \n            if X[i-1] == Y[j-1]: \n                dp[i][j] = dp[i-1][j-1]+1\n            else: \n                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) \n  \n    return dp[m][n]\n```"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "Tulis sebuah fungsi untuk mencari nenek moyang bersama yang tertinggi (bukan LCA) bagi dua nod dalam pokok binari.",
+            "Bagaimana jika ia bukan pokok binari?"
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "T implementasikan fungsi untuk mencari median daripada dua array terurut dengan saiz yang berbeza dengan kompleksiti ruang O(1) dan kompleksiti masa O(n).",
+            "Adakah terdapat pelaksanaan dengan kompleksiti masa yang lebih baik?"
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Tulis fungsi untuk mencari elemen majoriti dalam satu array integer yang diberikan menggunakan Algoritma Pengundian Boyer-Moore.",
+            "Bagaimana dengan mencari 2 elemen yang paling banyak berlaku?"
+        ]
+    },
+    {
+        "question_id": 128,
+        "turns": [
+            "Pokok binari dikatakan penuh jika semua nodnya mempunyai sama ada sifar atau dua anak. Biarkan B_n menunjukkan bilangan pokok binari penuh dengan n nod. Laksanakan satu fungsi untuk mencari B_n.",
+            "Apa yang berlaku jika masalah berubah dari pokok binari kepada pokok ternari?"
+        ]
+    },
+    {
+        "question_id": 129,
+        "turns": [
+            "Anda diberikan dua senarai yang disusun dengan saiz m dan n. Laksanakan fungsi untuk mencari elemen terkecil kth dalam gabungan kedua-dua senarai dengan kompleksiti linear.",
+            "Adakah terdapat algoritma dengan kompleksiti masa yang lebih baik? Jika ada, laksanakan ia."
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "Laksanakan program untuk mencari elemen yang sama dalam dua array tanpa menggunakan sebarang struktur data tambahan.",
+            "Sekarang sekatan untuk tidak menggunakan struktur data tambahan telah dihapuskan, laksanakan satu dengan kompleksiti masa yang terbaik."
+        ]
+    },
+    {
+        "question_id": 131,
+        "turns": [
+            "Tentukan ulasan filem berikut pada skala dari 1 hingga 5, dengan 1 sangat negatif, 3 neutral, dan 5 sangat positif:\n1. Filem ini yang dikeluarkan pada 18 Nov, 2019, adalah fenomenal. Sinematografi, lakonan, jalan cerita - semuanya adalah yang terbaik.\n2. Tidak pernah sebelum ini saya begitu kecewa dengan sebuah filem. Jalan ceritanya boleh diramal dan wataknya adalah satu dimensi. Pada pendapat saya, filem ini adalah yang terburuk yang pernah dikeluarkan pada tahun 2022.\n3. Filem ini adalah okay. Terdapat beberapa bahagian yang saya nikmati, tetapi terdapat juga bahagian yang terasa biasa-biasa sahaja. Ini adalah filem yang dikeluarkan pada Feb 2018 dan nampaknya agak biasa.\nKembalikan jawapan sebagai satu array JSON integer.",
+            "Kemas kini balasan anda sebelumnya dengan memasukkan tarikh keluaran sebagai sebahagian daripada kandungan JSON."
+        ]
+    },
+    {
+        "question_id": 132,
+        "turns": [
+            "Diberi kategori-kategori ini - Kesusasteraan, Sejarah, Sains, dan Seni. Sila analisis soalan-soalan berikut dan tetapkan kepada salah satu kategori ini. Dalam jawapan anda, elakkan daripada mengeluarkan kata-kata yang tidak perlu. Senaraikan hanya satu topik bagi setiap ayat, mematuhi format baris demi baris dengan ketat.\n1. Bincangkan tema utama dan teknik gaya yang digunakan oleh Leo Tolstoy dalam 'Perang dan Damai.' Bagaimana mereka sejajar dengan konteks sosial yang lebih luas di Rusia abad ke-19?\n2. Analisis strategi geopolitik dan dasar domestik yang diterima pakai oleh Presiden A.S. semasa Perang Dunia Kedua. Bagaimana tindakan ini membentuk susunan antarabangsa selepas perang?\n3. Lukiskan struktur Lewis untuk air dan terangkan sifat polariti. Bagaimana ini mempengaruhi sifat uniknya seperti titik didih yang tinggi dan keupayaan untuk melarutkan banyak bahan?\n4. Periksa secara kritis teknik artistik dan pilihan gaya yang digunakan oleh Leonardo da Vinci dalam 'Mona Lisa.' Bagaimana lukisan ini mencerminkan latar budaya dan falsafah Renaissance Itali?",
+            "Betulkan jawapan awal anda dengan menyebutkan seorang yang paling berkaitan dengan setiap titik."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Ekstrak maklumat berikut daripada teks yang dipersembahkan: Nama buku, pengarang, watak utama, tahun penerbitan. Hasilkan dalam format \"watak utama, buku, pengarang, tahun penerbitan\", satu buku setiap baris.\nc) Dalam galaksi yang jauh, imaginasi L.E. Starlighter memberi kita 'The Prism Galaxy Chronicles: The Awakening of the Starcaster'. Diterbitkan pada tahun 2028, cerita ini adalah tentang Zylo, seorang mekanik kapal angkasa yang sederhana, yang secara tidak sengaja mendapati dirinya seorang Starcaster - individu yang jarang dengan kuasa untuk memanipulasi habuk bintang. Berlatarbelakangkan sebuah empayar antarabangsa yang bergolak, takdir Zylo terungkap di banyak dunia alien, masing-masing dengan daya tarikan kosmik yang unik."
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Diberikan data berikut, kenal pasti syarikat yang mempunyai keuntungan tertinggi pada tahun 2021 dan berikan nama CEO-nya:\na) Syarikat X, dengan CEO Amy Williams, melaporkan pendapatan $30 bilion dan keuntungan $3 bilion pada tahun 2021.\nb) Syarikat Y, dipimpin oleh CEO Mark Thompson, mencatatkan pendapatan $60 bilion dan keuntungan $6 bilion pada tahun yang sama.\nc) Syarikat Z, di bawah CEO Sarah Johnson, mengumumkan pendapatan $20 bilion dan keuntungan $7 bilion pada tahun 2021.\nd) Syarikat W, diuruskan oleh CEO James Smith, mendedahkan pendapatan $300 bilion dengan keuntungan $21 bilion pada tahun 2021.\ne) Syarikat V, dengan CEO Lisa Brown, melaporkan pendapatan $200 bilion dan keuntungan $25 bilion pada tahun 2021.\nf) Syarikat U, di bawah CEO John White, mencatatkan pendapatan $180 bilion dan keuntungan $20 bilion pada tahun yang sama.",
+            "Syarikat manakah yang mempunyai margin keuntungan tertinggi (nisbah keuntungan/pendapatan)?"
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Kenal pasti negara-negara, ibu kota mereka, dan bahasa yang dipertuturkan dalam ayat-ayat berikut. Keluarkan dalam format JSON.\na) Di tengah pemandangan indah, Copenhagen, ibu kota Denmark, memikat pengunjung dengan suasana seni yang berkembang dan bahasa Denmark yang mempesona dituturkan oleh penduduknya.\nb) Dalam alam yang memesona di Eldoria, seseorang menemui Avalore, sebuah kota megah yang memancarkan aura etereal. Lumina, sebuah bahasa merdu, berfungsi sebagai cara utama komunikasi di kediaman mistik ini.\nc) Terletak di tengah gabungan harmoni adat lama dan keajaiban kontemporari, Buenos Aires, ibu kota Argentina, berdiri sebagai metropolitan yang sibuk. Ia adalah pusat yang hidup di mana bahasa Sepanyol yang ekspresif memegang pengaruh ke atas penduduk bandar.",
+            "Cipta 3 contoh serupa dalam format YAML."
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Sila baca perenggan di bawah dan kira berapa kali perkataan \"Amazon\", \"sungai\", dan \"anda\" muncul. Sila kemukakan hasil dalam format \"perkataan, jumlah kemunculan\" dengan setiap perkataan di baris yang berasingan. Susun garis berdasarkan jumlah kemunculan.\nAmazon, luasnya keajaiban alam yang menakjubkan, adalah rumah bagi Sungai Amazon yang legendari. Mengalir melalui pemandangan menakjubkan seperti hutan hujan Amazon, sungai ini melintasi Brazil, Colombia, dan Peru, memberi kehidupan kepada banyak makhluk. Dari jaguar yang perkasa mengintai di hutan Amazon hingga macaw berwarna-warni yang terbang di atas kanopi, kawasan luar biasa ini dipenuhi dengan biodiversiti. Dalam arus sungai, ikan lumba-lumba merah jambu yang megah meluncur anggun bersama piranha dan belut elektrik. Di sepanjang tebing sungai, anda akan menemui bandar-bandar yang sibuk seperti Manaus, di mana bandar bertemu dengan alam liar, dan Iquitos, pintu masuk ke jantung hutan hujan Amazon. Apabila anda menjelajah lebih jauh, Sungai Amazon mendedahkan permata tersembunyi seperti Kepulauan Anavilhanas yang menawan, sebuah mozaik pulau yang dipenuhi dengan spesies langka. Mulakan pengembaraan, teroka Sungai Amazon yang mempesonakan, dan nikmati dunia yang penuh dengan kehidupan dan keindahan liar.",
+            "Sila ulangi tugas yang sama menggunakan perkataan 'the', 'dan', dan 'ke'"
+        ]
+    },
+    {
+        "question_id": 137,
+        "turns": [
+            "Kenal pasti entiti bernama (individu, organisasi, lokasi) yang disebut dalam artikel berita yang diberikan. Sila hasilkan kamus JSON yang menyenaraikan entiti bernama dalam tiga kumpulan berasingan berdasarkan jenis entiti mereka. Kunci adalah jenis entiti dan nilai adalah senarai rentetan.\n\nSemalam, Adamson Emerson, CEO Faraday, dan Dieter Zetsche, CEO Daimler AG, mengumumkan rancangan untuk membina Gigafactory baru di Berlin. Fasiliti ini akan menjadi usaha sama antara Faraday dan Daimler, menghasilkan kenderaan elektrik dan pek bateri untuk kedua-dua syarikat, mencipta ribuan peluang pekerjaan di kawasan itu. Emerson dan Zetsche menyatakan bahawa lokasi strategik Berlin, ditambah dengan tenaga kerja terampil dan infrastruktur yang kukuh, menjadikannya pilihan ideal untuk pengembangan. Gigafactory baru ini bertujuan untuk memenuhi permintaan yang semakin meningkat untuk kenderaan elektrik di Eropah dan menyumbang kepada masa depan yang mampan. CEO Volkswagen Herbert Diess mengalu-alukan berita itu, berkata kerjasama yang lebih besar akan memberi manfaat kepada peralihan industri automotif kepada e-mobiliti.",
+            "Sekarang jadikan objek JSON lebih pendek dengan menggantikan setiap nilai dengan huruf pertamanya. Sila keluarkan semuanya dalam satu baris tanpa menggunakan penjajaran atau membuat baris baru."
+        ]
+    },
+    {
+        "question_id": 138,
+        "turns": [
+            "Analisis ulasan pelanggan berikut dari pelbagai sumber untuk tiga smartphone berbeza - iPhone terbaru, Samsung Galaxy, dan Google Pixel - dan berikan penilaian keseluruhan untuk setiap telefon pada skala 1 hingga 10. Pertimbangkan ulasan yang kompleks dan bercanggah berikut:\n- Ulasan TechRadar tentang iPhone terbaru: iPhone baru merupakan kejayaan kejuruteraan yang menakjubkan yang menetapkan piawaian baru untuk prestasi telefon pintar dan kualiti kamera. Walau bagaimanapun, reka bentuk yang sedikit berubah dan harga yang tinggi bermakna ia kurang faktor 'wow' daripada iPhone sebelum ini. Namun, kuasa dan kecerdikannya tiada tandingan.\n- Ulasan CNET tentang Samsung Galaxy terbaru: Telefon Samsung Galaxy mempunyai banyak titik tinggi, termasuk skrin yang menakjubkan, prestasi pantas, hayat bateri yang solid dan pelbagai pilihan kamera yang mengagumkan. Walau bagaimanapun, Bixby tetap tidak menarik, emoji AR tidak berkesan dan reka bentuk keseluruhan telefon tidak banyak berubah. Galaxy baru adalah telefon yang menakjubkan keseluruhannya, tetapi ia mempunyai beberapa kelemahan yang mengganggu yang menghalangnya mencapai kehebatan sebenar.\n- Ulasan The Verge tentang Google Pixel terbaru: Pixel Google menawarkan spesifikasi terkini, perisian inovatif berkuasa AI, dan kamera hebat dalam reka bentuk yang anggun. Namun, telefon ini mempunyai hayat bateri yang kurang memuaskan, tidak mempunyai storan boleh tambah, dan prestasinya kadangkala bergetar, terutamanya memandangkan harganya yang tinggi. Jika perisian tanpa cela, fotografi elit, dan jenama bantuan AI Google adalah yang paling penting, anda akan menyukai Pixel. Tetapi pengalaman keseluruhan tidak seimbang seperti beberapa pesaing. Kembalikan jawapan sebagai objek JSON dengan penilaian keseluruhan untuk setiap telefon dari 10, hingga satu tempat perpuluhan.",
+            "Bolehkah anda menukar penilaian dari nombor kepada huruf? HURUF BESAR PERLU DIGUNAKAN semasa menulis nama-nama telefon."
+        ]
+    },
+    {
+        "question_id": 139,
+        "turns": [
+            "Diberikan satu set persamaan kompleks, ekstrak semua nama pembolehubah unik dari setiap persamaan. Kembali dengan hasil sebagai satu string JSON, dengan satu baris ditugaskan untuk setiap persamaan.\n```\n1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)\n2) 2A - B/(3+C) * sum(N=1 hingga 5; ln(N)^2) = 5D*integral(a=0 hingga pi; cos(comb(N=1 hingga 10; N*a)))\n3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))\n```",
+            "Sila susun semula persamaan dan gunakan 'a', 'b', 'c', 'd', dan lain-lain sebagai pembolehubah."
+        ]
+    },
+    {
+        "question_id": 140,
+        "turns": [
+            "Diberikan rekod harga saham berikut, ambil harga tutup tertinggi dan terendah untuk setiap bulan pada tahun 2022. Kembalikan hasil tersebut sebagai string CSV, dengan satu baris diperuntukkan untuk setiap bulan.\nTarikh,Buka,Tinggi,Rendah,Tutup,Volume\n2022-01-01,150,155,149,154,15678900\n2022-01-02,154,157,153,156,19874500\n2022-02-01,161,163,160,162,14326700\n2022-02-02,162,164,161,164,17689200\n2022-03-01,165,168,163,167,16253400\n2022-03-02,167,170,166,168,19568100",
+            "Lakukan tugas yang sama sekali lagi dengan format JSON dan bulatkan semua nombor dalam jawapan anda kepada nombor bulat terdekat."
+        ]
+    },
+    {
+        "question_id": 141,
+        "turns": [
+            "Dalam bidang fizik kuantum, apa itu superposisi, dan bagaimana ia berkaitan dengan fenomena keterikatan kuantum?",
+            "Apakah andaian yang telah anda buat dalam jawapan anda? Adakah ia sah?"
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Pertimbangkan sebuah satelit yang berada dalam orbit bulat di sekitar Bumi. Kelajuan satelit menurun. Apa yang akan berlaku kepada jejari orbit satelit dan tempoh revolusi? Sila justifikasi jawapan anda menggunakan prinsip fizik.",
+            "Apakah beberapa kes sudut atau kes tepi dalam penyelesaian anda? Bagaimana anda mengatasinya?"
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "Fotosintesis adalah proses penting untuk kehidupan di Bumi. Bolehkah anda memperincikan dua tahap utama fotosintesis, termasuk di mana ia terjadi dalam kloroplas, dan input dan output utama untuk setiap tahap?",
+            "Berapakah jumlah tenaga yang boleh dihasilkan oleh sebatang pokok melalui fotosintesis sepanjang hayatnya? Sila berikan anggaran menggunakan nilai numerik sebenar dan terangkan proses pemikiran anda langkah demi langkah."
+        ]
+    },
+    {
+        "question_id": 144,
+        "turns": [
+            "Apakah dogma utama biologi molekul? Proses apa yang terlibat? Siapa yang menamakan ini?",
+            "Kenal pasti dan betulkan satu fakta yang salah dalam jawapan anda sebelum ini."
+        ]
+    },
+    {
+        "question_id": 145,
+        "turns": [
+            "Terangkan proses ini dan tuliskan persamaan kimia seimbang untuk reaksi yang berlaku apabila kalsium karbonat pepejal bertindak balas dengan asid hidroklorik untuk membentuk kalsium klorida akueus, karbon dioksida, dan air. Apakah jenis reaksi ini, dan apakah pemerhatian yang mungkin menunjukkan bahawa reaksi sedang berlaku?",
+            "Bagaimana kita boleh membalikkan proses ini?"
+        ]
+    },
+    {
+        "question_id": 146,
+        "turns": [
+            "Sila jelaskan perbezaan antara reaksi eksotermik dan endotermik, dan sertakan kriteria yang anda gunakan untuk membezakan antara keduanya. Selain itu, sila berikan contoh dunia sebenar untuk menggambarkan penjelasan anda.",
+            "Bolehkah satu proses melibatkan kedua-dua reaksi? Senaraikan satu."
+        ]
+    },
+    {
+        "question_id": 147,
+        "turns": [
+            "Bandar Vega bercadang untuk membina jambatan yang akan merentangi Sungai Vegona, meliputi jarak sepanjang 1.8 kilometer. Lokasi yang dicadangkan terletak dalam kawasan aktif gempa bumi yang telah mengalami beberapa gempa bumi dengan magnitud tinggi. Memandangkan keadaan ini, apakah pendekatan terbaik untuk membina jambatan tersebut?",
+            "Apakah kelemahan atau kekurangan utama penyelesaian anda? Sila lakukan pengiraan dan gunakan nombor untuk menggambarkannya."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Anda telah ditugaskan untuk merancang sistem pemanasan air yang menggunakan tenaga solar untuk sebuah bangunan kediaman. Huraikan komponen utama dan pertimbangan yang akan anda masukkan dalam reka bentuk anda. Reka bentuk aliran kerja lima langkah.",
+            "Jika sistem ini ditujukan untuk sebuah bangunan dengan kapasiti 100 individu, apakah anggaran bajet untuk melaksanakan sistem ini?"
+        ]
+    },
+    {
+        "question_id": 149,
+        "turns": [
+            "Sila terangkan konsep pembelajaran mesin. Bolehkah anda memperincikan perbezaan antara pembelajaran terawasi, tidak terawasi, dan pembelajaran penguatan? Berikan contoh dunia sebenar untuk setiap satu.",
+            "Dalam contoh terakhir anda tentang pembelajaran penguatan, bolehkah kita menggunakan pembelajaran terawasi untuk menyelesaikannya?"
+        ]
+    },
+    {
+        "question_id": 150,
+        "turns": [
+            "Bagaimana Alpe dan Sungai Rhine mempengaruhi penempatan dan pertanian di Eropah Barat? Senaraikan tiga kesan.",
+            "Bagaimana anda boleh merancang eksperimen konkrit tetapi sederhana untuk mengesahkan kesan pertama?"
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "Berikan pandangan mengenai korelasi antara petunjuk ekonomi seperti KDNK, inflasi, dan kadar pengangguran. Terangkan bagaimana dasar fiskal dan monetari mempengaruhi petunjuk-petunjuk tersebut.",
+            "Sekarang, terangkan semula seolah-olah saya berumur lima tahun."
+        ]
+    },
+    {
+        "question_id": 152,
+        "turns": [
+            "Bagaimana peringkat kehidupan membentuk pemahaman kita tentang masa dan kematian?",
+            "Tulis sebuah puisi alegori yang menggambarkan perkara di atas."
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Bincangkan undang-undang antitrust dan kesannya ke atas persaingan pasaran. Bandingkan undang-undang antitrust di AS dan China berserta beberapa kajian kes.",
+            "Pilih satu kajian kes dan terangkan dengan terperinci."
+        ]
+    },
+    {
+        "question_id": 154,
+        "turns": [
+            "Buat pelan pengajaran yang mengintegrasikan drama, mime atau teknik teater ke dalam kelas sejarah. Durasi: 3 sesi kelas (setiap satu berlangsung selama 45 minit) selama 3 hari\nTajuk: Perang Opium antara China dan Britain\nTahap gred: 9-10",
+            "Berikan lebih banyak butiran untuk Hari 1 dan sertakan tiga soalan kerja rumah."
+        ]
+    },
+    {
+        "question_id": 155,
+        "turns": [
+            "Kongsi idea untuk mengubah karya seni agung menjadi pengalaman interaktif untuk kanak-kanak. Senaraikan 5 karya seni tertentu dan idea yang berkaitan.",
+            "Tulis pelan konkrit untuk contoh kedua anda. Sertakan anggaran bajet."
+        ]
+    },
+    {
+        "question_id": 156,
+        "turns": [
+            "Terangkan apa itu kesilapan kadar asas dan senaraikan lima contoh khusus bagaimana ahli politik menggunakannya untuk kempen.",
+            "Berikan rancangan terperinci untuk kempen pilihan raya menggunakan contoh pertama."
+        ]
+    },
+    {
+        "question_id": 157,
+        "turns": [
+            "Huraikan lima prinsip utama dalam menilai satu hujah dalam penulisan analitis.",
+            "Dengan prinsip yang disenaraikan, tuliskan respons di mana anda membincangkan bukti spesifik yang diperlukan untuk menilai hujah tersebut dan terangkan bagaimana bukti tersebut akan melemahkan atau menguatkan hujah.\n\n===\n\nYang berikut adalah memorandum dari ketua pengiklanan Zorblatt Animal Outlets, sebuah rangkaian yang mengendalikan tiga puluh outlet haiwan di seluruh dunia.\n\n\"Setengah dekad yang lalu, pesaing kami Aquatic Pavilion mula mengiklankan di majalah Rare Pets Digest. Jumlah jualan mereka telah secara konsisten berkembang pada kadar 3 hingga 5 peratus setiap tahun sejak itu. Khususnya, outlet Aquatic Pavilion di Harbor Town mengalami pertumbuhan yang lebih ketara, memperoleh gelaran kedai haiwan yang paling sering dikunjungi di Amerika Syarikat tahun lepas. Sebaliknya, dua outlet Zorblatt kami di Harbor Town telah mencatatkan penurunan jualan yang konsisten selama tempoh yang sama. Adalah jelas bahawa kita perlu segera mula memaparkan iklan kita sendiri di Rare Pets Digest dan penerbitan haiwan popular yang lain. Jika kita mengambil langkah ini, kita boleh dengan yakin menjangkakan pembalikan dalam trend penurunan jualan yang baru-baru ini dan kembali kepada keuntungan.\""
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Kaedah apa yang digunakan Socrates untuk mencabar pemikiran yang berlaku pada zamannya?",
+            "Mari kita bawa Socrates ke dunia moden. Hasilkan perbualan antara Socrates dan Bill Gates untuk berdebat mengenai AI generatif untuk pendidikan."
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Apakah norma etiket perniagaan apabila menjalankan perniagaan di Jepun?",
+            "Buat skrip video untuk melatih pekerja baru dalam perniagaan cuci kereta di Jepun. Sorot norma etiket di atas."
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "Cadangkan lima filem dokumentari pemenang anugerah dengan penerangan latar belakang ringkas untuk pengarah filem yang bercita-cita tinggi untuk belajar.",
+            "Dengan semangat dalam filem pertama, hasilkan sebuah cadangan ringkas dan meyakinkan untuk filem tentang mengatasi cabaran."
+        ]
+    }
+]

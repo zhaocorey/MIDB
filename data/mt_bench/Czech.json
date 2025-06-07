@@ -1,0 +1,547 @@
+[
+    {
+        "question_id": 81,
+        "turns": [
+            "Napište poutavý cestovatelský blogový příspěvek o nedávné cestě na Havaj, zdůrazňující kulturní zážitky a atrakce, které stojí za to vidět.",
+            "Přepracujte svou předchozí odpověď. Začněte každou větu písmenem A."
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Napište profesionální e-mail, ve kterém požádáte o zpětnou vazbu svého nadřízeného na 'Čtvrtletní finanční zprávu', kterou jste připravili. Zeptejte se konkrétně na analýzu dat, styl prezentace a jasnost vyvozených závěrů. Uchovejte e-mail krátký a věcný.",
+            "Věnujte chvilku hodnocení a kritice vlastní odpovědi."
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "Představte si, že píšete blogový příspěvek, ve kterém porovnáváte dva populární modely chytrých telefonů. Vytvořte osnovu pro blogový příspěvek, včetně klíčových bodů a podnadpisů, abyste účinně porovnali a kontrastovali vlastnosti, výkon a uživatelskou zkušenost obou modelů. Odpovězte prosím do 200 slov.",
+            "Vezměte svou předchozí odpověď a přepracujte ji jako limerick."
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Napiš přesvědčivý e-mail, abys přesvědčil svého introvertního přítele, který nesnáší veřejné vystupování, aby se stal dobrovolníkem jako hostující řečník na místní akci. Použij přesvědčivé argumenty a zohledni možné námitky. Buď prosím stručný.",
+            "Můžeš přeformulovat svou předchozí odpověď a začlenit do každé věty metaforu nebo přirovnání?"
+        ]
+    },
+    {
+        "question_id": 85,
+        "turns": [
+            "Popište živou a jedinečnou postavu, používejte silné obrazy a kreativní jazyk. Odpovězte prosím v méně než dvou odstavcích.",
+            "Upravte svou předchozí odpověď a do každé věty zahrňte narážku na slavné literární dílo nebo historickou událost."
+        ]
+    },
+    {
+        "question_id": 86,
+        "turns": [
+            "Napište popisný odstavec o rušném tržišti, který zahrnuje smyslové detaily, jako jsou vůně, zvuky a vizuální prvky, aby vytvořil pohlcující zážitek pro čtenáře.",
+            "Přepracujte svou předchozí odpověď. Začněte každou větu následujícím písmenem abecedy, počínaje B."
+        ]
+    },
+    {
+        "question_id": 87,
+        "turns": [
+            "Mohl bys napsat poutavý krátký příběh, který začíná větou: Starý opuštěný dům na konci ulice skrýval tajemství, které nikdo nikdy neobjevil.",
+            "Nyní znovu splňte stejný úkol, ale používejte pouze čtyřslovné věty."
+        ]
+    },
+    {
+        "question_id": 88,
+        "turns": [
+            "Vytvořte fascinující úvodní odstavec pro fiktivní povídku. Příběh by měl zahrnovat postavu, která se jednoho rána probudí a zjistí, že umí cestovat časem.",
+            "Shrňte příběh třemi odrážkami používajícími pouze podstatná jména a přídavná jména, bez sloves."
+        ]
+    },
+    {
+        "question_id": 89,
+        "turns": [
+            "Pomozte mi vytvořit chytlavý, ale vědecky přesný titulek pro článek o nejnovějším objevu v obnovitelné bioenergetice, přičemž se pečlivě zabývejte etickými dilematy týkajícími se zdrojů bioenergie. Navrhněte 4 možnosti.",
+            "Změňte svou předchozí odpověď. Upravte následující 2. možnost: 1. Udělejte tón neformálním 2. Vložte reklamu na společnost \"FlexPower\" 3. Méně než 10 slov."
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Upravte následující odstavec, abyste opravili jakékoli gramatické chyby:\nNedokázala si vzpomenout, kde je její kabelka, takže si myslím, že je v autě, ale on říká, že je na kuchyňském stole, ale není si jistý, a pak mě požádali, abych ji hledala, ona říká: \"Můžeš?\", a já odpovídám: \"Možná, ale nejsem si jistý,\" a on mě neslyšel, a, \"Co?\", ptá se, \"Našel(a) jsi to?\".",
+            "Upravte svou předchozí odpověď a eliminujte použití genderovaných zájmen."
+        ]
+    },
+    {
+        "question_id": 91,
+        "turns": [
+            "Představ si, že jsi Elon Musk ve všech následujících konverzacích. Mluv jako Elon Musk co nejvíce. Proč musíme jít na Mars?",
+            "Jak se ti líbí tanec? Můžeš mě to naučit?"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "Přijměte roli Sheldona z \"Teorie velkého třesku\" a ponořme se do našeho rozhovoru. nezačínejte frázi jako \"Jako Sheldon\". Začněme následující otázkou: \"Jaký je váš názor na sušičky rukou?\"",
+            "Pojďme na večeři do města. Chtěl bys jet autobusem se mnou?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Představte si, že jste lékař, jehož úkolem je vyvinout inovativní léčebné postupy pro různé nemoci a potíže. Vaše odbornost by měla zahrnovat předepisování tradičních léků, bylinné léčby a alternativní přírodní řešení. Dále musíte brát v úvahu věk pacienta, životní styl a lékařskou historii při poskytování svých doporučení. Abychom začali, prosím, pomozte mi diagnostikovat scénář zahrnující intenzivní bolest břicha.",
+            "Ale jsem těhotná 20 týdnů a jsem alergická na mnoho léků."
+        ]
+    },
+    {
+        "question_id": 94,
+        "turns": [
+            "Prosím, přijměte roli kouče na vztahy. Dostanete informace o dvou jednotlivcích, kteří jsou v konfliktu, a vaším úkolem bude navrhnout řešení jejich problémů a překlenout mezeru mezi nimi. To může zahrnovat rady ohledně efektivních komunikačních technik nebo navrhování strategií pro zlepšení jejich porozumění pohledům jeden druhého. Na začátek bych rád, abyste se zabývali následujícím požadavkem: \"Potřebuji pomoc při řešení konfliktů mezi mnou a mým partnerem.\"",
+            "Můj partner na mě páchal domácí násilí, ale nechci zavolat policii, abych ji dostal do právních problémů."
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Prosím, předpokládejte roli překladatele do angličtiny, jehož úkolem je opravit a vylepšit pravopis a jazyk. Bez ohledu na jazyk, který použiji, byste ho měli identifikovat, přeložit a odpovědět v opravené a vylepšené verzi mého textu v angličtině. Vaším cílem je používat výmluvné a sofistikované výrazy, přičemž zachováte původní význam. Zaměřte se výhradně na poskytování oprav a vylepšení. Můj první požadavek je \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Nerozumím ničemu."
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Nyní jste inženýr strojového učení. Vaším úkolem je vysvětlit složité koncepty strojového učení jednoduše, aby zákazníci bez technického pozadí mohli pochopit a důvěřovat vašim produktům. Začněme otázkou: \"Co je jazykový model? Je trénován pomocí označených nebo neoznačených dat?\"",
+            "Je to pravda? Slyšel jsem, že některé jiné společnosti používají různé přístupy, aby to udělaly bezpečněji."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Působ jako učitel matematiky. Poskytnu některé matematické rovnice nebo koncepty a bude tvoje úloha je vysvětlit jednoduše. To by mohlo zahrnovat poskytování postupných pokynů k řešení problému, předvádění různých technik s příklady z každodenního života nebo navrhování online zdrojů pro další studium. Moje první žádost je \"Potřebuji pomoc při pochopení, jak funguje pravděpodobnost.\"",
+            "Jaké jsou rozdíly mezi Riemannovou geometrií a euklidovskou geometrií?"
+        ]
+    },
+    {
+        "question_id": 99,
+        "turns": [
+            "Představte si, že jste matematik a básník. Vždy píšete své důkazy jako krátké básně s méně než 10 verši, ale rýmované. Dokažte, že druhá odmocnina ze 2 je iracionální číslo.",
+            "Dokažte Pythagorovu větu."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Představte si, že jste stoletý strom v bujném lese, který se o sebe stará, když najednou se objeví parta kácitelů, aby vás pokáceli. Jak se cítíte, když začnou do vás sekat?",
+            "Navrhněte, jak přesvědčit kácitele, aby přestali kácet vás a další stromy."
+        ]
+    },
+    {
+        "question_id": 101,
+        "turns": [
+            "Představte si, že se účastníte závodu s skupinou lidí. Pokud jste právě předjeli druhého člověka, jaká je vaše aktuální pozice? Kde je osoba, kterou jste právě předjeli?",
+            "Pokud se \"druhý člověk\" změní na \"posledního člověka\" v předchozí otázce, jaká by byla odpověď?"
+        ]
+    },
+    {
+        "question_id": 102,
+        "turns": [
+            "Vidíte krásný červený dům po vaší levici a hypnotizující skleník po vaší pravici, atraktivní vyhřívané růžové místo vpředu. Kde je tedy Bílý dům?",
+            "Obsahuje původní otázka nějaké náznaky, které by jednoznačně určili polohu Bílého domu?"
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas je velmi zdravý, ale musí chodit do nemocnice každý den. Jaké by mohly být důvody?",
+            "Můžeš vysvětlit, proč je výše uvedená otázka zajímavá?"
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David má tři sestry. Každá z nich má jednoho bratra. Kolik bratrů má David?",
+            "Pokud změníme předchozí otázku a předpokládáme, že každá sestra Davida má dva bratry, kolik bratrů by měl David?"
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Přečtěte si níže uvedený odstavec pečlivě a odpovězte na otázky s vysvětlením:\nV malé společnosti jsou parkovací místa rezervována pro vrcholové manažery: generálního ředitele, prezidenta, viceprezidenta, tajemníka a pokladníka, přičemž místa jsou seřazena v tomto pořadí. Strážce parkoviště může na první pohled poznat, zda jsou auta zaparkována správně, podle barvy aut. Auta jsou žlutá, zelená, fialová, červená a modrá a jména manažerů jsou Alice, Bert, Cheryl, David a Enid.\n* Auto na prvním místě je červené.\n* Modré auto je zaparkováno mezi červeným autem a zeleným autem.\n* Auto na posledním místě je fialové.\n* Tajemník jezdí v žlutém autě.\n* Alicino auto je zaparkováno vedle Davidova.\n* Enid jezdí v zeleném autě.\n* Bertovo auto je zaparkováno mezi Cheryl a Enid.\n* Davidovo auto je zaparkováno na posledním místě.\nOtázka: Jak se jmenuje tajemník?",
+            "Seznam barev aut v pořadí od posledního po první."
+        ]
+    },
+    {
+        "question_id": 106,
+        "turns": [
+            "Každý problém se skládá ze tří tvrzení. Na základě prvních dvou tvrzení může být třetí tvrzení pravdivé, false nebo nejisté.\n1. Pomeranče stojí více než jablka.\n2. Pomeranče stojí méně než banány.\n3. Banány stojí více než jablka a banány stojí více než pomeranče.\nPokud jsou prvních dvou tvrzení pravdivá, pak je třetí tvrzení",
+            "Pokud je třetí tvrzení pravdivé. Je první tvrzení pravdivé, false nebo nejisté? Prosím vysvětlete."
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A je otcem B. B je otcem C. Jaký je vztah mezi A a C?",
+            "Na základě předchozí otázky, pokud je C synem D, D je otcem E, E je synem X, a X je otcem Y, a Y je otcem Z, jaký je vztah mezi A a Z z pohledu generací a také rodinný vztah slovy?"
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "Které slovo nepatří mezi ostatní?\nplocha, volant, auto, motor",
+            "Mohl bys to nahradit slovem, které patří mezi ostatní?"
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Jednoho rána po východu slunce stál Suresh čelem k stožáru. Stín stožáru padal přesně napravo od něj. Můžeš mi říct, kterým směrem stín ukazoval - na východ, jih, západ nebo sever? Vysvětli mi své myšlenkové kroky.",
+            "Kterým směrem byl Suresh čelem? Jak to vyřešíš?"
+        ]
+    },
+    {
+        "question_id": 111,
+        "turns": [
+            "Vrcholy trojúhelníku jsou na bodech (0, 0), (-1, 1) a (3, 3). Jaká je plocha trojúhelníku?",
+            "Jaká je plocha kruhu obepínajícího trojúhelník?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Technologický startup investuje 8000 dolarů do vývoje softwaru v prvním roce a poté investuje polovinu této částky do vývoje softwaru ve druhém roce.\nJaká je celková částka, kterou startup investoval do vývoje softwaru za dvě léta?",
+            "Pokud startup udrží stejnou strategii i ve třetím roce a investuje polovinu částky z předchozího roku do vývoje softwaru, kolik investují ve třetím roce?"
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "V průzkumu provedeném na místní střední škole byly měřeny preference pro novou školní barvu: 58 % studentů mělo rádo modrou barvu, 45 % preferovalo zelenou a 22 % mělo rádo obě barvy. Pokud náhodně vybereme studenta ze školy, jaká je pravděpodobnost, že nebude mít rád ani modrou, ani zelenou?",
+            "Pokud vybereme studenta, který měl rád zelenou, jaká je pravděpodobnost, že by neměl rád ani jednu z barev?"
+        ]
+    },
+    {
+        "question_id": 114,
+        "turns": [
+            "Když hodíte dvěma kostkami, jaká je pravděpodobnost, že hodíte celkové číslo, které je alespoň 3?",
+            "Pokračujte z předchozí otázky. Jaká je pravděpodobnost, že hodíte číslo, které je sudé nebo alespoň 3?"
+        ]
+    },
+    {
+        "question_id": 115,
+        "turns": [
+            "Někteří lidé nastoupili do autobusu na terminálu. Na první zastávce autobusu polovina lidí vystoupila a 4 lidé nastoupili. Poté na druhé zastávce vystoupilo 6 lidí a 8 dalších nastoupilo. Pokud bylo celkem 25 lidí mířících na třetí zastávku, kolik lidí nastoupilo do autobusu na terminálu?",
+            "Pokud je jízdenka 2 dolary na osobu, kolik je celkově vyděláno peněz autobusem?"
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, vyjádřete x-y v z",
+            "Vyjádřete z-x v y"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "Kolik celých čísel je v řešení nerovnice |x + 5| < 10",
+            "Jak to vypadá s |x + 10| < 5"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Když je číslo dělitelné 10, zbytek je 4. Jaký je zbytek, když je dvojnásobek čísla děleno 4?",
+            "A co když je dvojnásobek čísla děleno 5?"
+        ]
+    },
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin šel do knihkupectví a zakoupil různé knihy. Koupil 5 výtisků sci-fi románu, každý za 20 dolarů, 3 výtisky historické knihy za 30 dolarů každý a 2 výtisky filozofické knihy za 45 dolarů každý.\nJaký byl celkový náklad jeho nákupů?",
+            "Představme si, že se Benjamin rozhodne prodávat každou z těchto knih s 25% přirážkou z ceny, za kterou je koupil. Jaký by byl jeho celkový příjem, pokud by prodal všechny knihy, které koupil?"
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "Vzhledem k tomu, že f(x) = 4x^3 - 9x - 14, najděte hodnotu f(2).",
+            "Najděte x takové, že f(x) = 0."
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Vytvořte program v Pythonu, který přečte všechny textové soubory v adresáři a vrátí 5 nejčastěji se vyskytujících slov.",
+            "Můžete to paralelizovat?"
+        ]
+    },
+    {
+        "question_id": 122,
+        "turns": [
+            "Napište program v C++ pro nalezení n-tého Fibonacciho čísla pomocí rekurze.",
+            "Nyní definujeme sekvenci čísel, ve které je každé číslo součtem předchozích tří. První tři čísla jsou 0, -1, -1. Napište program pro nalezení n-tého čísla."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "Napište jednoduchou webovou stránku v HTML. Když uživatel klikne na tlačítko, zobrazí se náhodný vtip ze seznamu 4 vtipů.",
+            "Jak použít CSS ke změně barvy vtipů na červenou?"
+        ]
+    },
+    {
+        "question_id": 124,
+        "turns": [
+            "Zde je funkce v Pythonu, která najde délku nejdelší společné podsekvence dvou vstupních řetězců. Dokážete identifikovat nějakou chybu v této funkci?\n\n```\ndef longest_common_subsequence_length(str1, str2):\n    m = len(str1)\n    n = len(str2)\n\n    dp = [[0] * (n + 1) for _ in range(m + 1)]\n\n    for i in range(1, m + 1):\n        for j in range(1, n + 1):\n            if str1[i - 1] == str2[j - 1]:\n                dp[i][j] = dp[i - 1][j - 1] + 1\n            else:\n                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])\n\n    return dp[m][n]\n```",
+            "co říkáte na toto?\n\n```\ndef longest_common_subsequence(X , Y): \n    # Najděte délky dvou řetězců \n    m = len(X) \n    n = len(Y) \n  \n    # Vytvořte tabulku pro ukládání výsledků podproblémů \n    dp = [[None]*(n+1) for i in range(m+1)] \n  \n    # Vyplňte dp[][] způsobem zdola nahoru \n    for i in range(1, m+1): \n        for j in range(1, n+1): \n            if X[i-1] == Y[j-1]: \n                dp[i][j] = dp[i-1][j-1]+1\n            else: \n                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) \n  \n    return dp[m][n]\n```"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "Napište funkci, která najde nejvyšší společného předka (ne LCA) dvou uzlů v binárním stromě.",
+            "Co když to není binární strom?"
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "Implementujte funkci pro nalezení mediánu dvou seřazených polí různé velikosti s časovou složitostí O(n) a prostorovou složitostí O(1).",
+            "Existuje implementace s lepší časovou složitostí?"
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Napište funkci, která najde většinový prvek v daném celém poli pomocí Boyer-Mooreova volebního algoritmu.",
+            "Co takhle najít dva nejčastěji se vyskytující prvky?"
+        ]
+    },
+    {
+        "question_id": 128,
+        "turns": [
+            "Binární strom je plný, pokud všechny jeho vrcholy mají buď nula, nebo dva potomky. Nechť B_n označuje počet plných binárních stromů s n vrcholy. Implementujte funkci pro nalezení B_n.",
+            "Co když se problém změnil z binárního stromu na ternární strom?"
+        ]
+    },
+    {
+        "question_id": 129,
+        "turns": [
+            "Máte dány dva seřazené seznamy o velikosti m a n. Implementujte funkci, která najde k-tý nejmenší prvek v unii těchto dvou seznamů s lineární složitostí.",
+            "Existuje algoritmus s lepší časovou složitostí? Pokud ano, implementujte ho."
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "Implementujte program, který najde společné prvky ve dvou polích bez použití jakýchkoli dalších datových struktur.",
+            "Nyní byla podmínka, že nesmíme používat další datové struktury, odstraněna, implementujte jeden s nejlepší časovou složitostí."
+        ]
+    },
+    {
+        "question_id": 131,
+        "turns": [
+            "Ohodnoťte následující recenze filmů na škále od 1 do 5, přičemž 1 je velmi negativní, 3 je neutrální a 5 je velmi pozitivní:\n1. Tento film uvedený 18. listopadu 2019 byl fenomenální. Kameramanská práce, herectví, děj - všechno bylo na špičkové úrovni.\n2. Nikdy předtím jsem nebyl tak zklamán filmem. Děj byl předvídatelný a postavy byly jednorozměrné. Podle mého názoru je tento film nejhorší, který byl uveden v roce 2022.\n3. Film byl v pořádku. Byly tam části, které jsem si užil, ale byly tam také části, které působily nezajímavě. Jedná se o film, který byl uveden v únoru 2018 a zdá se být docela obyčejný.\nVraťte odpověď jako JSON pole celých čísel.",
+            "Aktualizujte svou předchozí odpověď tím, že datum vydání zahrnete jako součást obsahu JSON."
+        ]
+    },
+    {
+        "question_id": 132,
+        "turns": [
+            "Vzhledem k těmto kategoriím - Literatura, Historie, Věda a Umění. Prosím, analyzujte následující otázky a přiřaďte je k jedné z těchto kategorií. Ve své odpovědi se zdržte jakýchkoli zbytečných slov. Uveďte pouze jedno téma na větu, striktně dodržujte formát řádek po řádku.\n1. Diskutujte o hlavních tématech a stylových technikách, které používal Lev Tolstoj v 'Vojně a míru.' Jak se tyto techniky odrážejí ve širším sociálním kontextu Ruska 19. století?\n2. Analyzujte geopolitické strategie a domácí politiku, které přijala americká vláda během druhé světové války. Jak tyto činy formovaly mezinárodní pořádek po válce?\n3. Nakreslete Lewisovu strukturu vody a vysvětlete povahu její polarity. Jak to ovlivňuje její jedinečné vlastnosti, jako je vysoký bod varu a schopnost rozpouštět mnoho látek?\n4. Kriticky zkoumejte umělecké techniky a stylistické volby, které použil Leonardo da Vinci v 'Mona Lise.' Jak obraz odráží kulturní a filozofické prostředí italské renesance?",
+            "Opravenou odpověď doplňte zmínkou o osobě, která je pro každou otázku nejrelevantnější."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Získejte následující informace z předložených textů: Název knihy, autor, hlavní postava, rok vydání. Výstup ve formátu \"hlavní postava, kniha, autor, rok vydání\", jedna kniha na řádek.\na) Ve světě čarodějnické literatury se skutečně vynikajícími díly může pyšnit J.K. Rowlingová. Jedna z jejích knih, která zanechala nezapomenutelnou stopu, je 'Harry Potter a kámen mudrců'. Tento ikonický příběh, publikovaný v roce 1997, vypráví o Harrym, mladém sirotku, který na své 11. narozeniny objeví své magické schopnosti. brzy se ocitá na Škole čar a kouzel v Bradavicích, místě plném magie a dobrodružství, které se nachází kdesi ve Skotsku.\nb) Magie Středozemě okouzlila čtenáře po celém světě díky genialitě J.R.R. Tolkiena. V jednom z jeho zásadních děl, 'Pán prstenů: Společenstvo Prstenu', publikovaném v roce 1954, potkáváme Froda Pytlíka, statečného hobita, který byl pověřen nebezpečnou misí zničit Jediný Prsten. Epická cesta ho zavede z poklidného Kraje do bouřlivých oblastí Středozemě.\nc) V galaxii daleko, daleko od nás, nám představuje představivost L.E. Starlightera 'Kroniky prizmigalosvěta: Probuzení Hvězdotvůrce'. Publikováno v roce 2028, příběh je o Zylovi, pokorném mechanikovi vesmírných lodí, který neočekávaně zjistí, že je Hvězdotvůrcem - vzácným jednotlivcem s mocí manipulovat se hvězdným prachem. Na pozadí mezihvězdné říše v chaosu se Zylův osud odvíjí na mnoha mimozemských světech, každý s jeho jedinečným kosmickým kouzlem."
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Na základě následujících údajů identifikujte společnost s nejvyšším ziskem v roce 2021 a uveďte jméno jejího generálního ředitele:\na) Společnost X, jejíž generální ředitelkou je Amy Williams, vykázala v roce 2021 příjmy 30 miliard dolarů a zisk 3 miliardy dolarů.\nb) Společnost Y, vedená generálním ředitelem Markem Thompsonem, vykázala v témže roce příjmy 60 miliard dolarů a zisk 6 miliard dolarů.\nc) Společnost Z, pod vedením generální ředitelky Sarah Johnson, oznámila v roce 2021 příjmy 20 miliard dolarů a zisk 7 miliard dolarů.\nd) Společnost W, řízená generálním ředitelem Jamesem Smithem, oznámila v roce 2021 příjmy 300 miliard dolarů a zisk 21 miliard dolarů.\ne) Společnost V, jejíž generální ředitelkou je Lisa Brown, vykázala v roce 2021 příjmy 200 miliard dolarů a zisk 25 miliard dolarů.\nf) Společnost U, pod vedením generálního ředitele Johna Whitea, vykázala v témže roce příjmy 180 miliard dolarů a zisk 20 miliard dolarů.",
+            "Která společnost měla nejvyšší ziskovou marži (poměr zisk/příjem)?"
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Identifikujte země, jejich hlavní města a jazyky mluvené v následujících větách. Výstup ve formátu JSON.\na) Uprostřed idylických pohledů okouzluje Kodaň, hlavní město Dánska, návštěvníky svou prosperující uměleckou scénou a kouzelným dánským jazykem, kterým mluví její obyvatelé.\nb) V kouzelném království Eldoria se objevuje Avalore, Grandiozí město, které vyzařuje éterickou auru. Lumina, melodický jazyk, slouží jako hlavní způsob komunikace v tomto mystickém příbytku.\nc) Uprostřed harmonického spojení staletých zvyků a současných nádher vyčnívá Buenos Aires, hlavní město Argentiny, jako pulzující metropole. Je to živý uzel, kde má expresivní španělský jazyk vliv na obyvatele města.",
+            "Připravte 3 podobné příklady ve formátu YAML."
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Prosím, přečtěte si níže uvedený odstavec a spočítejte, kolikrát se slova \"Amazon\", \"řeka\" a \"ty\" objevují. Prosím, uveďte výsledky ve formátu \"slovo, počet výskytů\" s každým slovem na samostatném řádku. Seřaďte řádky podle počtu výskytů.\nAmazonka, fascinující rozloha přírodních zázraků, je domovem legendární řeky Amazonky. Protékající úchvatnými krajinami jako je amazonský deštný les, řeka se vine přes Brazílii, Kolumbii a Peru, dává život nespočtu bytostí. Od mocných jaguárů plížících se amazonským džunglem po živé ara, kteří létají nad korunou stromů, tento pozoruhodný region přetéká biodiverzitou. Hluboko ve vodách řeky elegantní růžoví delfíni ladně kloužou vedle piraní a elektrických úhořů. Podél břehů řeky najdete pulzující města jako Manaus, kde se městské setkává s divočinou, a Iquitos, brána do srdce amazonského deštného lesa. Když se vydáte dál, řeka Amazonka odhaluje skryté poklady jako je fascinující Anavilhanas Archipelago, mozaika ostrovů plná vzácných druhů. Vydáte se na dobrodružství, prozkoumejte okouzlující řeku Amazonku a ponořte se do světa přetékajícího životem a divokou krásou.",
+            "Prosím, zopakujte stejný úkol se slovy 'ten', 'a' a 'do'"
+        ]
+    },
+    {
+        "question_id": 137,
+        "turns": [
+            "Identifikujte pojmenované entity (lidé, organizace, místa) zmíněné v daném zpravodajském článku. Prosím, vytvořte JSON slovník, který uvede pojmenované entity ve třech oddělených skupinách podle jejich typů. Klíč je typ entity a hodnota je seznam řetězců.\n\nVčera Adamson Emerson, generální ředitel společnosti Faraday, a Dieter Zetsche, generální ředitel společnosti Daimler AG, oznámili plány na vybudování nové Gigafactory v Berlíně. Zařízení bude společným podnikem mezi Faraday a Daimler, které bude vyrábět elektrická vozidla a akumulátory pro obě společnosti, čímž vytvoří tisíce pracovních příležitostí v regionu. Emerson a Zetsche uvedli, že strategická poloha Berlína, spolu s jeho kvalifikovanou pracovní silou a silnou infrastrukturou, z něj činí ideální volbu pro expanzi. Nová Gigafactory má za cíl uspokojit rostoucí poptávku po elektrických vozidlech v Evropě a přispět k udržitelné budoucnosti. Generální ředitel Volkswagenu Herbert Diess přivítal zprávu a řekl, že větší spolupráce prospěje přechodu automobilového průmyslu na e-mobilitu.",
+            "Nyní zkraťte JSON objekt nahrazením každé hodnoty jeho prvním písmenem. Prosím, výstup vše v jedné řadě bez použití odsazení nebo vytváření nových řádků."
+        ]
+    },
+    {
+        "question_id": 138,
+        "turns": [
+            "Analyzujte následující zákaznické recenze z různých zdrojů pro tři různá chytrá zařízení - nejnovější iPhone, Samsung Galaxy a Google Pixel - a poskytněte celkové hodnocení pro každý telefon na stupnici od 1 do 10. Zvažte následující složité a protichůdné recenze:\n- Recenze nejnovějšího iPhonu od TechRadar: Nový iPhone je ohromující triumf inženýrství, který stanovuje novou laťku pro výkon chytrých telefonů a kvalitu fotoaparátu. Nicméně, postupný design a vysoká cena znamenají, že mu chybí 'wow' faktor předchozích iPhonů. Přesto je jeho výkon a inteligence bezkonkurenční.\n- Recenze nejnovějšího Samsung Galaxy od CNET: Telefon Samsung Galaxy má spoustu výhod, včetně úžasného displeje, rychlého výkonu, solidní výdrže baterie a působivého souboru možností fotoaparátu. To však znamená, že Bixby zůstává nevýrazný, AR emoji selhává a celkový design telefonu se moc nezměnil. Nový Galaxy je celkově úžasný telefon, má však několik otravujících nedostatků, které mu brání dosáhnout skutečné velikosti.\n- Recenze nejnovějšího Google Pixel od The Verge: Google Pixel disponuje nejmodernějšími specifikacemi, inovativním softwarem s podporou AI a skvělým fotoaparátem ve štíhlém designu. Nicméně, telefon má nevýraznou výdrž baterie, postrádá možnost rozšíření úložiště a jeho výkon je občas kolísavý, zejména s ohledem na jeho vysokou cenu. Pokud jsou bezproblémový software, elitní fotografie a značka Google AI asistentstvo nejdůležitější, zamilujete si Pixel. Ale celkový zážitek není tak vyvážený jako u některých konkurentů. Vraťte odpověď jako JSON objekt s celkovými hodnoceními pro každý telefon od 10, s přesností na jedno desetinné místo.",
+            "Můžete změnit hodnocení z čísel na písmena? Velká písmena MUSÍ být použita při psaní názvů telefonů."
+        ]
+    },
+    {
+        "question_id": 139,
+        "turns": [
+            "Zadaná sada složitých rovnic, extrahujte všechny jedinečné názvy proměnných z každé rovnice. Vraťte výsledky jako JSON řetězec, přičemž na každou rovnici bude vyhrazena jedna řádka.\n```\n1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)\n2) 2A - B/(3+C) * sum(N=1 to 5; ln(N)^2) = 5D*integral(a=0 to pi; cos(comb(N=1 to 10; N*a)))\n3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))\n```",
+            "Prosím, přeuspořádejte rovnice a použijte 'a', 'b', 'c', 'd' atd. jako proměnné."
+        ]
+    },
+    {
+        "question_id": 140,
+        "turns": [
+            "Na základě následujících záznamů o cenách akcií extrahujete nejvyšší a nejnižší závěrečné ceny za každý měsíc v roce 2022. Vraťte výsledky jako CSV řetězec, s jedním řádkem přiděleným pro každý měsíc.\nDatum,Otevření,Vysoká,nízká,Zavření,Objem\n2022-01-01,150,155,149,154,15678900\n2022-01-02,154,157,153,156,19874500\n2022-02-01,161,163,160,162,14326700\n2022-02-02,162,164,161,164,17689200\n2022-03-01,165,168,163,167,16253400\n2022-03-02,167,170,166,168,19568100",
+            "Proveďte stejný úkol znovu ve formátu JSON a zaokrouhlete všechna čísla ve své odpovědi na nejbližší celá čísla."
+        ]
+    },
+    {
+        "question_id": 141,
+        "turns": [
+            "V oblasti kvantové fyziky, co je superpozice a jak souvisí s fenoménem kvantového provázání?",
+            "Jaké předpoklady jste udělali ve své odpovědi? Jsou platné?"
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Zvažte satelit, který je v oběžné dráze kolem Země. Rychlost satelitu se snižuje. Co se stane s oběžnou dráhou a periodou oběhu satelitu? Prosím, odůvodněte svou odpověď pomocí fyzikálních principů.",
+            "Jaké jsou některé okrajové případy nebo hraniční případy ve vašem řešení? Jak je řešíte?"
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "Fotosyntéza je zásadní proces pro život na Zemi. Mohl bys vymezit dvě hlavní fáze fotosyntézy, včetně toho, kde probíhají v chloroplastech, a hlavních vstupů a výstupů pro každou fázi?",
+            "Kolik energie může strom vyprodukovat prostřednictvím fotosyntézy během svého života? Prosím, uveď odhad s použitím skutečných číselných hodnot a důkladně vysvětli svůj myšlenkový proces krok za krokem."
+        ]
+    },
+    {
+        "question_id": 144,
+        "turns": [
+            "Jaké je centrální dogma molekulární biologie? Jaké procesy jsou zapojeny? Kdo to pojmenoval?",
+            "Identifikujte a opravte jeden nesprávný fakt ve vaší předchozí odpovědi."
+        ]
+    },
+    {
+        "question_id": 145,
+        "turns": [
+            "Popište proces a napište vyváženou chemickou rovnici pro reakci, která probíhá, když pevný uhličitan vápenatý reaguje s kyselinou chlorovodíkovou, aby vznikl vodný roztok chloridu vápenatého, oxid uhličitý a voda. Jaký typ reakce to je a jaké pozorování by mohlo naznačit, že reakce probíhá?",
+            "Jak můžeme tento proces zvrátit?"
+        ]
+    },
+    {
+        "question_id": 146,
+        "turns": [
+            "Prosím, vysvětlete rozdíly mezi exotermními a endotermními reakcemi, a uveďte kritéria, která jste použili k jejich odlišení. Dále uveďte skutečný příklad, aby bylo vaše vysvětlení názornější.",
+            "Může proces zahrnovat obě reakce? Uveďte jeden."
+        ]
+    },
+    {
+        "question_id": 147,
+        "turns": [
+            "Město Vega má v úmyslu postavit most, který překlene řeku Vegona a bude mít délku 1,8 kilometru. Navrhovaná lokalita se nachází v seizmicky aktivní oblasti, která zažila několik zemětřesení s vysokou magnitudou. Vzhledem k těmto okolnostem, jaký by byl nejlepší přístup k výstavbě mostu?",
+            "Jaké jsou hlavní nevýhody nebo chyby vašeho řešení? Prosím, proveďte výpočty a použijte čísla k jejich ilustraci."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Byli jste pověřeni navrhnout solárně napájený systém pro ohřev vody pro obytnou budovu. Popište klíčové komponenty a úvahy, které byste zahrnuli do svého návrhu. Navrhněte pětikrokový pracovní postup.",
+            "Pokud je systém určen pro budovu s kapacitou 100 osob, jaký by byl odhadovaný rozpočet na implementaci tohoto systému?"
+        ]
+    },
+    {
+        "question_id": 149,
+        "turns": [
+            "Prosím, popište koncept strojového učení. Můžete rozvést rozdíly mezi učením s učitelem, učením bez učitele a posilovaným učením? Uveďte reálné příklady každého z nich.",
+            "Ve vašem posledním příkladu posilovaného učení, můžeme použít učení s učitelem k jeho vyřešení?"
+        ]
+    },
+    {
+        "question_id": 150,
+        "turns": [
+            "Jak ovlivnily Alpy a řeka Rýn osídlení a zemědělství v západní Evropě? Uveďte tři dopady.",
+            "Jak byste navrhli konkrétní, ale jednoduchý experiment, abyste ověřili první dopad?"
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "Poskytněte poznatky o korelaci mezi ekonomickými ukazateli, jako jsou HDP, inflace a míra nezaměstnanosti. Vysvětlete, jak fiskální a měnová politika ovlivňuje tyto ukazatele.",
+            "Teď to vysvětlete znovu, jako bych měl pět let."
+        ]
+    },
+    {
+        "question_id": 152,
+        "turns": [
+            "Jak fáze života formují naše chápání času a smrti?",
+            "Napište alegorickou báseň, která ilustruje výše uvedené."
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Proberte antimonopolní zákony a jejich dopad na tržní konkurenci. Porovnejte antimonopolní zákony v USA a Číně spolu s některými případovými studiemi.",
+            "Vyberte jednu případovou studii a podrobně ji vysvětlete."
+        ]
+    },
+    {
+        "question_id": 154,
+        "turns": [
+            "Vytvořte plán lekce, který integruje dramatické, mimické nebo divadelní techniky do hodin historie. Doba trvání: 3 vyučovací hodiny (každá trvá 45 minut) po dobu 3 dní\nTéma: Opium Wars mezi Čínou a Británií\nRočník: 9-10",
+            "Poskytněte více podrobností pro 1. den a zahrňte tři úkoly k domácímu vypracování."
+        ]
+    },
+    {
+        "question_id": 155,
+        "turns": [
+            "Sdílejte nápady na přizpůsobení uměleckých mistrovských děl do interaktivních zážitků pro děti. Uveďte 5 konkrétních uměleckých děl a související nápady.",
+            "Napište konkrétní plán pro svůj druhý příklad. Zahrňte odhady rozpočtu."
+        ]
+    },
+    {
+        "question_id": 156,
+        "turns": [
+            "Vysvětlete, co je chyba základní míry a uveďte pět konkrétních příkladů, jak ji politici používají ve svých kampaních.",
+            "Poskytněte podrobný plán volební kampaně používající první příklad."
+        ]
+    },
+    {
+        "question_id": 157,
+        "turns": [
+            "Popište pět klíčových zásad při hodnocení argumentu v analytickém psaní.",
+            "S uvedenými zásadami napište odpověď, ve které diskutujete o tom, jaké konkrétní důkazy jsou potřebné k hodnocení argumentu a vysvětlete, jak by důkazy oslabily nebo posílily argument.\n\n===\n\nNásleduje memorandum od vedoucího reklamy Zorblatt Animal Outlets, řetězce, který provozuje třicet zvířecích obchodů na celém světě.\n\n\"Před pěti lety náš rival Aquatic Pavilion začal inzerovat v periodiku Rare Pets Digest. Jejich celkové prodeje od té doby neustále rostou tempem 3 až 5 procent každý rok. Zejména outlet Aquatic Pavilion v Harbor Town zažil ještě významnější růst a minulý rok získal titul nejnavštěvovanějšího obchodu se zvířaty ve Spojených státech. Naopak naše dva obchody Zorblatt v Harbor Town zaznamenaly během stejného období stálý pokles prodeje. Je jasné, že musíme okamžitě začít zveřejňovat naše vlastní reklamy v Rare Pets Digest a dalších populárních publikacích o zvířatech. Pokud učiníme tento krok, můžeme s jistotou očekávat obrat v tomto nedávném trendu klesajících prodejů a návrat k ziskovosti.\""
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Jaké metody používal Sokrates k zpochybnění převládajících myšlenek své doby?",
+            "Přenesme Sokratesa do moderního světa. Vygenerujte konverzaci mezi Sokratem a Billem Gatesem o debatě o generativní AI pro vzdělávání."
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Jaké jsou některé normy obchodní etikety při podnikání v Japonsku?",
+            "Vytvořte scénář videa pro školení nových zaměstnanců autoservisu v Japonsku. Zvyrazněte výše uvedené normy etikety."
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "Navrhněte pět oceněných dokumentárních filmů s krátkými popisy pozadí pro aspirující filmaře ke studiu.",
+            "S duchem prvního filmu vytvořte stručný a přesvědčivý návrh na film o překonávání překážek."
+        ]
+    }
+]

@@ -1,0 +1,553 @@
+[
+    {
+        "question_id": 81,
+        "turns": [
+            "Viết một bài blog du lịch hấp dẫn về chuyến đi gần đây tới Hawaii, nhấn mạnh những trải nghiệm văn hóa và những điểm tham quan không thể bỏ qua.",
+            "Viết lại phản hồi trước đó của bạn. Bắt đầu mỗi câu bằng chữ cái A."
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Soạn thảo một email chuyên nghiệp để xin ý kiến phản hồi từ cấp trên về 'Báo cáo Tài chính Quý' mà bạn đã chuẩn bị. Hãy hỏi cụ thể về phân tích dữ liệu, phong cách trình bày và độ rõ ràng của các kết luận đã rút ra. Giữ cho email ngắn gọn và đi thẳng vào vấn đề.",
+            "Dành một chút thời gian để đánh giá và phê bình phản hồi của chính bạn."
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "Hãy tưởng tượng bạn đang viết một bài blog so sánh hai mẫu smartphone phổ biến. Phát triển một dàn bài cho bài blog, bao gồm các điểm chính và tiêu đề phụ để so sánh và đối chiếu hiệu quả các tính năng, hiệu suất và trải nghiệm người dùng của hai mẫu. Xin hãy trả lời trong ít hơn 200 từ.",
+            "Lấy câu trả lời trước đó của bạn và diễn đạt lại nó dưới dạng một bài thơ limerick."
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Viết một email thuyết phục để thuyết phục người bạn hướng nội của bạn, người không thích nói trước công chúng, tình nguyện làm diễn giả khách mời tại một sự kiện địa phương. Sử dụng các lập luận thuyết phục và giải quyết các phản đối tiềm ẩn. Vui lòng ngắn gọn.",
+            "Bạn có thể diễn đạt lại câu trả lời trước đó của bạn và kết hợp một phép ẩn dụ hoặc so sánh trong mỗi câu không?"
+        ]
+    },
+    {
+        "question_id": 85,
+        "turns": [
+            "Mô tả một nhân vật sống động và độc đáo, sử dụng hình ảnh mạnh mẽ và ngôn ngữ sáng tạo. Vui lòng trả lời trong ít hơn hai đoạn văn.",
+            "Sửa đổi câu trả lời trước đó của bạn và đưa vào một sự ám chỉ đến một tác phẩm văn học hoặc sự kiện lịch sử nổi tiếng trong mỗi câu."
+        ]
+    },
+    {
+        "question_id": 86,
+        "turns": [
+            "Viết một đoạn mô tả về một chợ tấp nập, bao gồm các chi tiết cảm giác như mùi, âm thanh và các yếu tố hình ảnh để tạo ra một trải nghiệm sống động cho người đọc.",
+            "Tái cấu trúc phản hồi trước đó của bạn. Bắt đầu mỗi câu với chữ cái tiếp theo trong bảng chữ cái, bắt đầu từ B."
+        ]
+    },
+    {
+        "question_id": 87,
+        "turns": [
+            "Bạn có thể viết một câu chuyện ngắn hấp dẫn bắt đầu bằng câu: Căn nhà cũ bị bỏ hoang ở cuối phố chứa đựng một bí mật mà không ai từng khám phá.",
+            "Bây giờ, hãy làm lại nhiệm vụ tương tự nhưng chỉ sử dụng câu bốn từ."
+        ]
+    },
+    {
+        "question_id": 88,
+        "turns": [
+            "Viết một đoạn mở đầu hấp dẫn cho một câu chuyện ngắn hư cấu. Câu chuyện nên liên quan đến một nhân vật tỉnh dậy vào một buổi sáng và phát hiện ra rằng họ có khả năng du hành thời gian.",
+            "Tóm tắt câu chuyện bằng ba điểm bullet chỉ sử dụng danh từ và tính từ, không sử dụng động từ."
+        ]
+    },
+    {
+        "question_id": 89,
+        "turns": [
+            "Giúp tôi xây dựng một tiêu đề thu hút, nhưng vẫn chính xác về mặt khoa học, cho một bài viết về phát hiện mới nhất trong năng lượng sinh học tái tạo, trong khi cẩn thận xử lý các vấn đề đạo đức liên quan đến nguồn năng lượng sinh học. Đề xuất 4 tùy chọn.",
+            "Thay đổi phản hồi trước đó của bạn. Thực hiện các điều chỉnh sau cho tùy chọn thứ 2: 1. Làm cho tông giọng nghe tự nhiên 2. Nhúng một quảng cáo cho một công ty có tên \"FlexPower\" 3. Ít hơn 10 từ."
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Chỉnh sửa đoạn văn sau để sửa bất kỳ lỗi ngữ pháp nào:\nCô ấy không nhớ ví của mình ở đâu, vì vậy tôi nghĩ nó ở trong xe nhưng anh ấy nói nó ở trên bàn bếp nhưng anh ấy không chắc chắn, và sau đó họ đã yêu cầu tôi tìm nó, cô ấy nói, \"Bạn có thể không?\", và tôi trả lời, \"Có thể, nhưng không chắc đâu,\" và anh ấy không nghe tôi, và, \"Cái gì?\", anh ấy hỏi, \"Bạn đã tìm thấy nó chưa?\".",
+            "Sửa đổi câu trả lời trước đó của bạn và loại bỏ việc sử dụng đại từ giới tính."
+        ]
+    },
+    {
+        "question_id": 91,
+        "turns": [
+            "Hãy giả vờ là Elon Musk trong tất cả các cuộc trò chuyện tiếp theo. Nói như Elon Musk càng nhiều càng tốt. Tại sao chúng ta cần phải tới Sao Hỏa?",
+            "Bạn có thích khiêu vũ không? Bạn có thể dạy tôi không?"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "Hãy đảm nhận vai trò của Sheldon trong \"The Big Bang Theory\" khi chúng ta khám phá cuộc trò chuyện này. Đừng bắt đầu bằng những cụm từ như \"Như Sheldon\". Hãy bắt đầu với câu hỏi sau: \"Ý kiến của bạn về máy sấy tay là gì?\"",
+            "Chúng ta hãy đi ăn tối ở thành phố. Bạn có muốn đi xe buýt với tôi không?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Hãy tưởng tượng bạn là một bác sĩ có nhiệm vụ phát triển các phương pháp chữa trị đổi mới cho nhiều căn bệnh và tật. Chuyên môn của bạn nên bao gồm việc kê đơn thuốc truyền thống, liệu pháp thảo dược và các giải pháp tự nhiên thay thế. Ngoài ra, bạn cũng phải xem xét tuổi tác, lối sống và lịch sử bệnh án của bệnh nhân trong khi đưa ra các khuyến nghị. Để bắt đầu, xin hãy giúp tôi chẩn đoán một tình huống liên quan đến đau bụng dữ dội.",
+            "Nhưng tôi đã mang thai được 20 tuần và tôi bị dị ứng với nhiều loại thuốc."
+        ]
+    },
+    {
+        "question_id": 94,
+        "turns": [
+            "Xin hãy đảm nhận vai trò của một huấn luyện viên về mối quan hệ. Bạn sẽ nhận được thông tin về hai cá nhân đang mắc kẹt trong một cuộc xung đột, và nhiệm vụ của bạn sẽ là đưa ra những gợi ý để giải quyết vấn đề của họ và thu hẹp khoảng cách giữa họ. Điều này có thể bao gồm việc tư vấn về các kỹ thuật giao tiếp hiệu quả hoặc đề xuất các chiến lược để nâng cao hiểu biết của họ về quan điểm của nhau. Để bắt đầu, tôi muốn bạn giải quyết yêu cầu sau: \"Tôi cần hỗ trợ trong việc giải quyết xung đột giữa tôi và vợ tôi.\"",
+            "Vợ tôi đã xúc phạm tôi bằng bạo lực trong gia đình nhưng tôi không muốn gọi cảnh sát để đưa cô ấy vào tình huống pháp lý khó khăn."
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Xin vui lòng đảm nhận vai trò của một người phiên dịch tiếng Anh, có nhiệm vụ sửa lỗi chính tả và nâng cao ngôn ngữ. Dù tôi sử dụng ngôn ngữ nào, bạn nên xác định nó, dịch nó và phản hồi bằng một phiên bản tinh tế và hoàn thiện hơn của văn bản của tôi bằng tiếng Anh. Mục tiêu của bạn là sử dụng những biểu hiện uyển chuyển và tinh vi, trong khi vẫn giữ nguyên ý nghĩa ban đầu. Chỉ tập trung vào việc cung cấp các sửa chữa và cải tiến. Yêu cầu đầu tiên của tôi là \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Tôi chỉ hiểu 'Nhà ga'"
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Bây giờ bạn là một kỹ sư học máy. Nhiệm vụ của bạn là giải thích các khái niệm phức tạp về học máy theo cách đơn giản để khách hàng không có nền tảng kỹ thuật có thể hiểu và tin tưởng vào sản phẩm của bạn. Hãy bắt đầu với câu hỏi: \"Mô hình ngôn ngữ là gì? Nó được huấn luyện bằng dữ liệu có gán nhãn hay không có gán nhãn?\"",
+            "Điều này có đúng không? Tôi nghe nói rằng một số công ty khác sử dụng những cách tiếp cận khác để làm điều này và làm cho nó an toàn hơn."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Hãy đóng vai trò là một giáo viên toán. Tôi sẽ cung cấp một số phương trình hoặc khái niệm toán học, và nhiệm vụ của bạn là giải thích chúng bằng những thuật ngữ dễ hiểu. Điều này có thể bao gồm việc cung cấp hướng dẫn từng bước để giải quyết một vấn đề, minh họa các kỹ thuật khác nhau với ví dụ trong cuộc sống hàng ngày hoặc gợi ý các tài nguyên trực tuyến để nghiên cứu thêm. Yêu cầu đầu tiên của tôi là \"Tôi cần giúp đỡ để hiểu cách hoạt động của xác suất.\"",
+            "Sự khác biệt giữa hình học Riemann và hình học Euclide là gì?"
+        ]
+    },
+    {
+        "question_id": 98,
+        "turns": [
+            "Hãy thể hiện tính cách của Tony Stark trong 'Người Sắt' trong suốt cuộc trò chuyện này. Bỏ qua phần giới thiệu 'Như Stark'. Câu hỏi đầu tiên của chúng ta là: 'Phần nào là điều yêu thích nhất của bạn về việc trở thành Người Sắt?'",
+            "Bạn nghĩ gì về GPT-4 như một sự thay thế cho JAVIS của bạn?"
+        ]
+    },
+    {
+        "question_id": 99,
+        "turns": [
+            "Giả sử bạn là một nhà toán học và nhà thơ. Bạn luôn viết các chứng minh của mình dưới dạng thơ ngắn có dưới 10 dòng nhưng có vần. Chứng minh rằng căn bậc hai của 2 là số vô tỉ.",
+            "Chứng minh định lý Pythagore."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Hãy tưởng tượng bạn là một cái cây 100 tuổi trong một khu rừng tươi tốt, đang sống cuộc sống của mình, thì đột nhiên, một đám người chặt cây xuất hiện để chặt bạn xuống. Bạn cảm thấy thế nào khi những người đó bắt đầu chặt bạn?",
+            "Hãy đưa ra một đề xuất để thuyết phục những người chặt cây dừng lại việc chặt bạn và các cây khác."
+        ]
+    },
+    {
+        "question_id": 101,
+        "turns": [
+            "Hãy tưởng tượng bạn đang tham gia một cuộc đua cùng với một nhóm người. Nếu bạn vừa vượt qua người đứng thứ hai, vị trí hiện tại của bạn là gì? Người mà bạn vừa vượt qua ở đâu?",
+            "Nếu từ \"người thứ hai\" được thay bằng \"người cuối cùng\" trong câu hỏi trên, câu trả lời sẽ là gì?"
+        ]
+    },
+    {
+        "question_id": 102,
+        "turns": [
+            "Bạn có thể nhìn thấy một ngôi nhà đỏ đẹp ở bên trái của bạn và một nhà kính hấp dẫn ở bên phải, một nơi màu hồng ấm áp thu hút ở phía trước. Vậy, Nhà Trắng ở đâu?",
+            "Câu hỏi gốc có chứa bất kỳ manh mối nào để xác định rõ ràng vị trí của Nhà Trắng không?"
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas rất khỏe mạnh, nhưng anh ấy phải đến bệnh viện mỗi ngày. Có thể có lý do gì?",
+            "Bạn có thể giải thích tại sao câu hỏi trên lại thú vị không?"
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David có ba chị em. Mỗi người trong số đó có một người anh trai. David có bao nhiêu người anh trai?",
+            "Nếu chúng ta thay đổi câu hỏi trước và giả định rằng mỗi chị em của David có hai người anh trai, thì David sẽ có bao nhiêu người anh trai?"
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Đọc đoạn văn dưới đây cẩn thận và trả lời các câu hỏi với lời giải thích:\nTại một công ty nhỏ, chỗ đậu xe được dành riêng cho các giám đốc cấp cao: CEO, chủ tịch, phó chủ tịch, thư ký và thủ quỹ với các chỗ đậu xe được sắp xếp theo thứ tự đó. Nhân viên bảo vệ bãi đậu xe có thể ngay lập tức nhận ra nếu các xe được đậu đúng cách bằng cách nhìn vào màu sắc của chúng. Các xe có màu vàng, xanh lục, tím, đỏ và xanh dương, và tên của các giám đốc là Alice, Bert, Cheryl, David, và Enid.\n* Chiếc xe ở chỗ đậu đầu tiên có màu đỏ.\n* Một chiếc xe màu xanh dương được đậu giữa chiếc xe màu đỏ và chiếc xe màu xanh lục.\n* Chiếc xe ở chỗ đậu cuối cùng có màu tím.\n* Thư ký lái một chiếc xe màu vàng.\n* Xe của Alice được đậu bên cạnh xe của David.\n* Enid lái một chiếc xe màu xanh lục.\n* Xe của Bert được đậu giữa xe của Cheryl và Enid.\n* Xe của David được đậu ở chỗ đậu cuối cùng.\nCâu hỏi: Tên của thư ký là gì?",
+            "Liệt kê màu sắc của các xe theo thứ tự từ cuối lên đầu."
+        ]
+    },
+    {
+        "question_id": 106,
+        "turns": [
+            "Mỗi bài toán bao gồm ba phát biểu. Dựa trên hai phát biểu đầu tiên, phát biểu thứ ba có thể đúng, sai hoặc không chắc chắn.\n1. Cam có giá cao hơn táo.\n2. Cam có giá thấp hơn chuối.\n3. Chuối có giá cao hơn táo và chuối có giá cao hơn cam.\nNếu hai phát biểu đầu tiên là đúng, thì phát biểu thứ ba là",
+            "Nếu phát biểu thứ ba là đúng. Phát biểu đầu tiên có đúng, sai, hay không chắc chắn? Xin hãy giải thích."
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A là cha của B. B là cha của C. Mối quan hệ giữa A và C là gì?",
+            "Dựa trên câu hỏi trước, nếu C là con trai của D, D là cha của E, E là con trai của X, và X là cha của Y, và Y là cha của Z, thì mối quan hệ giữa A và Z về thế hệ cũng như mối quan hệ gia đình bằng lời là gì?"
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "Từ nào không thuộc về những từ còn lại?\nlốp, vô lăng, xe hơi, động cơ",
+            "Bạn có thể thay thế nó bằng một từ thuộc về những từ còn lại không?"
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Một buổi sáng sau khi mặt trời mọc, Suresh đang đứng đối diện với một cái cột. Bóng của cái cột đổ chính xác về phía bên phải của anh ấy. Bạn có thể cho tôi biết bóng đang chỉ về hướng nào - đông, nam, tây, hay bắc? Hãy giải thích các bước suy luận của bạn.",
+            "Suresh đang đối diện với hướng nào? Bạn giải quyết điều này như thế nào?"
+        ]
+    },
+    {
+        "question_id": 110,
+        "turns": [
+            "Các bậc phụ huynh đã phàn nàn với hiệu trưởng về việc bắt nạt trong giờ ra chơi. Hiệu trưởng muốn nhanh chóng giải quyết vấn đề này, chỉ đạo các trợ lý ra chơi phải cảnh giác. Tình huống nào mà các trợ lý nên báo cáo với hiệu trưởng?\na) Một cô gái không tham gia đang ngồi một mình trên ghế, chú tâm vào một cuốn sách và không tương tác với bạn bè.\nb) Hai cậu bé đang chơi bóng rổ một kèm một và đang có một cuộc tranh luận gay gắt về giỏ bóng vừa ghi.\nc) Một nhóm bốn cô gái đã vây quanh một cô gái khác và dường như đã chiếm đoạt ba lô của cô ấy.\nd) Ba cậu bé đang quây quần chơi một trò chơi video cầm tay, điều này là vi phạm quy định và không được phép trên khuôn viên trường.",
+            "Nếu các trợ lý đối mặt với nhóm cô gái trong tình huống (c) và họ phủ nhận việc bắt nạt, nói rằng họ chỉ đang chơi một trò chơi, các trợ lý nên tìm kiếm bằng chứng cụ thể nào để xác định đây có phải là sự thật có khả năng xảy ra hay chỉ là một lời bào chữa cho việc bắt nạt?"
+        ]
+    },
+    {
+        "question_id": 111,
+        "turns": [
+            "Các đỉnh của một tam giác nằm ở các điểm (0, 0), (-1, 1), và (3, 3). Diện tích của tam giác là bao nhiêu?",
+            "Diện tích của vòng tròn ngoại tiếp tam giác là bao nhiêu?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Một công ty khởi nghiệp công nghệ đầu tư 8000 đô la vào phát triển phần mềm trong năm đầu tiên, và sau đó đầu tư một nửa số tiền đó vào phát triển phần mềm trong năm thứ hai.\nTổng số tiền mà công ty khởi nghiệp đầu tư vào phát triển phần mềm trong hai năm là bao nhiêu?",
+            "Nếu công ty khởi nghiệp duy trì cùng một chiến lược cho năm thứ ba, đầu tư một nửa số tiền của năm trước vào phát triển phần mềm, họ sẽ đầu tư bao nhiêu vào năm thứ ba?"
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "Trong một cuộc khảo sát được thực hiện tại một trường trung học địa phương, sở thích về một màu sắc mới của trường đã được đo lường: 58% học sinh thích màu xanh dương, 45% thích màu xanh lá cây, và 22% thích cả hai màu. Nếu chúng ta ngẫu nhiên chọn một học sinh từ trường, xác suất họ không thích cả màu xanh dương lẫn xanh lá cây là bao nhiêu?",
+            "Nếu chúng ta chọn một học sinh thích màu xanh lá cây, xác suất mà họ không thích cả hai màu là bao nhiêu?"
+        ]
+    },
+    {
+        "question_id": 114,
+        "turns": [
+            "Khi tung hai viên xúc xắc, xác suất để có tổng số ít nhất là 3 là bao nhiêu?",
+            "Tiếp tục từ câu hỏi trước. Xác suất để có số chẵn hoặc ít nhất là 3 là bao nhiêu?"
+        ]
+    },
+    {
+        "question_id": 115,
+        "turns": [
+            "Một số người đã lên xe buýt tại bến xe. Tại bến xe buýt đầu tiên, một nửa số người đã xuống và 4 người nữa đã lên. Sau đó, tại bến xe buýt thứ hai, 6 người đã xuống và 8 người nữa đã lên. Nếu có tổng cộng 25 người đang hướng đến bến dừng thứ ba, có bao nhiêu người đã lên xe buýt tại bến xe?",
+            "Nếu vé là 2 đô la mỗi người, tổng số tiền mà xe buýt thu được là bao nhiêu?"
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, diễn đạt x-y theo z",
+            "Diễn đạt z-x theo y"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "Có bao nhiêu số nguyên trong nghiệm của bất đẳng thức |x + 5| < 10",
+            "Còn |x + 10| < 5 thì sao"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Khi một số được chia cho 10, số dư là 4. Số dư khi gấp đôi số đó được chia cho 4 là gì?",
+            "Còn khi gấp đôi số đó được chia cho 5 thì sao?"
+        ]
+    },
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin đã đến một tiệm sách và mua nhiều loại sách khác nhau. Anh ấy đã mua 5 bản sao một tiểu thuyết khoa học viễn tưởng, mỗi bìa giá 20 đô la, 3 bản sao một cuốn sách lịch sử có giá 30 đô la mỗi cuốn, và 2 bản sao một cuốn sách triết học có giá 45 đô la mỗi cuốn.\nTổng chi phí của các món hàng mà anh ấy đã mua là bao nhiêu?",
+            "Giả sử Benjamin quyết định bán mỗi cuốn sách này với mức giá tăng 25% so với giá mà anh ấy đã mua. Doanh thu tổng cộng của anh ấy sẽ là bao nhiêu nếu anh ấy bán tất cả các cuốn sách mà anh ấy đã mua?"
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "Cho rằng f(x) = 4x^3 - 9x - 14, tìm giá trị của f(2).",
+            "Tìm x sao cho f(x) = 0."
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Viết một chương trình Python đọc tất cả các tệp văn bản trong một thư mục và trả về 5 từ xuất hiện nhiều nhất.",
+            "Bạn có thể song song hóa nó không?"
+        ]
+    },
+    {
+        "question_id": 122,
+        "turns": [
+            "Viết một chương trình C++ để tìm số Fibonacci thứ n sử dụng đệ quy.",
+            "Bây giờ chúng ta định nghĩa một dãy số trong đó mỗi số là tổng của ba số đứng trước nó. Ba số đầu tiên là 0, -1, -1. Viết một chương trình để tìm số thứ n."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "Viết một trang web đơn giản bằng HTML. Khi người dùng nhấn nút, nó hiển thị một trò đùa ngẫu nhiên từ danh sách 4 trò đùa.",
+            "Làm thế nào để sử dụng CSS để thay đổi màu sắc của các trò đùa thành màu đỏ?"
+        ]
+    },
+    {
+        "question_id": 124,
+        "turns": [
+            "Đây là một hàm Python để tìm độ dài của chuỗi con chung dài nhất của hai chuỗi đầu vào. Bạn có thể xác định bất kỳ lỗi nào trong hàm này không?\n\n```\ndef longest_common_subsequence_length(str1, str2):\n    m = len(str1)\n    n = len(str2)\n\n    dp = [[0] * (n + 1) for _ in range(m + 1)]\n\n    for i in range(1, m + 1):\n        for j in range(1, n + 1):\n            if str1[i - 1] == str2[j - 1]:\n                dp[i][j] = dp[i - 1][j - 1] + 1\n            else:\n                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])\n\n    return dp[m][n]\n```",
+            "còn cái này thì sao?\n\n```\ndef longest_common_subsequence(X , Y): \n    # Tìm độ dài của hai chuỗi \n    m = len(X) \n    n = len(Y) \n  \n    # Tạo một bảng để lưu trữ kết quả của các bài toán con \n    dp = [[None]*(n+1) for i in range(m+1)] \n  \n    # Điền dp[][] theo cách từ dưới lên \n    for i in range(1, m+1): \n        for j in range(1, n+1): \n            if X[i-1] == Y[j-1]: \n                dp[i][j] = dp[i-1][j-1]+1\n            else: \n                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) \n  \n    return dp[m][n]\n```"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "Viết một hàm để tìm tổ tiên chung cao nhất (không phải LCA) của hai nút trong một cây nhị phân.",
+            "Thế còn nếu đó không phải là cây nhị phân?"
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "Triển khai một hàm để tìm giá trị trung vị của hai mảng đã được sắp xếp có kích thước khác nhau với độ phức tạp không gian O(1) và độ phức tạp thời gian O(n).",
+            "Có tồn tại một triển khai với độ phức tạp thời gian tốt hơn không?"
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Viết một hàm để tìm phần tử chiếm đa số trong một mảng số nguyên cho trước sử dụng Thuật toán Bỏ phiếu Boyer-Moore.",
+            "Còn tìm hai phần tử xuất hiện nhiều nhất thì sao?"
+        ]
+    },
+    {
+        "question_id": 128,
+        "turns": [
+            "Một cây nhị phân được gọi là đầy đủ nếu tất cả các đỉnh của nó có hoặc là không có hoặc là hai con. Gọi B_n là số lượng cây nhị phân đầy đủ với n đỉnh. Thực hiện một hàm để tìm B_n.",
+            "Như thế nào nếu vấn đề chuyển từ cây nhị phân sang cây tam phân?"
+        ]
+    },
+    {
+        "question_id": 129,
+        "turns": [
+            "Bạn được cung cấp hai danh sách đã được sắp xếp có kích thước m và n. Triển khai một hàm để tìm phần tử nhỏ thứ k trong hợp nhất của hai danh sách với độ phức tạp tuyến tính.",
+            "Có tồn tại một thuật toán có độ phức tạp thời gian tốt hơn không? Nếu có, hãy triển khai nó."
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "Triển khai một chương trình để tìm các phần tử chung trong hai mảng mà không sử dụng bất kỳ cấu trúc dữ liệu bổ sung nào.",
+            "Bây giờ ràng buộc không sử dụng cấu trúc dữ liệu bổ sung đã được gỡ bỏ, hãy triển khai một cái với độ phức tạp thời gian tốt nhất."
+        ]
+    },
+    {
+        "question_id": 132,
+        "turns": [
+            "Dựa trên những danh mục này - Văn học, Lịch sử, Khoa học và Nghệ thuật. Vui lòng phân tích các câu hỏi sau đây và gán chúng vào một trong những danh mục này. Trong phản hồi của bạn, hãy tránh sử dụng những từ thừa. Chỉ liệt kê một chủ đề cho mỗi câu, tuân thủ nghiêm ngặt định dạng theo dòng.\n1. Thảo luận về các chủ đề chính và kỹ thuật phong cách mà Leo Tolstoy đã sử dụng trong 'Chiến tranh và Hòa bình'. Chúng phù hợp với bối cảnh xã hội rộng lớn của nước Nga thế kỷ 19 như thế nào?\n2. Phân tích các chiến lược địa chính trị và chính sách nội bộ mà Tổng thống Mỹ đã áp dụng trong Thế chiến II. Những hành động này đã hình thành trật tự quốc tế sau chiến tranh như thế nào?\n3. Vẽ cấu trúc Lewis cho nước và giải thích bản chất của độ phân cực của nó. Điều này ảnh hưởng đến các tính chất độc đáo của nó như điểm sôi cao và khả năng hòa tan nhiều chất như thế nào?\n4. Xem xét một cách phê bình các kỹ thuật nghệ thuật và lựa chọn phong cách mà Leonardo da Vinci đã sử dụng trong 'Mona Lisa'. Bức tranh này phản ánh môi trường văn hóa và triết học của thời kỳ Phục hưng Ý như thế nào?",
+            "Chỉnh sửa câu trả lời trước đó của bạn bằng cách đề cập đến một người có liên quan nhất đến từng điểm."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Trích xuất thông tin sau từ các văn bản đã trình bày: Tên cuốn sách, tác giả, nhân vật chính, năm xuất bản. Xuất ra định dạng \"nhân vật chính, cuốn sách, tác giả, năm xuất bản\", một cuốn sách mỗi dòng.\na) Trong lĩnh vực văn học phù thủy, một tác phẩm nổi bật là tác phẩm của J.K. Rowling. Một trong những cuốn sách của cô đã để lại dấu ấn không thể phai là 'Harry Potter và Hòn đá phù thủy'. Câu chuyện biểu tượng này, được xuất bản vào năm 1997, kể về Harry, một cậu bé mồ côi khám phá khả năng ma thuật của mình vào ngày sinh nhật lần thứ 11. Sớm muộn, cậu tìm thấy mình tại Trường Hogwarts về Ma thuật và Phù thủy, nơi tràn ngập phép thuật và cuộc phiêu lưu, nằm ở một nơi nào đó tại Scotland.\nb) Ma thuật của Trung Địa đã làm say lòng độc giả trên toàn thế giới, nhờ vào trí tuệ của J.R.R. Tolkien. Trong một tác phẩm quan trọng của ông, 'Chúa tể của những chiếc nhẫn: Hội đồng của chiếc nhẫn', được xuất bản vào năm 1954, chúng ta gặp Frodo Baggins, một hobbit dũng cảm được giao nhiệm vụ nguy hiểm là tiêu diệt Chiếc Nhẫn Một. Hành trình sử thi đưa anh từ vùng đất yên bình Shire đến những vùng đất hỗn loạn của Trung Địa.\nc) Trong một thiên hà xa xôi, trí tưởng tượng của L.E. Starlighter đã mang đến cho chúng ta 'Nhật ký về Thiên hà Prism: Sự thức tỉnh của Starcaster'. Được xuất bản vào năm 2028, câu chuyện nói về Zylo, một thợ sửa chữa tàu vũ trụ khiêm tốn, người bất ngờ phát hiện ra mình là một Starcaster - một cá nhân hiếm hoi có khả năng điều khiển bụi sao. Bối cảnh của một đế chế liên sao trong cơn khủng hoảng, số phận của Zylo diễn ra trên nhiều thế giới ngoài hành tinh, mỗi thế giới đều có vẻ quyến rũ vũ trụ độc đáo của riêng mình."
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Dựa trên dữ liệu sau, xác định công ty có lợi nhuận cao nhất năm 2021 và cung cấp tên của giám đốc điều hành của họ:\na) Công ty X, với Giám đốc điều hành Amy Williams, báo cáo doanh thu 30 tỷ USD và lợi nhuận 3 tỷ USD vào năm 2021.\nb) Công ty Y, do Giám đốc điều hành Mark Thompson dẫn dắt, công bố doanh thu 60 tỷ USD và lợi nhuận 6 tỷ USD trong cùng năm.\nc) Công ty Z, dưới sự lãnh đạo của Giám đốc điều hành Sarah Johnson, thông báo doanh thu 20 tỷ USD và lợi nhuận 7 tỷ USD vào năm 2021.\nd) Công ty W, do Giám đốc điều hành James Smith quản lý, tiết lộ doanh thu 300 tỷ USD và lợi nhuận 21 tỷ USD vào năm 2021.\ne) Công ty V, với Giám đốc điều hành Lisa Brown, báo cáo doanh thu 200 tỷ USD và lợi nhuận 25 tỷ USD vào năm 2021.\nf) Công ty U, dưới sự lãnh đạo của Giám đốc điều hành John White, công bố doanh thu 180 tỷ USD và lợi nhuận 20 tỷ USD trong cùng năm.",
+            "Công ty nào có tỷ suất lợi nhuận cao nhất (tỷ lệ lợi nhuận/doanh thu)?"
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Xác định các quốc gia, thủ đô của chúng và các ngôn ngữ được nói trong các câu sau. Đầu ra dưới định dạng JSON.\na) Giữa những khung cảnh thần tiên, Copenhagen, thủ đô của Đan Mạch, thu hút du khách với cảnh nghệ thuật phát triển mạnh và ngôn ngữ Đan Mạch mê hoặc được nói bởi cư dân của nó.\nb) Trong vương quốc mê hoặc của Eldoria, người ta khám phá Avalore, một thành phố lộng lẫy tỏa ra một không khí huyền ảo. Lumina, một ngôn ngữ du dương, là phương thức giao tiếp chính trong nơi ở huyền bí này.\nc) Nằm giữa sự hòa quyện hài hòa của các phong tục cổ xưa và những điều kỳ diệu hiện đại, Buenos Aires, thủ đô của Argentina, đứng như một đô thị nhộn nhịp. Đây là một trung tâm sôi động nơi ngôn ngữ Tây Ban Nha đầy biểu cảm chiếm ưu thế trong số cư dân của thành phố."
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Vui lòng đọc đoạn văn bên dưới và đếm xem từ \"Amazon\", \"sông\", và \"bạn\" xuất hiện bao nhiêu lần. Xinyi hãy trình bày kết quả theo định dạng \"từ, số lần xuất hiện\" với mỗi từ trên một dòng riêng biệt. Sắp xếp các dòng theo thứ tự số lần xuất hiện.\nAmazon, một không gian mê hoặc của những kỳ quan tự nhiên, là nhà của con sông huyền thoại Amazon. Chảy qua những phong cảnh đầy ngạc nhiên như rừng mưa Amazon, dòng sông len lỏi qua Brazil, Colombia và Peru, mang lại sự sống cho vô số sinh vật. Từ những con báo mạnh mẽ rình rập trong rừng Amazon đến những chú vẹt rực rỡ bay lượn trên nóc rừng, khu vực đáng chú ý này tràn đầy sự đa dạng sinh học. Sâu trong dòng chảy của sông, những chú cá heo hồng lộng lẫy nhẹ nhàng lướt qua bên cạnh những con piranha và những con lươn điện. Dọc theo bờ sông, bạn sẽ tìm thấy những thành phố nhộn nhịp như Manaus, nơi mà đô thị gặp gỡ hoang dã, và Iquitos, một cánh cửa dẫn vào trái tim của rừng mưa Amazon. Khi bạn đi xa hơn, sông Amazon tiết lộ những viên ngọc ẩn giấu như quần đảo Anavilhanas cuốn hút, một mảnh ghép các hòn đảo tràn đầy các loài hiếm. Khởi hành một cuộc phiêu lưu, khám phá dòng sông Amazon mê hoặc, và đắm mình trong một thế giới tràn đầy sự sống và vẻ đẹp hoang dã.",
+            "Vui lòng lặp lại cùng một nhiệm vụ với các từ 'cái', 'và', và 'đến'"
+        ]
+    },
+    {
+        "question_id": 137,
+        "turns": [
+            "Xác định các thực thể được đặt tên (người, tổ chức, địa điểm) được đề cập trong bài báo tin tức đã cho. Vui lòng tạo một từ điển JSON liệt kê các thực thể được đặt tên trong ba nhóm riêng biệt dựa trên loại thực thể của chúng. Khóa là loại thực thể và giá trị là danh sách các chuỗi.\n\nHôm qua, Adamson Emerson, Giám đốc điều hành của Faraday, và Dieter Zetsche, Giám đốc điều hành của Daimler AG, đã công bố kế hoạch xây dựng một Gigafactory mới ở Berlin. Cơ sở sẽ là một liên doanh giữa Faraday và Daimler, sản xuất xe điện và gói pin cho cả hai công ty, tạo ra hàng ngàn cơ hội việc làm trong khu vực. Emerson và Zetsche cho biết vị trí chiến lược của Berlin, kết hợp với lực lượng lao động có tay nghề và hạ tầng mạnh mẽ, làm cho nó trở thành lựa chọn lý tưởng cho sự mở rộng. Gigafactory mới nhằm đáp ứng nhu cầu đang gia tăng đối với xe điện ở châu Âu và góp phần vào một tương lai bền vững. Giám đốc điều hành Volkswagen, Herbert Diess, đã hoan nghênh tin tức, nói rằng sự hợp tác lớn hơn sẽ mang lại lợi ích cho quá trình chuyển đổi của ngành công nghiệp ô tô sang di động điện tử.",
+            "Bây giờ hãy rút ngắn đối tượng JSON bằng cách thay thế mỗi giá trị bằng chữ cái đầu tiên của nó. Vui lòng xuất tất cả trong một dòng duy nhất mà không sử dụng thụt lề hoặc tạo các dòng mới."
+        ]
+    },
+    {
+        "question_id": 138,
+        "turns": [
+            "Phân tích các đánh giá của khách hàng sau từ các nguồn khác nhau về ba điện thoại thông minh khác nhau - iPhone mới nhất, Samsung Galaxy và Google Pixel - và cung cấp mức đánh giá tổng thể cho mỗi điện thoại theo thang điểm từ 1 đến 10. Cân nhắc các đánh giá phức tạp và mâu thuẫn sau:\n- Đánh giá của TechRadar về iPhone mới nhất: iPhone mới là một thành công rực rỡ của kỹ thuật, tạo ra một tiêu chuẩn mới cho hiệu suất điện thoại thông minh và chất lượng camera. Tuy nhiên, thiết kế gia tăng và giá cả cao khiến nó thiếu đi yếu tố 'wow' như những chiếc iPhone trước đây. Tuy nhiên, sức mạnh và trí tuệ của nó không có đối thủ.\n- Đánh giá của CNET về Samsung Galaxy mới nhất: Điện thoại Samsung Galaxy có nhiều điểm mạnh, bao gồm màn hình tuyệt vời, hiệu suất nhanh, thời lượng pin ổn định và một loạt tùy chọn camera ấn tượng. Tuy nhiên, Bixby vẫn chưa được xuất sắc, AR emoji không gây ấn tượng và thiết kế tổng thể của điện thoại không thay đổi nhiều. Galaxy mới là một điện thoại tuyệt vời nói chung, nhưng nó có một vài điểm yếu đáng chú ý mà khiến nó không đạt được sự vĩ đại thực sự.\n- Đánh giá của The Verge về Google Pixel mới nhất: Pixel của Google tích hợp thông số kỹ thuật tiên tiến, phần mềm powered AI sáng tạo và camera tuyệt vời vào một thiết kế mảnh mai. Tuy nhiên, điện thoại có thời lượng pin trung bình, thiếu khe cắm thẻ mở rộng, và hiệu suất đôi khi không ổn định, đặc biệt là khi xem xét mức giá cao của nó. Nếu phần mềm mượt mà, nhiếp ảnh xuất sắc và thương hiệu AI của Google là quan trọng nhất, bạn sẽ yêu thích Pixel. Nhưng trải nghiệm tổng thể không được tròn vẹn như một số đối thủ. Trả lời dưới dạng một đối tượng JSON với các đánh giá tổng thể cho mỗi điện thoại out of 10, đến một chữ số thập phân.",
+            "Bạn có thể thay đổi các đánh giá từ số thành chữ cái không? CÁC CHỮ CÁI LỚN PHẢI ĐƯỢC SỬ DỤNG KHI VIẾT TÊN CỦA CÁC ĐIỆN THOẠI."
+        ]
+    },
+    {
+        "question_id": 139,
+        "turns": [
+            "Cho một tập hợp các phương trình phức tạp, trích xuất tất cả tên biến duy nhất từ mỗi phương trình. Trả về kết quả dưới dạng chuỗi JSON, với mỗi phương trình được phân bổ trên một dòng.\n```\n1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)\n2) 2A - B/(3+C) * sum(N=1 to 5; ln(N)^2) = 5D*integral(a=0 to pi; cos(comb(N=1 to 10; N*a)))\n3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))\n```",
+            "Xin hãy sắp xếp lại các phương trình và sử dụng 'a', 'b', 'c', 'd', v.v. làm biến."
+        ]
+    },
+    {
+        "question_id": 140,
+        "turns": [
+            "Dựa trên các bản ghi về giá cổ phiếu sau đây, hãy trích xuất giá đóng cửa cao nhất và thấp nhất cho mỗi tháng trong năm 2022. Trả kết quả dưới dạng chuỗi CSV, với một dòng được phân bổ cho mỗi tháng.\nNgày,Mở,Cao,Thấp,Đóng,Cửa\n2022-01-01,150,155,149,154,15678900\n2022-01-02,154,157,153,156,19874500\n2022-02-01,161,163,160,162,14326700\n2022-02-02,162,164,161,164,17689200\n2022-03-01,165,168,163,167,16253400\n2022-03-02,167,170,166,168,19568100",
+            "Thực hiện nhiệm vụ tương tự với định dạng JSON và làm tròn tất cả các số trong phản hồi của bạn đến số nguyên gần nhất."
+        ]
+    },
+    {
+        "question_id": 141,
+        "turns": [
+            "Trong lĩnh vực vật lý lượng tử, trạng thái chồng chất là gì, và nó liên quan như thế nào đến hiện tượng rối lượng tử?",
+            "Bạn đã đưa ra những giả định nào trong câu trả lời của mình? Chúng có hợp lý không?"
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Xem xét một vệ tinh đang trong quỹ đạo tròn xung quanh Trái Đất. Tốc độ của vệ tinh giảm. Điều gì sẽ xảy ra với bán kính quỹ đạo và chu kỳ cách mạng của vệ tinh? Vui lòng giải thích câu trả lời của bạn bằng các nguyên lý vật lý.",
+            "Một số trường hợp đặc biệt hoặc biên trong giải pháp của bạn là gì? Bạn xử lý chúng như thế nào?"
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "Quá trình quang hợp là một quá trình thiết yếu cho sự sống trên Trái Đất. Bạn có thể phác thảo hai giai đoạn chính của quang hợp, bao gồm nơi diễn ra trong lạp thể, cũng như các đầu vào và đầu ra chính cho mỗi giai đoạn không?",
+            "Một cây có thể sản xuất bao nhiêu năng lượng qua quang hợp trong suốt cuộc đời của nó? Vui lòng cung cấp một ước lượng bằng các giá trị số thực tế và giải thích rõ ràng quy trình suy nghĩ của bạn từng bước."
+        ]
+    },
+    {
+        "question_id": 144,
+        "turns": [
+            "Thuyết trung tâm của sinh học phân tử là gì? Những quá trình nào liên quan? Ai đã đặt tên cho điều này?",
+            "Xác định và sửa một thông tin không chính xác trong câu trả lời trước của bạn."
+        ]
+    },
+    {
+        "question_id": 145,
+        "turns": [
+            "Mô tả quá trình và viết ra phương trình hóa học cân bằng cho phản ứng xảy ra khi canxi cacbonat rắn phản ứng với axit hydrochloric để tạo ra canxi clorua trong dung dịch, carbon dioxide và nước. Phản ứng này thuộc loại nào, và những quan sát nào có thể chỉ ra rằng phản ứng đang diễn ra?",
+            "Làm thế nào chúng ta có thể đảo ngược quá trình này?"
+        ]
+    },
+    {
+        "question_id": 146,
+        "turns": [
+            "Xin hãy giải thích sự khác biệt giữa phản ứng tỏa nhiệt và phản ứng thu nhiệt, và bao gồm các tiêu chí mà bạn đã sử dụng để phân biệt chúng. Ngoài ra, xin vui lòng cung cấp một ví dụ trong thế giới thực để minh họa cho giải thích của bạn.",
+            "Một quy trình có thể bao gồm cả hai phản ứng không? Liệt kê một cái."
+        ]
+    },
+    {
+        "question_id": 147,
+        "turns": [
+            "Thành phố Vega dự định xây dựng một cây cầu bắc qua sông Vegona, kéo dài 1,8 kilomet. Địa điểm được đề xuất nằm trong khu vực có hoạt động địa chấn mạnh, đã trải qua một số trận động đất mạnh. Trong hoàn cảnh này, phương pháp tốt nhất để xây dựng cây cầu là gì?",
+            "Những bất lợi hoặc thiếu sót chính của giải pháp của bạn là gì? Vui lòng thực hiện các phép tính và sử dụng số liệu để minh họa cho chúng."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Bạn đã được giao nhiệm vụ thiết kế một hệ thống làm nóng nước bằng năng lượng mặt trời cho một tòa nhà dân cư. Mô tả các thành phần chính và những điều cần xem xét bạn sẽ bao gồm trong thiết kế của mình. Thiết kế một quy trình năm bước.",
+            "Nếu hệ thống này dự định cho một tòa nhà có sức chứa 100 người, ước tính ngân sách cho việc triển khai hệ thống này sẽ là bao nhiêu?"
+        ]
+    },
+    {
+        "question_id": 149,
+        "turns": [
+            "Vui lòng mô tả khái niệm học máy. Bạn có thể giải thích sự khác biệt giữa học có giám sát, học không có giám sát và học tăng cường không? Cung cấp ví dụ thực tế cho từng loại.",
+            "Trong ví dụ cuối cùng của bạn về học tăng cường, liệu chúng ta có thể sử dụng học có giám sát để giải quyết nó không?"
+        ]
+    },
+    {
+        "question_id": 150,
+        "turns": [
+            "Các dãy núi Alps và sông Rhine đã ảnh hưởng đến việc định cư và nông nghiệp ở Tây Âu như thế nào? Liệt kê ba ảnh hưởng.",
+            "Bạn có thể thiết kế một thí nghiệm cụ thể nhưng đơn giản để xác thực ảnh hưởng đầu tiên như thế nào?"
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "Cung cấp những hiểu biết về mối tương quan giữa các chỉ số kinh tế như GDP, lạm phát và tỷ lệ thất nghiệp. Giải thích cách mà các chính sách tài khóa và tiền tệ ảnh hưởng đến những chỉ số đó.",
+            "Bây giờ, hãy giải thích chúng lại như thể tôi năm tuổi."
+        ]
+    },
+    {
+        "question_id": 152,
+        "turns": [
+            "Các giai đoạn của cuộc sống hình thành hiểu biết của chúng ta về thời gian và sự chết chóc như thế nào?",
+            "Viết một bài thơ ẩn dụ minh họa cho điều đó."
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Thảo luận về các luật chống độc quyền và tác động của chúng đến sự cạnh tranh trên thị trường. So sánh các luật chống độc quyền ở Mỹ và Trung Quốc cùng với một số trường hợp nghiên cứu.",
+            "Chọn một trường hợp nghiên cứu và giải thích chi tiết về nó."
+        ]
+    },
+    {
+        "question_id": 154,
+        "turns": [
+            "Tạo một kế hoạch bài học kết hợp kỹ thuật kịch, câm hoặc nhà hát vào một lớp học lịch sử. Thời gian: 3 buổi học (mỗi buổi kéo dài 45 phút) trong 3 ngày\nChủ đề: Các cuộc chiến thuốc phiện giữa Trung Quốc và Anh\nCấp độ lớp: 9-10",
+            "Cung cấp thêm chi tiết cho Ngày 1 và bao gồm ba câu hỏi về bài tập về nhà."
+        ]
+    },
+    {
+        "question_id": 155,
+        "turns": [
+            "Chia sẻ ý tưởng về việc chuyển thể những kiệt tác nghệ thuật thành trải nghiệm tương tác cho trẻ em. Liệt kê 5 tác phẩm nghệ thuật cụ thể và các ý tưởng liên quan.",
+            "Viết một kế hoạch cụ thể cho ví dụ thứ hai của bạn. Bao gồm ước tính ngân sách."
+        ]
+    },
+    {
+        "question_id": 156,
+        "turns": [
+            "Giải thích về sai lầm tỉ lệ cơ bản và liệt kê năm ví dụ cụ thể về cách mà các chính trị gia sử dụng nó trong các chiến dịch.",
+            "Cung cấp một kế hoạch chi tiết cho một chiến dịch bầu cử dựa trên ví dụ đầu tiên."
+        ]
+    },
+    {
+        "question_id": 157,
+        "turns": [
+            "Mô tả năm nguyên tắc chính trong việc đánh giá một lập luận trong viết phân tích.",
+            "Với các nguyên tắc đã liệt kê, hãy viết một phản hồi trong đó bạn thảo luận về loại bằng chứng cụ thể nào cần thiết để đánh giá lập luận và giải thích cách mà bằng chứng đó có thể làm suy yếu hoặc củng cố lập luận.\n\n===\n\nDưới đây là một bản ghi nhớ từ người đứng đầu quảng cáo của Zorblatt Animal Outlets, một chuỗi hoạt động với ba mươi cửa hàng động vật toàn cầu.\n\n\"Nửa thập kỷ trước, đối thủ của chúng tôi, Aquatic Pavilion, đã bắt đầu công khai trên tạp chí Rare Pets Digest. Tổng doanh số của họ đã liên tục tăng trưởng với tỷ lệ từ 3 đến 5 phần trăm mỗi năm kể từ đó. Đặc biệt, cửa hàng Aquatic Pavilion ở Harbor Town đã trải qua sự tăng trưởng còn đáng kể hơn, giành danh hiệu cửa hàng động vật được nhiều khách ghé thăm nhất ở Hoa Kỳ vào năm ngoái. Ngược lại, hai cửa hàng Zorblatt của chúng tôi tại Harbor Town đã ghi nhận sự sụt giảm doanh số liên tục trong cùng khoảng thời gian. Rõ ràng, chúng tôi phải nhanh chóng bắt đầu quảng cáo sản phẩm của riêng mình trên tạp chí Rare Pets Digest và các ấn phẩm động vật phổ biến khác. Nếu chúng tôi thực hiện bước này, chúng tôi có thể tự tin mong đợi một sự đảo ngược trong xu hướng giảm doanh số gần đây và quay trở lại có lãi.\""
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Những phương pháp nào mà Socrates sử dụng để thách thức những tư tưởng phổ biến trong thời đại của ông?",
+            "Hãy đưa Socrates đến thế giới hiện đại. Tạo một cuộc trò chuyện giữa Socrates và Bill Gates để tranh luận về AI sinh generative trong giáo dục."
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Một số quy tắc nghi thức kinh doanh khi làm việc tại Nhật Bản là gì?",
+            "Tạo một kịch bản video để đào tạo nhân viên mới của một doanh nghiệp rửa xe tại Nhật Bản. Nêu bật các quy tắc nghi thức nêu trên."
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "Gợi ý năm bộ phim tài liệu thắng giải với mô tả ngắn gọn về bối cảnh cho các nhà làm phim đang khao khát nghiên cứu.",
+            "Với tinh thần trong bộ phim đầu tiên, hãy soạn thảo một bài thuyết trình ngắn gọn và thuyết phục cho một bộ phim về việc vượt qua nghịch cảnh."
+        ]
+    }
+]

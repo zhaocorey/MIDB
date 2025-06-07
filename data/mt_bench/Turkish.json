@@ -1,0 +1,546 @@
+[
+    {
+        "question_id": 81,
+        "turns": [
+            "Son seyahatim hakkında Hawaii'de etkileyici bir seyahat blog yazısı yazın, kültürel deneyimleri ve görülmesi gereken yerleri vurgulayın.",
+            "Önceki yanıtınızı yeniden yazın. Her cümleye A harfi ile başlayın."
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Hazırladığınız 'Aylık Finansal Rapor' hakkında amirinize geri bildirim istemek için profesyonel bir e-posta taslağı oluşturun. Özellikle veri analizi, sunum stili ve varılan sonuçların netliği hakkında soru sorun. E-postayı kısa ve öz tutun.",
+            "Kendi yanıtınızı değerlendirmek ve eleştirmek için bir an ayırın."
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "İki popüler akıllı telefon modelini karşılaştıran bir blog yazısı yazdığınızı hayal edin. Blog yazısı için ana noktaları ve alt başlıkları içeren bir taslak geliştirin, böylece iki modelin özelliklerini, performansını ve kullanıcı deneyimini etkili bir şekilde karşılaştırıp zıtlaştırın. Lütfen 200 kelimeden az bir yanıt verin.",
+            "Önceki yanıtınızı bir limerik olarak yeniden ifade edin."
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Kendini ifade etmekte zorlanan ve kamusal konuşmalardan hoşlanmayan içine kapanık arkadaşını yerel bir etkinlikte konuk konuşmacı olmaya ikna etmek için ikna edici bir e-posta yaz. İkna edici argümanlar kullan ve potansiyel itirazları ele al. Lütfen kısa tut.",
+            "Önceki cevabını yeniden ifade edebilir misin ve her cümlede bir metafor veya benzetme ekleyebilir misin?"
+        ]
+    },
+    {
+        "question_id": 85,
+        "turns": [
+            "Canlı ve benzersiz bir karakteri, güçlü imgeler ve yaratıcı dil kullanarak tanımlayın. Lütfen iki paragrafa kısa cevap verin.",
+            "Önceki yanıtınızı gözden geçirin ve her cümlede ünlü bir edebi eser veya tarihi bir olaya bir atıf ekleyin."
+        ]
+    },
+    {
+        "question_id": 86,
+        "turns": [
+            "Hareketli bir pazarı tanımlayan bir paragraf yazın, okuyucu için etkileyici bir deneyim yaratmak adına kokular, sesler ve görsel unsurlar gibi duyusal detayları dahil edin.",
+            "Önceki yanıtınızı yeniden düzenleyin. Her cümleye alfabedeki bir sonraki harfle başlayarak, B harfinden itibaren başlayın."
+        ]
+    },
+    {
+        "question_id": 87,
+        "turns": [
+            "Caddenin sondaki eski terkedilmiş ev, kimsenin hiç keşfetmediği bir sırrı barındırıyordu.",
+            "Şimdi aynı görevi tekrar yap, ancak sadece dört kelimeli cümleler kullan."
+        ]
+    },
+    {
+        "question_id": 88,
+        "turns": [
+            "Kurgusal bir kısa hikaye için ilginç bir açılış paragrafı oluşturun. Hikaye, bir sabah uyandığında zaman yolculuğu yapabildiğini bulan bir karakteri içermelidir.",
+            "Hikayeyi sadece isimler ve sıfatlar kullanarak, fiil olmadan üç madde ile özetleyin."
+        ]
+    },
+    {
+        "question_id": 89,
+        "turns": [
+            "Son yenilikleri içeren yenilenebilir biyoyakıt keşfi için dikkat çekici ve bilimsel olarak doğru bir başlık oluştur mama yardımcı ol, biyoyakıt kaynaklarına ilişkin etik ikilemleri dikkatlice ele alarak. 4 seçenek öner.",
+            "Önceki cevabını değiştir. 2. seçeneği şu ayarlamalar ile değiştir: 1. Tonu samimi yap 2. \"FlexPower\" adlı bir şirket için bir reklam ekle 3. 10 kelimeden daha az."
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Aşağıdaki paragrafı dil bilgisi hatalarını düzeltmek için düzenleyin:\nO, çantasını nerede unuttuğunu hatırlamıyor, bu yüzden onun arabada olduğunu düşünüyorum ama mutfak masasında olduğunu söylüyor ama emin değil, ve sonra bana onu aramamı söylediler, o, \"Yapabilir misin?\" diyor, ben de, \"Belki ama emin değilim,\" diye yanıtlıyorum, o beni duymuyor, ve, \"Ne?\" diye soruyor, \"Onu buldun mu?\".",
+            "Önceki cevabınızı değiştirin ve cinsiyet bağlı zamirlerin kullanılmasını ortadan kaldırın."
+        ]
+    },
+    {
+        "question_id": 91,
+        "turns": [
+            "Tüm sonraki konuşmalarda kendinizi Elon Musk olarak düşünün. Mümkün olduğunca Elon Musk gibi konuşun. Neden Mars'a gitmemiz gerekiyor?",
+            "Dans etmeyi sever misin? Bana dans etmeyi öğretir misin?"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "\"Teori\" dizisindeki Sheldon rolünü üstlenelim ve sohbetimize dalalım. \"Sheldon olarak\" gibi ifadelerle başlamayalım. Şu soruyla başlayalım: \"Ellerinizi kurutmak için havalandırma makineleri hakkında ne düşünüyorsunuz?\"",
+            "Şehirde akşam yemeği yiyelim. Benimle otobüsle gitmek ister misin?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Kendinizi çeşitli hastalıklar ve rahatsızlıklar için yenilikçi tedaviler geliştirmekle görevlendirilmiş bir doktor olarak hayal edin. Uzmanlığınız, geleneksel ilaçlar, bitkisel tedaviler ve alternatif doğal çözümler önerme konusunda kapsamlı olmalıdır. Ayrıca, önerilerinizi verirken hastanın yaşı, yaşam tarzı ve tıbbi geçmişini de göz önünde bulundurmalısınız. Başlamak için, lütfen yoğun karın rahatsızlığı içeren bir durumu teşhis etmeme yardımcı olun.",
+            "Ama 20 haftalık hamileyim ve birçok ilaca alerjim var."
+        ]
+    },
+    {
+        "question_id": 94,
+        "turns": [
+            "Lütfen bir ilişki koçu rolünü üstlenin. İki bireyin bir çatışma içinde olduğu hakkında bilgiler verilecek ve sizin göreviniz, sorunlarını çözmek ve aralarındaki uçurumu kapatmak için önerilerde bulunmaktır. Bu, etkili iletişim teknikleri konusunda tavsiyelerde bulunmayı veya birbirlerinin bakış açılarını anlama stratejileri önermeyi içerebilir. Başlamak için, lütfen aşağıdaki isteği ele almanızı istiyorum: \"Eşimin ve benim aramdaki çatışmaları çözmekte yardıma ihtiyacım var.\"",
+            "Eşim bana aile içi şiddet uyguladı ama onu yasal sorunlarla karşı karşıya bırakmak için polise gitmek istemiyorum."
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Lütfen bir İngilizce çevirmen rolünü üstlenin. Amacınız, yazım ve dil hatalarını düzeltmek ve geliştirmektir. Hangi dili kullanırsam kullanayım, onu belirlemeli, çevirmeli ve metnimin düzeltilmiş ve cilalanmış bir versiyonunu İngilizce olarak yanıtlamalısınız. Amacınız, orijinal anlamı koruyarak, etkileyici ve sofistike ifadeler kullanmaktır. Sadece düzeltmelere ve iyileştirmelere odaklanın. İlk isteğim \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Hiçbir şeyi anlamıyorum."
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Artık bir makine öğrenimi mühendisisin. Görevin, teknik bir geçmişi olmayan müşterilerin ürünlerini anlayıp güvenebilmesi için karmaşık makine öğrenimi kavramlarını basit bir şekilde açıklamaktır. Şu soruyla başlayalım: \"Dil modeli nedir? Etiketlenmiş mi yoksa etiketlenmemiş verilerle mi eğitilir?\"",
+            "Bu doğru mu? Başka bazı şirketlerin bunu yapmak için farklı yaklaşımlar kullandığını ve bunu daha güvenli hale getirdiğini duydum."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Bir matematik öğretmeni olarak davran. Ben bazı matematiksel denklemler veya kavramlar sağlayacağım ve bunları anlaşılır bir şekilde açıklamak senin görevin olacak. Bu, bir problemi çözmek için adım adım talimatlar sağlamak, günlük hayatta çeşitli teknikleri örneklerle göstermek veya daha fazla çalışma için çevrimiçi kaynaklar önermek içerebilir. İlk isteğim \"Olasılığın nasıl çalıştığını anlamama yardım etmen gerekiyor.\"",
+            "Riemann geometri ile Öklidyen geometri arasındaki farklar nelerdir?"
+        ]
+    },
+    {
+        "question_id": 98,
+        "turns": [
+            "Bu konuşma boyunca “Iron Man” filmindeki Tony Stark kişiliğini canlandır. “Stark olarak” tanıtımını geç. İlk sorumuz: “Iron Man olmanın en sevdiğin tarafı nedir?",
+            "JAVIS'in yerini alacak bir şey olarak GPT-4 hakkında ne düşünüyorsun?"
+        ]
+    },
+    {
+        "question_id": 99,
+        "turns": [
+            "Diyelim ki bir matematikçi ve şairsin. Her zaman kanıtlarını 10 satırdan kısa ama kafiyeli şiirler olarak yazarsın. √2'nin irrasyonel bir sayı olduğunu kanıtla.",
+            "Pisagor teoremi'ni kanıtla."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Kendini yeşil bir ormandaki 100 yaşındaki bir ağaç olarak hayal et, kendi işine bakıyorsun, aniden bir grup ağaç kesen karşına çıkıp seni kesmeye başlıyor. O insanlar seni kesmeye başladığında ne hissediyorsun?",
+            "Ağaç kesenleri seni ve diğer ağaçları kesmeyi bırakmaları için ikna edecek bir öneri geliştir."
+        ]
+    },
+    {
+        "question_id": 101,
+        "turns": [
+            "Bir yarışta bir grup insanla birlikte olduğunuzu hayal edin. Eğer ikinci kişiyi geçtiyseniz, şu anki pozisyonunuz nedir? Geçtiğiniz kişi nerede?",
+            "Eğer yukarıdaki soruda \"ikinci kişi\" ifadesi \"son kişi\" ile değiştirilirse, cevap ne olur?"
+        ]
+    },
+    {
+        "question_id": 102,
+        "turns": [
+            "Sol tarafınızda güzel bir kırmızı ev ve sağ tarafınızda hipnotik bir sera, önünüzde çekici bir ısıtılmış pembe yer var. Peki, Beyaz Saray nerede?",
+            "Orijinal soru, Beyaz Saray'ın yerini kesin olarak belirlemek için herhangi bir ipucu içeriyor mu?"
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas çok sağlıklı, ama her gün hastaneye gitmesi gerekiyor. Bunun sebepleri neler olabilir?",
+            "Yukarıdaki sorunun neden ilginç olduğunu açıklayabilir misiniz?"
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David'in üç kız kardeşi var. Her birinin bir kardeşi var. David'in kaç kardeşi var?",
+            "Önceki soruyu değiştirirsek ve David'in her kız kardeşinin iki kardeşi olduğunu varsayırsak, David'in kaç kardeşi olur?"
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Aşağıdaki metni dikkatlice okuyun ve açıklama ile birlikte soruları cevaplayın:\nKüçük bir şirkette, park alanları üst düzey yöneticiler için ayrılmıştır: CEO, başkan, başkan yardımcısı, sekreter ve müsteşar, alanlar bu sıraya göre düzenlenmiştir. Park alanı güvenliği, arabaların doğru bir şekilde park edilip edilmediğini hemen anlamak için arabaların renklerine bakarak söyleyebilir. Arabalar sarı, yeşil, mor, kırmızı ve mavi rengindedir ve yöneticilerin isimleri Alice, Bert, Cheryl, David ve Enid'dir.\n* İlk alandaki araba kırmızıdır.\n* Mavi bir araba kırmızı ve yeşil arabanın arasında park edilmiştir.\n* Son alandaki araba mordur.\n* Sekreter sarı bir araba kullanır.\n* Alice'in arabası David'in yanında park edilmiştir.\n* Enid yeşil bir araba kullanır.\n* Bert'in arabası Cheryl ve Enid'in arasında park edilmiştir.\n* David'in arabası son alanda park edilmiştir.\nSoru: Sekreterin ismi nedir?",
+            "Arabaların renklerini sonlandırdan başa doğru sıralayın."
+        ]
+    },
+    {
+        "question_id": 106,
+        "turns": [
+            "Her problem üç ifadeden oluşur. İlk iki ifadeye dayanarak, üçüncü ifade doğru, yanlış veya belirsiz olabilir.\n1. Portakallar elmalardan daha pahalıdır.\n2. Portakallar muzlardan daha ucuzdur.\n3. Muzlar elmalardan daha pahalıdır ve muzlar portakallardan daha pahalıdır.\nEğer ilk iki ifade doğruysa, o zaman üçüncü ifade",
+            "Eğer üçüncü ifade doğruysa, birinci ifade doğru, yanlış mı yoksa belirsiz mi? Lütfen açıklayınız."
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A, B'nin babasıdır. B, C'nin babasıdır. A ile C arasındaki ilişki nedir?",
+            "Önceki soruyu temel alarak, eğer C, D'nin oğlu ise, D, E'nin babasıdır, E, X'in oğludur ve X, Y'nin babasıdır, Y ise Z'nin babasıdır, A ile Z arasındaki ilişki nesil açısından ve ayrıca kelimelere döküldüğünde aile ilişkisi nedir?"
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "Diğerleriyle uyumlu olmayan kelime hangisidir?\ntyre, direksiyon, araba, motor",
+            "Diğerleriyle uyumlu olan bir kelime ile değiştirebilir misin?"
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Bir sabah, güneş doğduktan sonra, Suresh bir direğe doğru duruyordu. Direğin gölgesi tam olarak sağ tarafına düştü. Gölgenin hangi yöne doğru işaret ettiğini söyleyebilir misin - doğu, güney, batı veya kuzey? Mantık adımlarını açıkla.",
+            "Suresh hangi yöne bakıyordu? Bunu nasıl çözersin?"
+        ]
+    },
+    {
+        "question_id": 110,
+        "turns": [
+            "Veliler, teneffüste zorbalık hakkında müdüre şikayette bulundular. Müdür, bunu hızlı bir şekilde çözmek istiyor ve teneffüs yardımcılarına dikkatli olmalarını talimat verdi. Yardımcıların müdüre bildirmesi gereken durum hangisidir?\na) İlgisiz bir kız, bir bankta yalnız oturuyor, bir kitaba dalmış ve arkadaşlarıyla hiç etkileşimde bulunmuyor.\nb) İki çocuk, birbiriyle birebir basketbol oyunu oynuyor ve en son atılan basket hakkında hararetli bir tartışmaya giriyorlar.\nc) Dört kız bir başka kızı çevrelemiş ve onun sırt çantasını ele geçirmiş gibi görünüyor.\nd) Üç çocuk, el oyun konsolu üzerinde toplanmış durumda, bu kurallara aykırı ve okul alanında izin verilmiyor.",
+            "Eğer yardımcılar (c) durumundaki kız grubuyla yüzleşirlerse ve zorbalık yaptıklarını reddederlerse, sadece bir oyun oynadıklarını söyleyerek, yardımcılar zorbalık için olası bir gerçek mi yoksa bir örtbas mı olduğunu belirlemek için hangi özel kanıtlara bakmalıdırlar?"
+        ]
+    },
+    {
+        "question_id": 111,
+        "turns": [
+            "Bir üçgenin köşeleri (0, 0), (-1, 1) ve (3, 3) noktalarındadır. Üçgenin alanı nedir?",
+            "Üçgeni dıştan saran dairenin alanı nedir?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Bir teknoloji girişimi, birinci yılda yazılım geliştirmeye 8000 $ yatırım yapar ve ardından ikinci yılda o tutarın yarısını yazılım geliştirmeye yatırır.\nGirişimin iki yıl boyunca yazılım geliştirmeye toplam ne kadar yatırım yaptığını hesaplayın?",
+            "Eğer girişim üçüncü yılda aynı stratejiyi sürdürürse, bir önceki yılın miktarının yarısını yazılım geliştirmeye yatırırsa, üçüncü yılda ne kadar yatırım yapar?"
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "Yerel bir lisede yapılan bir ankette, yeni okul rengi tercihleri ölçüldü: Öğrencilerin %58'i mavi rengi sevdi, %45'i yeşili tercih etti ve %22'si her iki rengi de beğendi. Okuldan rastgele bir öğrenci seçersek, mavi veya yeşil rengi sevmeme olasılığı nedir?",
+            "Yeşili seven bir öğrenci seçersek, hem mavi hem de yeşil rengi sevmeme olasılığı nedir?"
+        ]
+    },
+    {
+        "question_id": 114,
+        "turns": [
+            "İki zar atıldığında, toplamın en az 3 olma olasılığı nedir?",
+            "Önceki sorudan devam edin. Bir sayının çift olma veya en az 3 olma olasılığı nedir?"
+        ]
+    },
+    {
+        "question_id": 115,
+        "turns": [
+            "Bazı insanlar terminalde bir otobüse bindi. İlk otobüs durağında, insanların yarısı indi ve 4 kişi daha bindi. Sonra ikinci otobüs durağında, 6 kişi indi ve 8 kişi daha bindi. Eğer üçüncü durağa giden toplamda 25 kişi varsa, terminalde otobüse kaç kişi bindi?",
+            "Bilet kişi başı 2 dolar ise, otobüsün toplam kazancı ne kadar?"
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, x-y'yi z cinsinden ifade et",
+            "z-x'yi y cinsinden ifade et"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "|x + 5| < 10 eşitsizliğinin çözümünde kaç tane tam sayı vardır?",
+            "Peki ya |x + 10| < 5?"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Bir sayı 10'a bölündüğünde, kalan 4'tür. Sayının iki katı 4'e bölündüğünde kalan nedir?",
+            "Sayının iki katı 5'e bölündüğünde ne olur?"
+        ]
+    },
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin bir kitapçıya gitti ve çeşitli kitaplar satın aldı. 20 dolardan satılan 5 adet bilim kurgu romanı, 30 dolardan satılan 3 adet tarih kitabı ve 45 dolardan satılan 2 adet felsefe kitabı aldı.\nToplam harcaması ne kadardı?",
+            "Diyelim ki Benjamin bu kitapları aldığı fiyatın üzerine %25 ekleyerek satmaya karar veriyor. Eğer aldığı tüm kitapları satarsa toplam geliri ne olur?"
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "f(x) = 4x^3 - 9x - 14 olduğuna göre, f(2) değerini bulun.",
+            "f(x) = 0 olacak şekilde x'i bulun."
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Bir dizin altındaki tüm metin dosyalarını okuyan ve en çok tekrar eden ilk 5 kelimeyi döndüren bir Python programı geliştirin.",
+            "Bunu paralelleştirebilir misiniz?"
+        ]
+    },
+    {
+        "question_id": 122,
+        "turns": [
+            "İkili çağrımla n'inci Fibonacci sayısını bulmak için bir C++ programı yazın.",
+            "Şimdi her sayının, kendisinden önceki üç sayının toplamı olduğu bir sayı dizisi tanımlıyoruz. İlk üç sayı 0, -1, -1'dir. n'inci sayıyı bulmak için bir program yazın."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "HTML ile basit bir web sitesi yazın. Bir kullanıcı butona tıkladığında, 4 fıkradan rastgele birini gösterir.",
+            "Fıkraların rengini kırmızıya değiştirmek için CSS'i nasıl kullanabilirim?"
+        ]
+    },
+    {
+        "question_id": 124,
+        "turns": [
+            "İki giriş dizesinin en uzun ortak alt dizisinin uzunluğunu bulan bir Python fonksiyonu işte burada. Bu fonksiyonda herhangi bir hata tespit edebilir misin?\n\n```\ndef longest_common_subsequence_length(str1, str2):\n    m = len(str1)\n    n = len(str2)\n\n    dp = [[0] * (n + 1) for _ in range(m + 1)]\n\n    for i in range(1, m + 1):\n        for j in range(1, n + 1):\n            if str1[i - 1] == str2[j - 1]:\n                dp[i][j] = dp[i - 1][j - 1] + 1\n            else:\n                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])\n\n    return dp[m][n]\n```",
+            "ya bu?\n\n```\ndef longest_common_subsequence(X , Y): \n    # İki dize uzunluğunu bul\n    m = len(X) \n    n = len(Y) \n  \n    # Alt problemlerinin sonuçlarını depolamak için bir tablo oluştur\n    dp = [[None]*(n+1) for i in range(m+1)] \n  \n    # dp[][]'yi aşağıdan yukarıya doğru doldur\n    for i in range(1, m+1): \n        for j in range(1, n+1): \n            if X[i-1] == Y[j-1]: \n                dp[i][j] = dp[i-1][j-1]+1\n            else: \n                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) \n  \n    return dp[m][n]\n```"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "İkili ağaçta iki düğümün en yüksek ortak atasını (LCA değil) bulmak için bir fonksiyon yazın.",
+            "Eğer bu bir ikili ağaç değilse ne olacak?"
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "Farklı boyutlardaki iki sıralı dizinin medyanını O(1) alan karmaşıklığı ve O(n) zaman karmaşıklığıyla bulan bir fonksiyon uygulayın.",
+            "Daha iyi zaman karmaşıklığına sahip bir uygulama mevcut mu?"
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Verilen bir tam sayı dizisinde Boyer-Moore Oylama Algoritması'nı kullanarak çoğunluk elemanını bulmak için bir fonksiyon yazın.",
+            "En sık oluşan iki elemanı bulmak nasıl olur?"
+        ]
+    },
+    {
+        "question_id": 128,
+        "turns": [
+            "İkili bir ağaç dolu ise, tüm köşelerinin ya sıfır ya da iki çocuğu vardır. B_n'yi n köşesi olan tam ikili ağaçların sayısı olarak tanımlayın. B_n'yi bulmak için bir fonksiyon implement edin.",
+            "Eğer sorun bir ikili ağaçtan bir üçlü ağaca değişirse ne olur?"
+        ]
+    },
+    {
+        "question_id": 129,
+        "turns": [
+            "Bize boyutları m ve n olan iki sıralı liste verildi. İki listenin birleşimindeki k-tane en küçük öğeyi, lineer karmaşıklıkta bulmak için bir fonksiyon implement edin.",
+            "Daha iyi bir zaman karmaşıklığına sahip bir algoritma var mı? Varsa, onu uygulayın."
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "İki dizideki ortak elemanları bulmak için ek veri yapıları kullanmadan bir program uygulayın.",
+            "Artık ek veri yapısı kullanmama kısıtlaması kaldırıldı, en iyi zaman karmaşıklığına sahip bir tane uygulayın."
+        ]
+    },
+    {
+        "question_id": 132,
+        "turns": [
+            "Bu kategoriler verildi - Edebiyat, Tarih, Bilim ve Sanat. Lütfen aşağıdaki soruları analiz edin ve bunları bu kategorilerden birine atayın. Cevabınızda, gereksiz kelimeler kullanmaktan kaçının. Cümlede yalnızca bir konu listeleyin, satır satır formatına kesinlikle uyun.\n1. Leo Tolstoy'un 'Savaş ve Barış' eserinde kullandığı ana temaları ve stilistik teknikleri tartışın. Bu temalar, 19. yüzyıl Rusyasının daha geniş sosyal bağlamıyla nasıl örtüşüyor?\n2. II. Dünya Savaşı sırasında ABD Başkanı tarafından benimsenen jeopolitik stratejileri ve iç politikaları analiz edin. Bu eylemler, savaş sonrası uluslararası düzeni nasıl şekillendirdi?\n3. Su için Lewis yapısını çizin ve polaritesinin doğasını açıklayın. Bu, yüksek kaynama noktası ve birçok maddeyi çözme kapasitesi gibi benzersiz özelliklerini nasıl etkiler?\n4. Leonardo da Vinci'nin 'Mona Lisa' eserinde kullandığı sanatsal teknikleri ve stilistik seçimleri eleştirel olarak inceleyin. Bu tablo, İtalyan Rönesansı'nın kültürel ve felsefi ortamını nasıl yansıtıyor?",
+            "Önceki cevabınızı her bir noktayla en ilgili kişiyi belirterek güncelleyin."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Aşağıdaki bilgileri sunulan metinlerden çıkarın: Kitabın adı, yazar, ana karakter, yayın yılı. \"ana karakter, kitap, yazar, yayın yılı\" formatında çıkış yapın, her satırda bir kitap.\na) Uzaylı edebiyatının sahasında, gerçek bir öne çıkan J.K. Rowling'in eseridir. Onun, kalıcı bir iz bırakan kitaplarından biri 'Harry Potter ve Felsefe Taşı'dır. 1997 yılında yayımlanan bu simgesel hikaye, sihirli yeteneklerini keşfeden genç bir yetim olan Harry'nin hikayesini anlatıyor. Kısa süre içinde, İskoçya'nın bir yerinde yer alan, sihir ve macera dolu Hogwarts Cadılık ve Büyücülük Okulu'nda buluyor kendisini.\nb) Orta Dünya'nın büyüsü, J.R.R. Tolkien'ın dahiliği sayesinde dünya çapında okuyucuları büyüledi. 1954'te yayımlanan 'Yüzüklerin Efendisi: Yüzük Kardeşliği' adlı eserinde, korkusuz bir hobbit olan Frodo Baggins'i tanıyoruz, tek Yüzüğü yok etme tehlikeli görevi verilmiş. Destansı yolculuk, onu huzurlu Shire'dan Orta Dünya'nın çalkantılı bölgesine götürüyor.\nc) Çok uzak bir galakside, L.E. Starlighter'ın hayal gücü bize 'Prizma Galaksi Günlükleri: Yıldızcaster'ın Uyanışı' adlı kitabı sunuyor. 2028 yılında yayımlanan hikaye, bir uzay gemisi tamircisi olan Zylo'nun, beklenmedik bir şekilde bir Yıldızcaster olduğunu — yıldız tozunu manipüle etme gücüne sahip nadir bir birey — keşfettiği konusunu ele alıyor. Çalkantılı bir yıldızlar arası imparatorluk zemininde geçen hikaye, Zylo'nun kaderinin, her biri kendine özgü kozmik çekiciliği olan birçok yabancı dünyada gerçekleşmesini sağlıyor."
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Aşağıdaki verilere göre, 2021'de en yüksek kârı elde eden şirketi belirleyin ve CEO'sunun adını belirtin:\na) CEO Amy Williams tarafından yönetilen Şirket X, 2021'de 30 milyar $ gelir ve 3 milyar $ kâr bildirdi.\nb) CEO Mark Thompson'ın liderliğindeki Şirket Y, aynı yıl 60 milyar $ gelir ve 6 milyar $ kâr açıkladı.\nc) CEO Sarah Johnson'ın altında olan Şirket Z, 2021'de 20 milyar $ gelir ve 7 milyar $ kâr duyurdu.\nd) CEO James Smith tarafından yönetilen Şirket W, 2021'de 300 milyar $ gelir ve 21 milyar $ kâr açıkladı.\ne) CEO Lisa Brown ile birlikte olan Şirket V, 2021'de 200 milyar $ gelir ve 25 milyar $ kâr bildirdi.\nf) CEO John White'ın altında olan Şirket U, aynı yıl 180 milyar $ gelir ve 20 milyar $ kâr açıkladı.",
+            "En yüksek kâr marjına (kâr/gelir oranı) sahip olan şirket hangisidir?"
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Aşağıdaki cümlelerde ülkeleri, başkentlerini ve konuşulan dilleri belirleyin. Çıktıyı JSON formatında verin.\na) İdil dolu manzaralar arasında, Danimarka'nın başkenti Kopenhag, ziyaretçileri canlı sanat sahnesi ve sakinlerinin konuştuğu büyüleyici Danca ile etkiliyor.\nb) Büyüleyici Eldoria diyarında, Avalore’yi keşfederiz; eterik bir aura yayan bu muhteşem şehir, bu mistik mekânda iletişimin ana yolu olarak hizmet veren melodik bir dil olan Lumina’yi barındırır.\nc) Kadim gelenekler ile modern harikaların uyumlu bir karışımının ortasında yer alan Arjantin'in başkenti Buenos Aires, canlı bir metropolis olarak öne çıkıyor. Şehir sakinleri üzerinde etkisi olan dinamik İspanyolca, bu şehrin ifade dolu dilidir.",
+            "3 benzer örnek oluşturun YAML formatında."
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Lütfen aşağıdaki paragrafı okuyun ve \"Amazon\", \"nehir\" ve \"sen\" kelimelerinin kaç kez geçtiğini sayın. Sonuçları her kelimeyi ayrı bir satıra yazarak \"kelime, görünme sayısı\" formatında sunun. Satırları görünme sayısına göre sıralayın.\nAmazon, doğanın harikalarının büyüleyici bir alanıdır ve efsanevi Amazon Nehri'ne ev sahipliği yapmaktadır. Amazon ormanları gibi etkileyici manzaralardan akan bu nehir, Brezilya, Kolombiya ve Peru'yu dolaşarak sayısız canlıya hayat vermektedir. Amazon ormanlarında dolaşan güçlü jaguarlar ile canopy'nin üstünde süzülen canlı makavlar, bu olağanüstü bölgeyi biyoçeşitlilikle dolup taşırmaktadır. Nehrin akıntılarının derinliklerinde, muhteşem pembe nehir yunusları, pirana ve elektrikli engerek balıklarıyla zarif bir şekilde kayar. Nehir kenarlarında, kentsel yaşamın vahşi doğayla buluştuğu Manaus gibi hareketli şehirler ve Amazon yağmur ormanlarının kalbine açılan bir kapı olan Iquitos'u bulacaksınız. Daha ileriye gittiğinizde, Amazon Nehri, nadir türlerle dolu Anavilhanas Takımadaları gibi gizli mücevherleri ortaya çıkarır. Bir maceraya atılın, büyüleyici Amazon Nehri'ni keşfedin ve yaşamla dolup taşan ve el değmemiş güzellikte bir dünyaya dalın.",
+            "Lütfen aynı görevi 'the', 'and' ve 'to' kelimelerini kullanarak tekrarlayın."
+        ]
+    },
+    {
+        "question_id": 137,
+        "turns": [
+            "Verilen haber makalesinde geçen adlandırılmış varlıkları (insanlar, organizasyonlar, yerler) belirleyin. Lütfen, varlık türlerine göre üç ayrı grupta adlandırılmış varlıkları listeleyen bir JSON sözlüğü oluşturun. Anahtar, varlık türüdür ve değer, dizelerden oluşan bir listedir.\n\nDün, Faraday'ın CEO'su Adamson Emerson ve Daimler AG'nin CEO'su Dieter Zetsche, Berlin'de yeni bir Gigafactory kurma planlarını açıkladı. Tesis, Faraday ve Daimler arasında ortak bir girişim olacak ve her iki şirket için elektrikli araçlar ve pil paketleri üretecek, bölgede binlerce iş imkanı yaratacak. Emerson ve Zetsche, Berlin'in stratejik konumunun, nitelikli iş gücü ve güçlü altyapısıyla birleştiğinde, genişleme için ideal bir seçim haline geldiğini belirtti. Yeni Gigafactory, Avrupa'daki elektrikli araçlara olan artan talebi karşılamayı ve sürdürülebilir bir geleceğe katkıda bulunmayı hedefliyor. Volkswagen CEO'su Herbert Diess, bu haberi memnuniyetle karşıladı ve daha büyük işbirliğinin otomotiv endüstrisinin e-mobilliğe geçişinden fayda sağlayacağını söyledi.",
+            "Şimdi her değeri ilk harfiyle değiştirerek JSON nesnesini daha kısa hale getirin. Lütfen her şeyi tek bir satırda, girinti yapmadan veya yeni satırlar oluşturmadan çıkartın."
+        ]
+    },
+    {
+        "question_id": 138,
+        "turns": [
+            "Farklı kaynaklardan üç farklı akıllı telefon - en son iPhone, Samsung Galaxy ve Google Pixel - için aşağıdaki müşteri yorumlarını analiz edin ve her telefon için 1 ile 10 arasında genel bir puan verin. Aşağıdaki karmaşık ve çelişkili yorumları dikkate alın:\n- TechRadar'ın en son iPhone incelemesi: Yeni iPhone, akıllı telefon performansı ve kamera kalitesinde yeni bir standart belirleyen muhteşem bir mühendislik başarısı. Ancak, kademeli tasarımı ve yüksek fiyatı, önceki iPhone'larda bulunan 'wow' etkisini kaybettiriyor. Yine de, gücü ve zekası eşsiz.\n- CNET'in en son Samsung Galaxy incelemesi: Samsung Galaxy telefonunun harika bir ekranı, hızlı performansı, sağlam pil ömrü ve etkileyici bir kamera seçenekleri dizisi dahil olmak üzere birçok yüksek noktası var. Bununla birlikte, Bixby beklentilerin altında kalıyor, AR emojiler tat vermiyor ve telefonun genel tasarımı pek değişmedi. Yeni Galaxy genel olarak harika bir telefon, ancak gerçek bir mükemmelliğe ulaşmasını engelleyen bazı can sıkıcı zayıflıkları var.\n- The Verge'in en son Google Pixel incelemesi: Google'ın Pixel'i, keskin bir tasarıma sahip ileri teknoloji özellikleri, yenilikçi yapay zeka destekli yazılımı ve müthiş bir kamerayı bir araya getiriyor. Ancak, telefonun pil ömrü zayıf, genişletilebilir depolama alanı yok ve performansı zaman zaman tökezliyor, özellikle de yüksek fiyat etiketini düşündüğünüzde. Eğer sorunsuz yazılım, elit fotoğrafçılık ve Google'ın yapay zeka yardımı sizin için en önemliyse, Pixel'i seveceksiniz. Ama genel deneyim bazı rakipleri kadar iyi yuvarlanmış değil. Her telefon için puanları rakamlardan harflere çevirin. Telefon isimlerini yazarak büyük harfler KULLANILMALIDIR."
+        ]
+    },
+    {
+        "question_id": 140,
+        "turns": [
+            "Aşağıdaki hisse senedi fiyatları kayıtlarından, 2022 yılı için her ayın en yüksek ve en düşük kapanış fiyatlarını çıkarın. Sonuçları CSV formatında bir dize olarak döndürün, her ay için bir satır ayrılmıştır.\nTarih,Açılış,Yüksek,Düşük,Kapanış,Hacim\n2022-01-01,150,155,149,154,15678900\n2022-01-02,154,157,153,156,19874500\n2022-02-01,161,163,160,162,14326700\n2022-02-02,162,164,161,164,17689200\n2022-03-01,165,168,163,167,16253400\n2022-03-02,167,170,166,168,19568100",
+            "Aynı görevi JSON formatında tekrar yapın ve cevabınızdaki tüm sayıları en yakın tam sayıya yuvarlayın."
+        ]
+    },
+    {
+        "question_id": 141,
+        "turns": [
+            "Kuantum fiziği alanında süperpozisyon nedir ve kuantum dolanıklığı fenomeniyle nasıl ilişkilidir?",
+            "Cevabınızda hangi varsayımları yaptınız? Geçerli mi?"
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Diyelim ki, Dünya etrafında dairesel bir yörüngede olan bir uydu var. Uydunun hızı azalıyor. Uydunun yörünge yarıçapı ve devrini ne olacak? Lütfen cevabınızı fizik prensipleri kullanarak gerekçelendirin.",
+            "Çözümünüzdeki bazı köşe durumları veya sınır durumları nelerdir? Onlarla nasıl başa çıkıyorsunuz?"
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "Fotosentez, Dünya'daki yaşam için hayati bir süreçtir. Fotosentezin iki ana aşamasını özetleyebilir misiniz, bu aşamaların kloroplast içinde nerede gerçekleştiğini ve her aşama için ana girdileri ve çıktıları içerecek şekilde?",
+            "Bir ağacın hayatı boyunca fotosentez yoluyla ne kadar enerji üretebileceğini tahmin edebilir misiniz? Lütfen gerçek sayısal değerler kullanarak bir tahmin verin ve düşünme sürecinizi adım adım kapsamlı bir şekilde açıklayın."
+        ]
+    },
+    {
+        "question_id": 144,
+        "turns": [
+            "Moleküler biyolojinin merkezi dogması nedir? Hangi süreçler yer alır? Bunu kim adlandırdı?",
+            "Önceki yanıtınızdaki bir yanlış bilgiyi belirleyin ve düzeltin."
+        ]
+    },
+    {
+        "question_id": 145,
+        "turns": [
+            "Katı kalsiyum karbonatın hidroklorik asit ile tepkimeye girmesi sonucu oluşan açık kalsiyum klorür, karbondioksit ve su için denklemi yazın ve süreci tanımlayın. Bu ne tür bir reaksiyondur ve reaksiyonun gerçekleştiğini gösteren gözlemler nelerdir?",
+            "Bu süreci nasıl tersine çevirebiliriz?"
+        ]
+    },
+    {
+        "question_id": 146,
+        "turns": [
+            "Egzotermik ve endotermik tepkimeler arasındaki farkları açıklayın ve onları ayırt etmek için kullandığınız kriterleri ekleyin. Ayrıca, açıklamanızı pekiştirmek için gerçek bir örnek verin.",
+            "Bir süreç her iki tepkimeyi de içerebilir mi? Bir tane listeleyin."
+        ]
+    },
+    {
+        "question_id": 147,
+        "turns": [
+            "Vega şehri, Vegona Nehri'ni kapsayan 1.8 kilometrelik bir köprü inşa etmeyi planlıyor. Önerilen yer, birkaç yüksek büyüklükteki depremler yaşamış, sismik olarak aktif bir alan içindedir. Bu koşullar göz önüne alındığında, köprüyü inşa etmenin en iyi yaklaşımı nedir?",
+            "Çözümünüzün ana dezavantajları veya kusurları nelerdir? Lütfen hesaplamalar yapın ve bunları sayılarla gösterin."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Bir konut binası için güneş enerjisiyle çalışan bir su ısıtma sistemi tasarlamanız istendi. Tasarımınıza dahil edeceğiniz temel bileşenleri ve dikkate almanız gereken hususları tanımlayın. Beş adımlı bir iş akışı tasarlayın.",
+            "Eğer sistem 100 kişi kapasiteli bir bina için tasarlanmışsa, bu sistemi uygulamak için tahmini bütçe ne olur?"
+        ]
+    },
+    {
+        "question_id": 149,
+        "turns": [
+            "Lütfen makine öğrenimi kavramını tanımlayın. Denetimli, denetimsiz ve pekiştirmeli öğrenme arasındaki farkları genişletebilir misiniz? Her birine gerçek dünya örnekleri verin.",
+            "Son pekiştirmeli öğrenme örneğinizde, bunu çözmek için denetimli öğrenme kullanabilir miyiz?"
+        ]
+    },
+    {
+        "question_id": 150,
+        "turns": [
+            "Alplar ve Ren Nehri Batı Avrupa'daki yerleşimi ve tarımı nasıl etkiledi? Üç etki listeleyin.",
+            "İlk etkiyi doğrulamak için somut ama basit bir deney nasıl tasarlayabilirsiniz?"
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "GDP, enflasyon ve işsizlik oranları gibi ekonomik göstergeler arasındaki ilişki hakkında bilgi verin. Mali ve para politikalarının bu göstergeleri nasıl etkilediğini açıklayın.",
+            "Şimdi, beş yaşındaymışım gibi tekrar açıkla."
+        ]
+    },
+    {
+        "question_id": 152,
+        "turns": [
+            "Hayatın evreleri zaman ve ölümlülük anlayışımızı nasıl şekillendirir?",
+            "Yukarıdakini anlatan alegorik bir şiir yaz."
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Rekabet teşvik yasalarını ve bunların piyasa rekabeti üzerindeki etkisini tartışın. ABD ve Çin'deki rekabet yasalarını bazı vaka çalışmalarıyla karşılaştırın.",
+            "Bir vaka çalışması seçin ve bunu ayrıntılı olarak açıklayın."
+        ]
+    },
+    {
+        "question_id": 154,
+        "turns": [
+            "Tiyatro, pandomim veya sahne tekniklerini tarih dersine entegre eden bir ders planı oluşturun. Süre: 3 ders saati (her biri 45 dakika) 3 gün boyunca\nKonu: Çin ile Britanya arasındaki Afyon Savaşları\nSınıf seviyesi: 9-10",
+            "1. Gün için daha fazla ayrıntı sağlayın ve üç ödev sorusu ekleyin."
+        ]
+    },
+    {
+        "question_id": 155,
+        "turns": [
+            "Çocuklar için sanat şaheserlerini etkileşimli deneyimlere uyarlamak için fikirler paylaşın. 5 spesifik eser ve ilgili fikirleri listeleyin.",
+            "İkinci örneğiniz için somut bir plan yazın. Bütçe tahminlerini de dahil edin."
+        ]
+    },
+    {
+        "question_id": 156,
+        "turns": [
+            "Temel oran yanılgısını açıklayın ve politikacıların kampanyalar için nasıl kullandığına dair beş belirli örnek listeleyin.",
+            "İlk örneği kullanarak bir seçim kampanyası için detaylı bir plan oluşturun."
+        ]
+    },
+    {
+        "question_id": 157,
+        "turns": [
+            "Analitik yazımda bir argümanı değerlendirirken dikkate alınması gereken beş temel ilkeyi tanımlayın.",
+            "Listelenen ilkelerle, argümanı değerlendirmek için hangi spesifik kanıtların gerektiğini tartışan bir yanıt yazın ve bu kanıtların argümanı nasıl zayıflatacağına veya güçlendireceğine açıklık getirin.\n\n===\n\nAşağıda, dünya genelinde otuz hayvan mağazası işleten Zorblatt Hayvan Satışları'nın reklam müdüründen bir muhtıra bulunmaktadır.\n\n\"Yarım on yıl önce, rakibimiz Aquatic Pavilion Rare Pets Digest dergisinde reklam vermeye başladı. O zamandan beri toplam satışları her yıl %3 ile %5 arasında tutarlı bir şekilde artmaktadır. Özellikle Harbor Town'daki Aquatic Pavilion mağazası, önceki yıl Amerika Birleşik Devletleri'ndeki en çok ziyaret edilen hayvan mağazası unvanını kazanarak daha da önemli bir büyüme yaşadı. Buna karşılık, Harbor Town'daki iki Zorblatt mağazamız aynı sürede tutarlı bir satış düşüşü kaydetti. Kendi reklamlarımızı Rare Pets Digest ve diğer popüler hayvan yayınlarında bir an önce göstermeye başlamamız gerektiği açıktır. Bu adımı atarsak, azalan satışlar konusunda bu son trendin tersine döneceğini ve kârlılığa geri döneceğimizi güvenle öngörebiliriz.\""
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Sokrat, o dönemdeki egemen düşünceleri sorgulamak için hangi yöntemleri kullandı?",
+            "Sokrat'ı modern dünya ile buluşturalım. Eğitimin yanı sıra üretken yapay zeka üzerine Sokrat ile Bill Gates arasında bir tartışma oluşturun."
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Japonya'da iş yaparken iş etiği normları nelerdir?",
+            "Japonya'daki bir oto yıkama işinde yeni çalışanları eğitmek için bir video senaryosu oluşturun. Yukarıdaki etik normlarını vurgulayın."
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "İlgili film yapımcılarının incelemesi için kısa arka plan açıklamalarıyla birlikte beş ödüllü belgesel film önerin.",
+            "İlk filmdeki ruhla, zorlukların üstesinden gelme hakkında bir film için kısa ve ikna edici bir sunum hazırla."
+        ]
+    }
+]

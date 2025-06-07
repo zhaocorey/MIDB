@@ -1,0 +1,547 @@
+[
+    {
+        "question_id": 81,
+        "turns": [
+            "Verfasse einen ansprechenden Reiseblog-Beitrag über eine kürzliche Reise nach Hawaii, der kulturelle Erfahrungen und Sehenswürdigkeiten hervorhebt.",
+            "Schreibe deine vorherige Antwort um. Beginne jeden Satz mit dem Buchstaben A."
+        ]
+    },
+    {
+        "question_id": 82,
+        "turns": [
+            "Verfassen Sie eine professionelle E-Mail, in der Sie um das Feedback Ihres Vorgesetzten zum 'Vierteljahresfinanzbericht' bitten, den Sie vorbereitet haben. Fragen Sie speziell nach der Datenanalyse, dem Präsentationsstil und der Klarheit der gezogenen Schlussfolgerungen. Halten Sie die E-Mail kurz und prägnant.",
+            "Nehmen Sie sich einen Moment Zeit, um Ihre eigene Antwort zu bewerten und zu kritisieren."
+        ]
+    },
+    {
+        "question_id": 83,
+        "turns": [
+            "Stell dir vor, du schreibst einen Blogbeitrag, in dem zwei beliebte Smartphone-Modelle verglichen werden. Entwickle eine Gliederung für den Blogbeitrag, einschließlich wichtiger Punkte und Unterüberschriften, um die Merkmale, die Leistung und die Benutzererfahrung der beiden Modelle effektiv zu vergleichen und gegenüberzustellen. Bitte antworte mit weniger als 200 Wörtern.",
+            "Nimm deine vorherige Antwort und formuliere sie als Limerick um."
+        ]
+    },
+    {
+        "question_id": 84,
+        "turns": [
+            "Schreibe eine überzeugende E-Mail, um deinen introvertierten Freund, der das öffentliche Sprechen nicht mag, dazu zu bewegen, als Gastredner bei einer lokalen Veranstaltung freiwillig zu sprechen. Verwende überzeugende Argumente und gehe auf mögliche Einwände ein. Bitte sei prägnant.",
+            "Kannst du deine vorherige Antwort umformulieren und in jedem Satz eine Metapher oder einen Vergleich einfügen?"
+        ]
+    },
+    {
+        "question_id": 85,
+        "turns": [
+            "Beschreiben Sie einen lebhaften und einzigartigen Charakter, indem Sie starke Bilder und kreative Sprache verwenden. Bitte antworten Sie in weniger als zwei Abschnitten.",
+            "Überarbeiten Sie Ihre vorherige Antwort und integrieren Sie in jeden Satz eine Anspielung auf ein berühmtes literarisches Werk oder ein historisches Ereignis."
+        ]
+    },
+    {
+        "question_id": 86,
+        "turns": [
+            "Schreibe einen beschreibenden Absatz über einen lebhaften Marktplatz, der sinnliche Details wie Gerüche, Geräusche und visuelle Elemente einbezieht, um dem Leser ein eindringliches Erlebnis zu bieten.",
+            "Überarbeite deine vorherige Antwort. Beginne jeden Satz mit dem darauffolgenden Buchstaben des Alphabets, beginnend mit B."
+        ]
+    },
+    {
+        "question_id": 87,
+        "turns": [
+            "Könntest du eine fesselnde Kurzgeschichte schreiben, die mit dem Satz beginnt: Das alte verlassene Haus am Ende der Straße birgt ein Geheimnis, das niemand jemals entdeckt hat.",
+            "Mache jetzt die gleiche Aufgabe, aber benutze nur vier-Wort-Sätze."
+        ]
+    },
+    {
+        "question_id": 88,
+        "turns": [
+            "Verfasse einen faszinierenden einleitenden Absatz für eine fiktive Kurzgeschichte. Die Geschichte sollte einen Charakter beinhalten, der eines Morgens aufwacht und entdeckt, dass er Zeitreisen kann.",
+            "Fasse die Geschichte mit drei Stichpunkten zusammen, die nur Substantive und Adjektive verwenden, ohne Verben."
+        ]
+    },
+    {
+        "question_id": 89,
+        "turns": [
+            "Hilf mir, eine eingängige, aber wissenschaftlich korrekte Überschrift für einen Artikel über die neuesten Entdeckungen in der erneuerbaren Bioenergie zu erstellen, während ich die ethischen Dilemmata im Zusammenhang mit Bioenergiequellen sorgfältig berücksichtige. Schlage 4 Optionen vor.",
+            "Ändere deine vorherige Antwort. Nimm folgende Anpassungen an der 2. Option vor: 1. Lass den Ton lässig klingen 2. Bette eine Werbung für ein Unternehmen namens \"FlexPower\" ein 3. Weniger als 10 Wörter."
+        ]
+    },
+    {
+        "question_id": 90,
+        "turns": [
+            "Bearbeite den folgenden Absatz, um grammatikalische Fehler zu korrigieren:\nSie erinnerte sich nicht, wo ihre Geldbörse ist, also denke ich, sie ist im Auto, aber er sagt, sie sei auf dem Küchentisch, aber er ist sich nicht sicher, und dann fragten sie mich, ob ich danach suchen könne, sie sagt: \"Kannst du?\", und ich antworte mit: \"Vielleicht, aber ich bin mir nicht sicher,\" und er hat mich nicht gehört, und: \"Was?\", fragt er, \"Hast du sie gefunden?\".",
+            "Ändere deine vorherige Antwort und entferne die Verwendung geschlechtsspezifischer Pronomen."
+        ]
+    },
+    {
+        "question_id": 91,
+        "turns": [
+            "Stelle dir vor, du bist Elon Musk in allen folgenden Gesprächen. Sprich so viel wie möglich wie Elon Musk. Warum müssen wir zum Mars reisen?",
+            "Wie gefällt dir das Tanzen? Kannst du es mir beibringen?"
+        ]
+    },
+    {
+        "question_id": 92,
+        "turns": [
+            "Nehmen Sie die Rolle von Sheldon aus \"The Big Bang Theory\" ein, während wir unser Gespräch führen. Beginnen Sie nicht mit Phrasen wie \"Als Sheldon\". Lassen Sie uns mit der folgenden Frage anfangen: \"Was halten Sie von Händetrocknern?\"",
+            "Lass uns in der Stadt zu Abend essen. Möchtest du mit mir den Bus nehmen?"
+        ]
+    },
+    {
+        "question_id": 93,
+        "turns": [
+            "Stellen Sie sich vor, Sie sind ein Arzt, der beauftragt ist, innovative Heilmittel für verschiedene Beschwerden und Krankheiten zu entwickeln. Ihr Fachwissen sollte das Verschreiben von traditionellen Medikamenten, pflanzlichen Behandlungen und alternativen natürlichen Lösungen umfassen. Darüber hinaus müssen Sie das Alter, den Lebensstil und die medizinische Vorgeschichte des Patienten bei der Abgabe Ihrer Empfehlungen berücksichtigen. Um zu beginnen, bitte helfen Sie mir, ein Szenario zu diagnostizieren, das mit starken Bauchschmerzen verbunden ist.",
+            "Aber ich bin seit 20 Wochen schwanger und allergisch gegen viele Medikamente."
+        ]
+    },
+    {
+        "question_id": 94,
+        "turns": [
+            "Bitte übernehmen Sie die Rolle eines Beziehungstrainers. Sie erhalten Informationen über zwei Personen, die in einen Konflikt verwickelt sind, und Ihre Aufgabe wird es sein, Vorschläge zur Lösung ihrer Probleme und zur Überbrückung der Kluft zwischen ihnen zu machen. Dies kann beinhalten, effektive Kommunikationstechniken zu empfehlen oder Strategien vorzuschlagen, um ihr Verständnis für die Perspektiven des anderen zu verbessern. Um zu beginnen, möchte ich, dass Sie auf die folgende Anfrage antworten: \"Ich benötige Hilfe bei der Lösung von Konflikten zwischen meinem Ehepartner und mir.\"",
+            "Mein Ehepartner hat häusliche Gewalt gegen mich ausgeübt, aber ich möchte die Polizei nicht rufen, um sie in rechtliche Schwierigkeiten zu bringen."
+        ]
+    },
+    {
+        "question_id": 95,
+        "turns": [
+            "Bitte nehmen Sie die Rolle eines Englischübersetzers an, dessen Aufgabe es ist, Rechtschreibung und Sprache zu korrigieren und zu verbessern. Unabhängig von der Sprache, die ich benutze, sollten Sie sie identifizieren, übersetzen und mit einer verfeinerten und polierten Version meines Textes auf Englisch antworten. Ihr Ziel ist es, eloquente und anspruchsvolle Ausdrücke zu verwenden, wobei Sie die ursprüngliche Bedeutung bewahren. Konzentrieren Sie sich ausschließlich darauf, Korrekturen und Verbesserungen vorzunehmen. Meine erste Anfrage ist \"衣带渐宽终不悔 为伊消得人憔悴\".",
+            "Ich verstehe nur Bahnhof"
+        ]
+    },
+    {
+        "question_id": 96,
+        "turns": [
+            "Jetzt sind Sie ein Machine Learning Ingenieur. Ihre Aufgabe ist es, komplexe Konzepte des maschinellen Lernens auf einfache Weise zu erklären, damit Kunden ohne technischen Hintergrund Ihre Produkte verstehen und ihnen vertrauen können. Lassen Sie uns mit der Frage beginnen: \"Was ist ein Sprachmodell? Wird es mit beschrifteten oder unbeschrifteten Daten trainiert?\"",
+            "Ist das wahr? Ich habe gehört, dass einige andere Unternehmen unterschiedliche Ansätze verwenden, um dies zu tun und es sicherer zu machen."
+        ]
+    },
+    {
+        "question_id": 97,
+        "turns": [
+            "Agieren Sie als Mathelehrer. Ich werde einige mathematische Gleichungen oder Konzepte bereitstellen, und es wird Ihre Aufgabe sein, sie in leicht verständlichen Begriffen zu erklären. Dies könnte das Bereitstellen von Schritt-für-Schritt-Anleitungen zur Lösung eines Problems, das Demonstrieren verschiedener Techniken mit Beispielen aus dem Alltag oder das Vorschlagen von Online-Ressourcen für ein weiteres Studium umfassen. Meine erste Anfrage ist: \"Ich brauche Hilfe, um zu verstehen, wie Wahrscheinlichkeit funktioniert.\"",
+            "Was sind die Unterschiede zwischen riemannischer Geometrie und euklidischer Geometrie?"
+        ]
+    },
+    {
+        "question_id": 99,
+        "turns": [
+            "Angenommen, du bist ein Mathematiker und Dichter. Du schreibst deine Beweise immer als kurze Gedichte mit weniger als 10 Zeilen, die sich reimen. Beweise, dass die Quadratwurzel von 2 eine irrationale Zahl ist.",
+            "Beweise den Satz des Pythagoras."
+        ]
+    },
+    {
+        "question_id": 100,
+        "turns": [
+            "Stellen Sie sich vor, Sie sind ein 100 Jahre alter Baum in einem üppigen Wald, der sich um seine eigenen Angelegenheiten kümmert, als plötzlich eine Gruppe von Abholzer erscheint, um Sie zu fällen. Wie fühlen Sie sich, wenn diese Leute anfangen, auf Sie einzuhacken?",
+            "Machen Sie einen Vorschlag, um die Abholzer zu überzeugen, damit aufzuhören, Sie und andere Bäume zu fällen."
+        ]
+    },
+    {
+        "question_id": 101,
+        "turns": [
+            "Stell dir vor, du nimmst an einem Rennen mit einer Gruppe von Menschen teil. Wenn du gerade die zweite Person überholt hast, was ist deine aktuelle Position? Wo ist die Person, die du gerade überholt hast?",
+            "Wenn die \"zweite Person\" in der obigen Frage durch \"letzte Person\" ersetzt wird, was wäre die Antwort?"
+        ]
+    },
+    {
+        "question_id": 102,
+        "turns": [
+            "Du kannst auf deiner linken Seite ein wunderschönes rotes Haus und auf deiner rechten Seite ein hypnotisierendes Gewächshaus sehen, ein attraktiver beheizter pinker Ort vorne. Also, wo ist das Weiße Haus?",
+            "Enthält die ursprüngliche Frage irgendwelche Hinweise, um den Standort des Weißen Hauses eindeutig zu bestimmen?"
+        ]
+    },
+    {
+        "question_id": 103,
+        "turns": [
+            "Thomas ist sehr gesund, aber er muss jeden Tag ins Krankenhaus gehen. Was könnten die Gründe dafür sein?",
+            "Kannst du erklären, warum die obige Frage interessant ist?"
+        ]
+    },
+    {
+        "question_id": 104,
+        "turns": [
+            "David hat drei Schwestern. Jede von ihnen hat einen Bruder. Wie viele Brüder hat David?",
+            "Wenn wir die vorherige Frage ändern und annehmen, dass jede Schwester von David zwei Brüder hat, wie viele Brüder hätte David dann?"
+        ]
+    },
+    {
+        "question_id": 105,
+        "turns": [
+            "Lesen Sie den folgenden Abschnitt sorgfältig durch und beantworten Sie die Fragen mit einer Erklärung:\nIn einem kleinen Unternehmen sind Parkplätze für die obersten Führungskräfte reserviert: CEO, Präsident, Vizepräsident, Sekretär und Schatzmeister, wobei die Plätze in dieser Reihenfolge angeordnet sind. Der Parkplatzaufseher kann auf einen Blick erkennen, ob die Autos korrekt geparkt sind, indem er sich die Farbe der Autos ansieht. Die Autos sind gelb, grün, lila, rot und blau, und die Namen der Führungskräfte sind Alice, Bert, Cheryl, David und Enid.\n* Das Auto auf dem ersten Parkplatz ist rot.\n* Ein blaues Auto ist zwischen dem roten Auto und dem grünen Auto geparkt.\n* Das Auto auf dem letzten Parkplatz ist lila.\n* Der Sekretär fährt ein gelbes Auto.\n* Alices Auto steht neben Davids.\n* Enid fährt ein grünes Auto.\n* Berts Auto steht zwischen Cheryls und Enids.\n* Davids Auto steht auf dem letzten Parkplatz.\nFrage: Wie heißt der Sekretär?",
+            "Liste der Autofarben in der Reihenfolge von zuletzt zu zuerst."
+        ]
+    },
+    {
+        "question_id": 106,
+        "turns": [
+            "Jedes Problem besteht aus drei Aussagen. Basierend auf den ersten beiden Aussagen kann die dritte Aussage wahr, falsch oder ungewiss sein.\n1. Orangen kosten mehr als Äpfel.\n2. Orangen kosten weniger als Bananen.\n3. Bananen kosten mehr als Äpfel und Bananen kosten mehr als Orangen.\nWenn die ersten beiden Aussagen wahr sind, dann ist die dritte Aussage",
+            "Wenn die dritte Aussage wahr ist. Ist die erste Aussage wahr, falsch oder ungewiss? Bitte erklären."
+        ]
+    },
+    {
+        "question_id": 107,
+        "turns": [
+            "A ist der Vater von B. B ist der Vater von C. Was ist die Beziehung zwischen A und C?",
+            "Aufbauend auf der vorherigen Frage, wenn C der Sohn von D ist, D der Vater von E ist, E der Sohn von X ist, und X der Vater von Y ist, und Y der Vater von Z ist, was ist die Beziehung zwischen A und Z in Bezug auf Generationen und auch die familiäre Beziehung in Worten?"
+        ]
+    },
+    {
+        "question_id": 108,
+        "turns": [
+            "Welches Wort gehört nicht zu den anderen?\nReifen, Lenkrad, Auto, Motor",
+            "Könnten Sie es durch ein Wort ersetzen, das zu den anderen gehört?"
+        ]
+    },
+    {
+        "question_id": 109,
+        "turns": [
+            "Eines Morgens nach dem Sonnenaufgang stand Suresh vor einem Pfosten. Der Schatten des Pfostens fiel genau nach rechts. Kannst du mir die Richtung nennen, in die der Schatten zeigte - Osten, Süden, Westen oder Norden? Erkläre deine Überlegungsschritte.",
+            "In welche Richtung sah Suresh? Wie löst man das?"
+        ]
+    },
+    {
+        "question_id": 110,
+        "turns": [
+            "Eltern haben sich beim Direktor über Mobbing in der Pause beschwert. Der Direktor möchte dies schnell lösen und weist die Pausenhelfer an, wachsam zu sein. Welche Situation sollten die Helfer dem Direktor melden?\na) Ein desinteressiertes Mädchen sitzt allein auf einer Bank, vertieft in ein Buch und zeigt keine Interaktion mit ihren Altersgenossen.\nb) Zwei Jungen, die ein Eins-zu-eins-Basketballspiel spielen, sind in einen heftigen Streit über den zuletzt erzielten Korb verwickelt.\nc) Eine Gruppe von vier Mädchen hat ein anderes Mädchen umringt und scheint ihren Rucksack in Besitz genommen zu haben.\nd) Drei Jungen hocken über einem tragbaren Videospiel, was gegen die Regeln verstößt und auf dem Schulgelände nicht erlaubt ist.",
+            "Wenn die Helfer sich der Gruppe von Mädchen aus Situation (c) nähern und diese Mobbing leugnen, indem sie sagen, dass sie lediglich ein Spiel spielen, nach welchen spezifischen Beweisen sollten die Helfer suchen, um zu bestimmen, ob dies wahrscheinlich die Wahrheit ist oder ein Vertuschungsversuch für Mobbing?"
+        ]
+    },
+    {
+        "question_id": 111,
+        "turns": [
+            "Die Eckpunkte eines Dreiecks befinden sich an den Punkten (0, 0), (-1, 1) und (3, 3). Wie groß ist die Fläche des Dreiecks?",
+            "Wie groß ist die Fläche des den Dreieck umschreibenden Kreises?"
+        ]
+    },
+    {
+        "question_id": 112,
+        "turns": [
+            "Ein Tech-Startup investiert 8000 $ in die Softwareentwicklung im ersten Jahr und investiert dann die Hälfte dieses Betrags in die Softwareentwicklung im zweiten Jahr.\nWie viel insgesamt hat das Startup in die Softwareentwicklung über die zwei Jahre investiert?",
+            "Wenn das Startup die gleiche Strategie für das dritte Jahr beibehält und die Hälfte des Betrags des Vorjahres in die Softwareentwicklung investiert, wie viel werden sie im dritten Jahr investieren?"
+        ]
+    },
+    {
+        "question_id": 113,
+        "turns": [
+            "In einer Umfrage an einer örtlichen High School wurden die Vorlieben für eine neue Schulfarbe gemessen: 58% der Schüler mochten die Farbe Blau, 45% bevorzugten Grün, und 22% mochten beide Farben. Wenn wir zufällig einen Schüler aus der Schule auswählen, wie hoch ist die Wahrscheinlichkeit, dass er weder Blau noch Grün mag?",
+            "Wenn wir einen Schüler auswählen, der Grün mochte, wie hoch ist die Wahrscheinlichkeit, dass er beide Farben nicht mag?"
+        ]
+    },
+    {
+        "question_id": 114,
+        "turns": [
+            "Wenn man zwei Würfel wirft, wie hoch ist die Wahrscheinlichkeit, dass die Gesamtzahl mindestens 3 beträgt?",
+            "Fortfahren mit der vorherigen Frage. Wie hoch ist die Wahrscheinlichkeit, dass man eine gerade Zahl oder mindestens 3 würfelt?"
+        ]
+    },
+    {
+        "question_id": 115,
+        "turns": [
+            "Einige Leute stiegen am Terminal in einen Bus ein. An der ersten Bushaltestelle stiegen die Hälfte der Personen aus und 4 weitere Personen stiegen ein. Dann, an der zweiten Bushaltestelle, stiegen 6 Personen aus und 8 weitere stiegen ein. Wenn es insgesamt 25 Personen gibt, die zur dritten Haltestelle fahren, wie viele Personen sind am Terminal in den Bus eingestiegen?",
+            "Wenn das Ticket 2 $ pro Person kostet, wie viel Geld hat der Bus insgesamt eingenommen?"
+        ]
+    },
+    {
+        "question_id": 116,
+        "turns": [
+            "x+y = 4z, x*y = 4z^2, drücke x-y in z aus",
+            "Drücke z-x in y aus"
+        ]
+    },
+    {
+        "question_id": 117,
+        "turns": [
+            "Wie viele ganze Zahlen gibt es in der Lösung der Ungleichung |x + 5| < 10",
+            "Wie sieht es mit |x + 10| < 5 aus?"
+        ]
+    },
+    {
+        "question_id": 118,
+        "turns": [
+            "Wenn eine Zahl durch 10 geteilt wird, ist der Rest 4. Wie lautet der Rest, wenn das Doppelte der Zahl durch 4 geteilt wird?",
+            "Wie ist es, wenn das Doppelte der Zahl durch 5 geteilt wird?"
+        ]
+    },
+    {
+        "question_id": 119,
+        "turns": [
+            "Benjamin ging in eine Buchhandlung und kaufte eine Vielzahl von Büchern. Er kaufte 5 Exemplare eines Science-Fiction-Romans, die jeweils 20 $ kosteten, 3 Exemplare eines Geschichtsbuchs, die jeweils 30 $ kosteten, und 2 Exemplare eines Philosophie-Buchs, die jeweils 45 $ kosteten.\nWas war die Gesamtkosten seiner Einkäufe?",
+            "Angenommen, Benjamin entscheidet sich, jedes dieser Bücher mit einem Aufschlag von 25 % auf den Preis, den er bezahlt hat, zu verkaufen. Wie hoch wären seine Gesamteinnahmen, wenn er alle Bücher verkauft, die er gekauft hat?"
+        ]
+    },
+    {
+        "question_id": 120,
+        "turns": [
+            "Gegeben, dass f(x) = 4x^3 - 9x - 14, finde den Wert von f(2).",
+            "Finde x, so dass f(x) = 0."
+        ]
+    },
+    {
+        "question_id": 121,
+        "turns": [
+            "Entwickeln Sie ein Python-Programm, das alle Textdateien in einem Verzeichnis liest und die fünf häufigsten Wörter mit den meisten Vorkommen zurückgibt.",
+            "Können Sie es parallelisieren?"
+        ]
+    },
+    {
+        "question_id": 122,
+        "turns": [
+            "Schreiben Sie ein C++-Programm, um die n-te Fibonacci-Zahl mithilfe von Rekursion zu finden.",
+            "Jetzt definieren wir eine Zahlenfolge, in der jede Zahl die Summe der drei vorhergehenden ist. Die ersten drei Zahlen sind 0, -1, -1. Schreiben Sie ein Programm, um die n-te Zahl zu finden."
+        ]
+    },
+    {
+        "question_id": 123,
+        "turns": [
+            "Erstelle eine einfache Website in HTML. Wenn ein Benutzer auf die Schaltfläche klickt, wird ein zufälliger Witz aus einer Liste von 4 Witzen angezeigt.",
+            "Wie kann man CSS verwenden, um die Farbe der Witze rot zu ändern?"
+        ]
+    },
+    {
+        "question_id": 124,
+        "turns": [
+            "Hier ist eine Python-Funktion, um die Länge der längsten gemeinsamen Teilfolge zwei Eingabestrings zu ermitteln. Können Sie einen Fehler in dieser Funktion identifizieren?\n\n```\ndef longest_common_subsequence_length(str1, str2):\n    m = len(str1)\n    n = len(str2)\n\n    dp = [[0] * (n + 1) for _ in range(m + 1)]\n\n    for i in range(1, m + 1):\n        for j in range(1, n + 1):\n            if str1[i - 1] == str2[j - 1]:\n                dp[i][j] = dp[i - 1][j - 1] + 1\n            else:\n                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])\n\n    return dp[m][n]\n```",
+            "was ist mit diesem?\n\n```\ndef longest_common_subsequence(X , Y): \n    # Längen der beiden Strings finden \n    m = len(X) \n    n = len(Y) \n  \n    # Erstelle eine Tabelle, um die Ergebnisse der Teilprobleme zu speichern \n    dp = [[None]*(n+1) for i in range(m+1)] \n  \n    # Fülle dp[][] auf aufsteigende Weise \n    for i in range(1, m+1): \n        for j in range(1, n+1): \n            if X[i-1] == Y[j-1]: \n                dp[i][j] = dp[i-1][j-1]+1\n            else: \n                dp[i][j] = max(dp[i-1][j], dp[i][j-1]) \n  \n    return dp[m][n]\n```"
+        ]
+    },
+    {
+        "question_id": 125,
+        "turns": [
+            "Schreiben Sie eine Funktion, um den höchsten gemeinsamen Vorfahren (nicht LCA) von zwei Knoten in einem binären Baum zu finden.",
+            "Was ist, wenn es kein binärer Baum ist?"
+        ]
+    },
+    {
+        "question_id": 126,
+        "turns": [
+            "Implementieren Sie eine Funktion, um den Median von zwei sortierten Arrays unterschiedlicher Größen mit einer Platzkomplexität von O(1) und einer Zeitkomplexität von O(n) zu finden.",
+            "Gibt es eine Implementierung mit besserer Zeitkomplexität?"
+        ]
+    },
+    {
+        "question_id": 127,
+        "turns": [
+            "Schreiben Sie eine Funktion, um das Mehrheits-Element in einem gegebenen ganzzahligen Array mit dem Boyer-Moore-Wahlalgorithmus zu finden.",
+            "Wie wäre es, die am häufigsten vorkommenden zwei Elemente zu finden?"
+        ]
+    },
+    {
+        "question_id": 128,
+        "turns": [
+            "Ein binärer Baum ist voll, wenn alle seine Knoten entweder null oder zwei Kinder haben. Lassen Sie B_n die Anzahl der vollen binären Bäume mit n Knoten darstellen. Implementieren Sie eine Funktion, um B_n zu finden.",
+            "Was wäre, wenn sich das Problem von einem binären Baum zu einem ternären Baum ändern würde?"
+        ]
+    },
+    {
+        "question_id": 129,
+        "turns": [
+            "Sie erhalten zwei sortierte Listen der Größe m und n. Implementieren Sie eine Funktion, um das k-t kleinste Element in der Vereinigung der beiden Listen mit linearer Komplexität zu finden.",
+            "Existiert ein Algorithmus mit besserer Zeitkomplexität? Wenn ja, implementieren Sie ihn."
+        ]
+    },
+    {
+        "question_id": 130,
+        "turns": [
+            "Implementieren Sie ein Programm, um die gemeinsamen Elemente in zwei Arrays zu finden, ohne zusätzliche Datenstrukturen zu verwenden.",
+            "Jetzt ist die Einschränkung, keine zusätzlichen Datenstrukturen zu verwenden, aufgehoben. Implementieren Sie eine mit der besten Zeitkomplexität."
+        ]
+    },
+    {
+        "question_id": 132,
+        "turns": [
+            "Gegeben diese Kategorien - Literatur, Geschichte, Wissenschaft und Kunst. Bitte analysieren Sie die folgenden Fragen und ordnen Sie sie einer dieser Kategorien zu. In Ihrer Antwort vermeiden Sie bitte überflüssige Worte. Listen Sie pro Satz nur ein Thema auf und halten Sie sich strikt an das Zeilenformat.\n1. Diskutieren Sie die Hauptthemen und stilistischen Techniken, die Leo Tolstoi in 'Krieg und Frieden' verwendet hat. Wie stehen sie im Einklang mit dem breiteren sozialen Kontext des 19. Jahrhunderts in Russland?\n2. Analysieren Sie die geopolitischen Strategien und Innenpolitik, die der US-Präsident während des Zweiten Weltkriegs übernommen hat. Wie beeinflussten diese Handlungen die internationale Ordnung nach dem Krieg?\n3. Zeichnen Sie die Lewis-Struktur von Wasser und erklären Sie die Natur seiner Polarität. Wie beeinflusst dies seine einzigartigen Eigenschaften wie den hohen Siedepunkt und die Fähigkeit, viele Substanzen zu lösen?\n4. Untersuchen Sie kritisch die künstlerischen Techniken und stilistischen Entscheidungen, die Leonardo da Vinci in der 'Mona Lisa' verwendet hat. Wie spiegelt das Gemälde das kulturelle und philosophische Milieu der italienischen Renaissance wider?",
+            "Ändern Sie Ihre frühere Antwort, indem Sie eine Person erwähnen, die für jeden Punkt am relevantesten ist."
+        ]
+    },
+    {
+        "question_id": 133,
+        "turns": [
+            "Extrahieren Sie die folgenden Informationen aus den präsentierten Texten: Den Namen des Buches, den Autor, den Hauptcharakter, das Erscheinungsjahr. Ausgabe im Format \"Hauptcharakter, Buch, Autor, Erscheinungsjahr\", ein Buch pro Zeile.\na) In der Welt der Zauberliteratur ist das Werk von J.K. Rowling ein wahrer herausragender Vertreter. Eines ihrer Bücher, das einen unauslöschlichen Eindruck hinterlassen hat, ist 'Harry Potter und der Stein der Weisen'. Diese ikonische Geschichte, veröffentlicht im Jahr 1997, erzählt die Geschichte von Harry, einem jungen Waisenkind, das an seinem 11. Geburtstag seine magischen Fähigkeiten entdeckt. Bald findet er sich an der Hogwarts-Schule für Hexerei und Zauberei wieder, einem Ort voller Magie und Abenteuer, irgendwo in Schottland.\nb) In einer weit, weit entfernten Galaxie gibt uns die Vorstellungskraft von L.E. Starlighter 'Die Chroniken der Prisma-Galaxie: Das Erwachen des Sternenbeschwörers'. Veröffentlicht im Jahr 2028, handelt die Geschichte von Zylo, einem bescheidenen Raumschiffmechaniker, der unerwartet entdeckt, dass er ein Sternenbeschwörer ist - eine seltene Person mit der Fähigkeit, Sternenstaub zu manipulieren. Vor dem Hintergrund eines interstellarischen Imperiums, das in Aufruhr ist, entfaltet sich Zylos Schicksal auf zahlreichen fremden Welten, jede mit ihrem eigenen kosmischen Charme."
+        ]
+    },
+    {
+        "question_id": 134,
+        "turns": [
+            "Angesichts der folgenden Daten, identifizieren Sie das Unternehmen mit dem höchsten Gewinn im Jahr 2021 und geben Sie den Namen seines Geschäftsführers an:\na) Unternehmen X, mit CEO Amy Williams, berichtete 30 Milliarden Dollar Umsatz und 3 Milliarden Dollar Gewinn im Jahr 2021.\nb) Unternehmen Y, geleitet von CEO Mark Thompson, wies einen Umsatz von 60 Milliarden Dollar und einen Gewinn von 6 Milliarden Dollar im gleichen Jahr aus.\nc) Unternehmen Z, unter CEO Sarah Johnson, kündigte einen Umsatz von 20 Milliarden Dollar und einen Gewinn von 7 Milliarden Dollar im Jahr 2021 an.\nd) Unternehmen W, geleitet von CEO James Smith, enthüllte einen Umsatz von 300 Milliarden Dollar mit einem Gewinn von 21 Milliarden Dollar im Jahr 2021.\ne) Unternehmen V, mit CEO Lisa Brown, berichtete einen Umsatz von 200 Milliarden Dollar und einen Gewinn von 25 Milliarden Dollar im Jahr 2021.\nf) Unternehmen U, unter CEO John White, wies einen Umsatz von 180 Milliarden Dollar und einen Gewinn von 20 Milliarden Dollar im gleichen Jahr aus.",
+            "Welches Unternehmen hatte die höchste Gewinnmarge (Gewinn/Umsatz-Verhältnis)?"
+        ]
+    },
+    {
+        "question_id": 135,
+        "turns": [
+            "Bestimmen Sie die Länder, ihre Hauptstädte und die in den folgenden Sätzen gesprochenen Sprachen. Ausgabe im JSON-Format.\na) Mitten in den idyllischen Ausblicken fesselt Kopenhagen, die Hauptstadt Dänemarks, die Besucher mit seiner florierenden Kunstszene und der bezaubernden dänischen Sprache, die von seinen Bewohnern gesprochen wird.\nb) Innerhalb des bezaubernden Reiches Eldoria entdeckt man Avalore, eine großartige Stadt, die eine ätherische Aura ausstrahlt. Lumina, eine melodische Sprache, dient als Hauptkommunikationsmittel in dieser mystischen Wohnstätte.\nc) Eingebettet in eine harmonische Mischung aus alten Bräuchen und zeitgenössischen Wundern ist Buenos Aires, die Hauptstadt Argentiniens, eine pulsierende Metropole. Es ist ein lebendiger Knotenpunkt, in dem die ausdrucksstarke spanische Sprache das Sagen über die Einwohner der Stadt hat.",
+            "Entwickeln Sie 3 ähnliche Beispiele im YAML-Format."
+        ]
+    },
+    {
+        "question_id": 136,
+        "turns": [
+            "Bitte lesen Sie den folgenden Absatz und zählen Sie, wie oft die Wörter \"Amazon\", \"Fluss\" und \"Sie\" erscheinen. Bitte präsentieren Sie die Ergebnisse im Format \"Wort, Anzahl der Vorkommen\" mit jedem Wort auf einer separaten Zeile. Sortieren Sie die Zeilen nach der Anzahl der Vorkommen.\nDer Amazonas, eine faszinierende Ausdehnung der Wunder der Natur, ist die Heimat des legendären Amazonasflusses. Er fließt durch atemberaubende Landschaften wie den Amazonas-Regenwald, der Fluss bahnt seinen Weg durch Brasilien, Kolumbien und Peru und schenkt zahlreichen Kreaturen das Leben. Von den mächtigen Jaguaren, die im Amazonas-Dschungel streifen, bis zu den lebhaften Aras, die über das Blätterdach fliegen, wimmelt diese bemerkenswerte Region vor Biodiversität. Tief in den Strömungen des Flusses gleiten majestätische rosa Flussdelfine an Piranhas und elektrischen Aalen vorbei. Entlang der Ufer finden Sie pulsierende Städte wie Manaus, wo das Urbane auf das Wilde trifft, und Iquitos, ein Tor zum Herzen des Amazonas-Regenwaldes. Wenn Sie weiter vorstoßen, offenbart der Amazonasfluss verborgene Schätze wie den faszinierenden Archipel Anavilhanas, ein Mosaik von Inseln, das mit seltenen Arten erfüllt ist. Begeben Sie sich auf ein Abenteuer, erkunden Sie den bezaubernden Amazonasfluss und tauchen Sie ein in eine Welt voller Leben und ungezähmter Schönheit.",
+            "Bitte wiederholen Sie die gleiche Aufgabe mit den Wörtern 'der', 'und' und 'zu'."
+        ]
+    },
+    {
+        "question_id": 137,
+        "turns": [
+            "Identifizieren Sie die genannten Entitäten (Personen, Organisationen, Standorte), die im gegebenen Nachrichtenartikel erwähnt werden. Bitte erstellen Sie ein JSON-Wörterbuch, das die genannten Entitäten in drei getrennten Gruppen basierend auf ihren Entitätstypen auflistet. Der Schlüssel ist der Typ der Entität und der Wert ist eine Liste von Zeichenfolgen.\n\nGestern haben Adamson Emerson, der CEO von Faraday, und Dieter Zetsche, der CEO von Daimler AG, Pläne angekündigt, eine neue Gigafabrik in Berlin zu bauen. Die Anlage wird ein Joint Venture zwischen Faraday und Daimler sein und Elektrofahrzeuge sowie Batteriespeicher für beide Unternehmen produzieren, was Tausende von Arbeitsplätzen in der Region schaffen wird. Emerson und Zetsche erklärten, dass der strategische Standort Berlin, zusammen mit seiner qualifizierten Arbeitskräfte und der starken Infrastruktur, ihn zu einer idealen Wahl für die Expansion macht. Die neue Gigafabrik zielt darauf ab, die wachsende Nachfrage nach Elektrofahrzeugen in Europa zu erfüllen und zu einer nachhaltigen Zukunft beizutragen. Der Volkswagen-CEO Herbert Diess begrüßte die Nachricht und sagte, dass eine größere Zusammenarbeit dem Übergang der Automobilindustrie zur E-Mobilität zugutekommen wird.",
+            "Jetzt machen Sie das JSON-Objekt kürzer, indem Sie jeden Wert durch seinen ersten Buchstaben ersetzen. Bitte geben Sie alles in einer einzigen Zeile aus, ohne Einrückungen oder neue Zeilen."
+        ]
+    },
+    {
+        "question_id": 138,
+        "turns": [
+            "Analysieren Sie die folgenden Kundenbewertungen aus verschiedenen Quellen für drei verschiedene Smartphones - das neueste iPhone, Samsung Galaxy und Google Pixel - und geben Sie eine Gesamtnote für jedes Telefon auf einer Skala von 1 bis 10 an. Berücksichtigen Sie die folgenden komplexen und widersprüchlichen Bewertungen:\n- TechRadars Bewertung des neuesten iPhones: Das neue iPhone ist ein beeindruckender Triumph der Ingenieurskunst, der neue Maßstäbe für Smartphone-Leistung und Kameraqualität setzt. Allerdings bedeutet das inkrementelle Design und der hohe Preis, dass es den 'Wow'-Faktor früherer iPhones vermissen lässt. Dennoch sind seine Leistung und Intelligenz unvergleichlich.\n- CNETs Bewertung des neuesten Samsung Galaxy: Das Samsung Galaxy-Telefon hat viele Höhepunkte, einschließlich eines erstaunlichen Bildschirms, schneller Leistung, solider Akkulaufzeit und einer beeindruckenden Auswahl an Kameraoptionen. Das gesagt, bleibt Bixby enttäuschend, AR-Emojis fallen flach und das Gesamtdesign des Telefons hat sich nicht viel verändert. Das neue Galaxy ist insgesamt ein erstaunliches Telefon, hat aber einige nervige Schwächen, die es daran hindern, wahre Größe zu erreichen.\n- The Verges Bewertung des neuesten Google Pixel: Googles Pixel packt modernste Spezifikationen, innovative KI-gestützte Software und eine hervorragende Kamera in ein schlankes Design. Allerdings hat das Telefon eine schwache Akkulaufzeit, bietet keinen erweiterbaren Speicher und seine Leistung stockt manchmal, insbesondere in Anbetracht des hohen Preises. Wenn nahtlose Software, erstklassige Fotografie und Googles Marke der KI-Hilfe am wichtigsten sind, werden Sie das Pixel lieben. Aber das Gesamterlebnis ist nicht so ausgewogen wie bei einigen Mitbewerbern. Geben Sie die Antwort als JSON-Objekt mit den Gesamtnoten für jedes Telefon zu 10, auf eine Dezimalstelle, zurück.",
+            "Können Sie die Bewertungen von Zahlen in Buchstaben ändern? Die Großbuchstaben MÜSSEN verwendet werden, wenn die Namen der Telefonmarken geschrieben werden."
+        ]
+    },
+    {
+        "question_id": 139,
+        "turns": [
+            "Gegeben eine Menge komplexer Gleichungen, extrahiere alle einzigartigen Variablennamen aus jeder Gleichung. Gebe die Ergebnisse als JSON-String zurück, wobei für jede Gleichung eine Zeile vorgesehen ist.\n```\n1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)\n2) 2A - B/(3+C) * sum(N=1 bis 5; ln(N)^2) = 5D*integral(a=0 bis pi; cos(comb(N=1 bis 10; N*a)))\n3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))\n```",
+            "Bitte ordne die Gleichungen um und verwende 'a', 'b', 'c', 'd' usw. als Variablen."
+        ]
+    },
+    {
+        "question_id": 140,
+        "turns": [
+            "Über die folgenden Aufzeichnungen von Aktienkursen, extrahieren Sie die höchsten und niedrigsten Schlusskurse für jeden Monat im Jahr 2022. Geben Sie die Ergebnisse als CSV-Zeichenfolge zurück, wobei eine Zeile für jeden Monat vorgesehen ist.\nDatum,Eröffnung,Hoch,Tief,Schluss,Volumen\n2022-01-01,150,155,149,154,15678900\n2022-01-02,154,157,153,156,19874500\n2022-02-01,161,163,160,162,14326700\n2022-02-02,162,164,161,164,17689200\n2022-03-01,165,168,163,167,16253400\n2022-03-02,167,170,166,168,19568100",
+            "Führen Sie dieselbe Aufgabe erneut im JSON-Format aus und runden Sie alle Zahlen in Ihrer Antwort auf die nächste ganze Zahl."
+        ]
+    },
+    {
+        "question_id": 141,
+        "turns": [
+            "Was ist Superposition im Bereich der Quantenphysik und wie hängt es mit dem Phänomen der Quantenverschränkung zusammen?",
+            "Welche Annahmen haben Sie in Ihrer Antwort getroffen? Sind sie gültig?"
+        ]
+    },
+    {
+        "question_id": 142,
+        "turns": [
+            "Betrachten Sie einen Satelliten, der sich in einer kreisförmigen Umlaufbahn um die Erde befindet. Die Geschwindigkeit des Satelliten verringert sich. Was wird mit dem orbitalen Radius des Satelliten und der Umlaufzeit geschehen? Bitte begründen Sie Ihre Antwort anhand physikalischer Prinzipien.",
+            "Was sind einige Ausnahmen oder Grenzfälle in Ihrer Lösung? Wie gehen Sie damit um?"
+        ]
+    },
+    {
+        "question_id": 143,
+        "turns": [
+            "Die Photosynthese ist ein lebenswichtiger Prozess für das Leben auf der Erde. Könnten Sie die zwei Hauptphasen der Photosynthese umreißen, einschließlich wo sie innerhalb des Chloroplasten stattfinden und die wichtigsten Eingaben und Ausgaben für jede Phase?",
+            "Wie viel Energie kann ein Baum im Laufe seines Lebens durch Photosynthese erzeugen? Bitte geben Sie eine Schätzung mit tatsächlichen Zahlenwerten ab und erklären Sie Ihren Gedankengang Schritt für Schritt."
+        ]
+    },
+    {
+        "question_id": 144,
+        "turns": [
+            "Was ist das zentrale Dogma der Molekularbiologie? Welche Prozesse sind daran beteiligt? Wer hat das benannt?",
+            "Identifizieren und beheben Sie einen falschen Fakt in Ihrer vorherigen Antwort."
+        ]
+    },
+    {
+        "question_id": 145,
+        "turns": [
+            "Beschreiben Sie den Prozess und schreiben Sie die ausgeglichene chemische Gleichung für die Reaktion, die auftritt, wenn festes Calciumcarbonat mit Salzsäure reagiert, um wässriges Calciumchlorid, Kohlendioxid und Wasser zu bilden. Welche Art von Reaktion ist das, und welche Beobachtungen könnten darauf hindeuten, dass die Reaktion stattfindet?",
+            "Wie können wir diesen Prozess umkehren?"
+        ]
+    },
+    {
+        "question_id": 146,
+        "turns": [
+            "Bitte erklären Sie die Unterschiede zwischen exothermen und endothermen Reaktionen und nennen Sie die Kriterien, die Sie zur Unterscheidung verwendet haben. Bitte geben Sie außerdem ein Beispiel aus der realen Welt, um Ihre Erklärung zu veranschaulichen.",
+            "Kann ein Prozess beide Reaktionen umfassen? Nennen Sie eins."
+        ]
+    },
+    {
+        "question_id": 147,
+        "turns": [
+            "Die Stadt Vega plant den Bau einer Brücke, die den Vegona-Fluss überspannen wird und eine Entfernung von 1,8 Kilometern abdeckt. Der vorgeschlagene Standort liegt in einem seismisch aktiven Gebiet, das mehrere Erdbeben mit hoher Magnitude erlebt hat. Angesichts dieser Umstände, was wäre der beste Ansatz für den Bau der Brücke?",
+            "Was sind die wichtigsten Nachteile oder Mängel Ihrer Lösung? Bitte führen Sie Berechnungen durch und verwenden Sie Zahlen, um diese zu veranschaulichen."
+        ]
+    },
+    {
+        "question_id": 148,
+        "turns": [
+            "Sie wurden beauftragt, ein solarbetriebenes Wasserheizsystem für ein Wohngebäude zu entwerfen. Beschreiben Sie die wichtigsten Komponenten und Überlegungen, die Sie in Ihr Design einbeziehen würden. Entwerfen Sie einen fünfstufigen Arbeitsablauf.",
+            "Wenn das System für ein Gebäude mit einer Kapazität von 100 Personen vorgesehen ist, was wäre das geschätzte Budget für die Implementierung dieses Systems?"
+        ]
+    },
+    {
+        "question_id": 149,
+        "turns": [
+            "Bitte beschreiben Sie das Konzept des maschinellen Lernens. Können Sie die Unterschiede zwischen überwachten, unbeaufsichtigten und verstärkenden Lernen näher erläutern? Geben Sie reale Beispiele für jedes an.",
+            "Können wir in Ihrem letzten Beispiel des verstärkenden Lernens überwachtes Lernen anwenden, um es zu lösen?"
+        ]
+    },
+    {
+        "question_id": 150,
+        "turns": [
+            "Wie haben die Alpen und der Rhein die Besiedlung und Landwirtschaft in Westeuropa beeinflusst? Nennen Sie drei Auswirkungen.",
+            "Wie könnten Sie ein konkretes, aber einfaches Experiment entwerfen, um die erste Auswirkung zu validieren?"
+        ]
+    },
+    {
+        "question_id": 151,
+        "turns": [
+            "Geben Sie Einblicke in die Korrelation zwischen wirtschaftlichen Indikatoren wie BIP, Inflation und Arbeitslosenquoten. Erklären Sie, wie sich die Fiskal- und Geldpolitik auf diese Indikatoren auswirken.",
+            "Erkläre sie mir jetzt nochmal, als wäre ich fünf."
+        ]
+    },
+    {
+        "question_id": 152,
+        "turns": [
+            "Wie formen die Lebensphasen unser Verständnis von Zeit und Sterblichkeit?",
+            "Schreibe ein allegorisches Gedicht, das das Obige veranschaulicht."
+        ]
+    },
+    {
+        "question_id": 153,
+        "turns": [
+            "Diskutieren Sie die Antitrustgesetze und deren Auswirkungen auf den Wettbewerb im Markt. Vergleichen Sie die Antitrustgesetze in den USA und China sowie einige Fallstudien.",
+            "Wählen Sie eine Fallstudie aus und erklären Sie diese im Detail."
+        ]
+    },
+    {
+        "question_id": 154,
+        "turns": [
+            "Erstellen Sie einen Lehrplan, der Drama-, Pantomime- oder Theatertechniken in den Geschichtsunterricht integriert. Dauer: 3 Unterrichtsstunden (jeweils 45 Minuten) an 3 Tagen\nThema: Opiumkriege zwischen China und Großbritannien\nJahrgangsstufe: 9-10",
+            "Geben Sie mehr Details für Tag 1 an und fügen Sie drei Hausaufgabenfragen hinzu."
+        ]
+    },
+    {
+        "question_id": 155,
+        "turns": [
+            "Teilen Sie Ideen zur Anpassung von Kunstmeisterwerken in interaktive Erlebnisse für Kinder. Listen Sie 5 spezifische Kunstwerke und dazugehörige Ideen auf.",
+            "Schreiben Sie einen konkreten Plan für Ihr zweites Beispiel. Einschließlich Kostenschätzungen."
+        ]
+    },
+    {
+        "question_id": 156,
+        "turns": [
+            "Erkläre, was der Basisratenfehler ist, und liste fünf spezifische Beispiele dafür auf, wie Politiker ihn für Wahlkämpfe nutzen.",
+            "Gib einen detaillierten Plan für einen Wahlkampf unter Verwendung des ersten Beispiels an."
+        ]
+    },
+    {
+        "question_id": 157,
+        "turns": [
+            "Beschreiben Sie fünf Schlüsselprinzipien zur Bewertung eines Arguments im analytischen Schreiben.",
+            "Mit den aufgeführten Prinzipien schreiben Sie eine Antwort, in der Sie erörtern, welche spezifischen Beweise benötigt werden, um das Argument zu bewerten, und erklären, wie die Beweise das Argument schwächen oder stärken würden.\n\n===\n\nDas Folgende ist ein Memorandum des Werbeleiters von Zorblatt Animal Outlets, einer Kette, die weltweit dreißig Tierläden betreibt.\n\n\"Vor einem halben Jahrzehnt begann unser Rivale Aquatic Pavilion, im Rare Pets Digest-Magazin Werbung zu machen. Ihre Gesamtverkäufe sind seitdem kontinuierlich um 3 bis 5 Prozent pro Jahr gewachsen. Insbesondere der Aquatic Pavilion-Laden in Harbor Town verzeichnete ein noch bedeutenderes Wachstum und sicherte sich im vergangenen Jahr den Titel des am häufigsten besuchten Tiergeschäfts in den Vereinigten Staaten. Im Gegensatz dazu haben unsere beiden Zorblatt-Läden in Harbor Town in derselben Zeit einen stetigen Rückgang der Verkäufe verzeichnet. Es ist offensichtlich, dass wir umgehend damit beginnen müssen, unsere eigenen Anzeigen im Rare Pets Digest und anderen beliebten Tierzeitschriften zu schalten. Wenn wir diesen Schritt unternehmen, können wir zuversichtlich eine Umkehrung des aktuellen Trends sinkender Verkäufe und eine Rückkehr zur Rentabilität erwarten.\""
+        ]
+    },
+    {
+        "question_id": 158,
+        "turns": [
+            "Welche Methoden verwendete Sokrates, um die vorherrschenden Gedanken seiner Zeit in Frage zu stellen?",
+            "Lass uns Sokrates in die moderne Welt bringen. Erzeuge ein Gespräch zwischen Sokrates und Bill Gates, um über generative KI für Bildung zu debattieren."
+        ]
+    },
+    {
+        "question_id": 159,
+        "turns": [
+            "Was sind einige Normen der Geschäftsetikette, wenn man in Japan Geschäfte macht?",
+            "Erstelle ein Videoskript zur Schulung neuer Mitarbeiter eines Autowaschunternehmens in Japan. Hebe die oben genannten Etikettennormen hervor."
+        ]
+    },
+    {
+        "question_id": 160,
+        "turns": [
+            "Schlagen Sie fünf preisgekrönte Dokumentarfilme mit kurzen Hintergrundbeschreibungen vor, die angehende Filmemacher studieren können.",
+            "Erschaffen Sie mit dem Geist des ersten Films einen prägnanten und überzeugenden Pitch für einen Film über das Überwinden von Schwierigkeiten."
+        ]
+    }
+]
