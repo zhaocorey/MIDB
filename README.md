@@ -7,10 +7,10 @@
 # MIDB (Multilingual Instruction Data Booster): An effective method for enhancing multilingual instruction datasets
 
 ## Introduction
-If you're working with a low-resource instruction dataset and facing issues like the following, consider trying out our method, MIDB:
-1. ✨ **Instructions problem inherited** from high-resource datasets that may not fully align with your target language or context.
+If you're working with an instruction dataset in low-resource languages and facing issues like the following, consider trying out MIDB, our automatic data booster:
+1. ✨ **Instructions problem inherited** from high-resource datasets such as logic inconsistency, hallucinations, factual errors and inappropriate expressions.
 2. ✨ **Problems introduced during the translation process**, such as inaccuracies or loss of meaning.
-3. ✨ **Localization challenges**, where the dataset needs to be tailored to specific cultural or regional nuances.
+3. ✨ **Localization challenges**, where the instrutions and responses need to be tailored to specific cultural or regional nuances.
 
 MIDB can help address these common issues and significantly improve the quality of your multilingual instruction data.
 
@@ -35,8 +35,8 @@ MIDB can help address these common issues and significantly improve the quality 
 | Thai        | TH   | Southeast Asia               | Low Resource      |
 | Vietnamese  | VI   | Southeast Asia               | Low Resource      |
 | Malay       | MS   | Southeast Asia               | Low Resource      |
-2. Open-source MEB (Multilingual Expert Boosted) dataset for further studies.
-3. Open-source multilingual instruction evaluation dataset, including MT-bench and AlpacaEval.
+2. Open-source MIDB training dataset for further studies.
+3. Open-source two multilingual instruction evaluation datasets, MT-bench (16 languages) and AlpacaEval (16 languages).
 4. Training & Inference data sample template can be referred to below:
 <p align="center">
     <img src="assets/MEB_dataset_template_page-0001.jpg" width="400"/>
