@@ -35,7 +35,7 @@ MIDB can help address these common issues and significantly improve the quality 
 | Thai        | TH   | Southeast Asia               | Low Resource      |
 | Vietnamese  | VI   | Southeast Asia               | Low Resource      |
 | Malay       | MS   | Southeast Asia               | Low Resource      |
-2. Open-source MIDB training dataset for further studies.
+2. Open-source MIDB training dataset (16 languages) for further studies.
 3. Open-source two multilingual instruction evaluation datasets, MT-bench (16 languages) and AlpacaEval (16 languages).
 4. Training & Inference data sample template can be referred to below:
 <p align="center">
@@ -46,8 +46,10 @@ MIDB can help address these common issues and significantly improve the quality 
 <p align="center">
     <img src="assets/MIDB_architecture_a.png" width="400"/>
 <p>
+    
+Training code inherited from LLaMA-Factory.
 
-**training configuration**
+**Training Configuration**
 ```
 ### model
 model_name_or_path: meta-llama/Llama-3.1-8B
