@@ -17,26 +17,26 @@ MIDB can help address these common issues and significantly improve the quality 
 ## Basic Information
 1. Supporting 16 languages
    
-| Language    | Code | Geographical Groupings       | Popularity Level  |
-|-------------|------|------------------------------|-------------------|
-| Italian     | IT   | Southern Europe              | High Resource     |
-| Spanish     | ES   | Southern Europe              | High Resource     |
-| French      | FR   | Western Europe               | High Resource     |
-| German      | DE   | Central Europe               | High Resource     |
-| Russian     | RU   | EENA                         | High Resource     |
-| Arabic      | AR   | MENA                         | Medium Resource   |
-| Turkish     | TR   | EENA                         | Medium Resource   |
-| Japanese    | JA   | East Asia                    | Medium Resource   |
-| Korean      | KO   | East Asia                    | Medium Resource   |
-| Portuguese  | PT   | Southern Europe              | Medium Resource   |
-| Czech       | CS   | Central Europe               | Low Resource      |
-| Greek       | EL   | Southern Europe              | Low Resource      |
-| Indonesian  | ID   | Southeast Asia               | Low Resource      |
-| Thai        | TH   | Southeast Asia               | Low Resource      |
-| Vietnamese  | VI   | Southeast Asia               | Low Resource      |
-| Malay       | MS   | Southeast Asia               | Low Resource      |
-2. Open-source MIDB training dataset (16 languages) for further studies.
-3. Open-source two multilingual instruction evaluation datasets, MT-bench (16 languages) and AlpacaEval (16 languages).
+| Language    | Code | Geographical Groupings       |
+|-------------|------|------------------------------|
+| Italian     | IT   | Southern Europe              |
+| Spanish     | ES   | Southern Europe              |
+| French      | FR   | Western Europe               |
+| German      | DE   | Central Europe               |
+| Russian     | RU   | EENA                         |
+| Arabic      | AR   | MENA                         |
+| Turkish     | TR   | EENA                         |
+| Japanese    | JA   | East Asia                    |
+| Korean      | KO   | East Asia                    |
+| Portuguese  | PT   | Southern Europe              |
+| Czech       | CS   | Central Europe               |
+| Greek       | EL   | Southern Europe              |
+| Indonesian  | ID   | Southeast Asia               |
+| Thai        | TH   | Southeast Asia               |
+| Vietnamese  | VI   | Southeast Asia               |
+| Malay       | MS   | Southeast Asia               |
+2. Open-source MT (machine-translated) versions of MIDB training dataset (16 languages) for further studies.
+3. Open-source MT versions of two multilingual instruction evaluation datasets, MT-bench (16 languages) and AlpacaEval (16 languages).
 4. Training & Inference data sample template can be referred to below:
 <p align="center">
     <img src="assets/MEB_dataset_template_page-0001.jpg" width="400"/>
